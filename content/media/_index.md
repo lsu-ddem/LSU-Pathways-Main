@@ -13,7 +13,7 @@ design:
   
 ---
 <center>
-<a href="#Highlights"><button style="background-color:#fdd023; border-color: #fdd023" > Pathways High School Highlights </button></a> <a href="#More"><button style="background-color:#fdd023; border-color: #fdd023" > More About Each High School Program </button></a> <a href="#inDepth"><button style="background-color:#fdd023; border-color: #fdd023" > An In-Depth Look at Classes </button></a>
+<a href="#Highlights"><button style="background-color:#fdd023; border-color: #fdd023" > Pathways High School Highlights </button></a> <a href="#More"><button style="background-color:#fdd023; border-color: #fdd023" > More About Each High School Program </button></a> <a href="#Classes"><button style="background-color:#fdd023; border-color: #fdd023" > An In-Depth Look at Classes </button></a>
 <br>
 <br>
 
@@ -50,14 +50,14 @@ design:
 </a>
 <br>
 <br>
-<a id ="inDepth">
+<a id ="Classes">
 <br>
 
 ## **An In-Depth Look at Pathways Classes**
 <br>
-<a href="#PreEng"><button style="background-color:#fdd023; border-color: #fdd023" > Pre-Engineering </button></a> <a href="#DDEM"><button style="background-color:#fdd023; border-color: #fdd023" > Digital Design and Emergent Media </button></a> <a href="#Comp"><button style="background-color:#fdd023; border-color: #fdd023" > Computing </button></a>
+<a href="#PreEngineering"><button style="background-color:#fdd023; border-color: #fdd023" > Pre-Engineering </button></a> <a href="#DDEM"><button style="background-color:#fdd023; border-color: #fdd023" > Digital Design and Emergent Media </button></a> <a href="#Computing"><button style="background-color:#fdd023; border-color: #fdd023" > Computing </button></a>
 <br>
-<a id = "PreEng">
+<a id = "PreEngineering">
 <br>
 
 ## *Pre-Engineering*
@@ -77,7 +77,7 @@ design:
 </a>
 <br>
 <br>
-<a id = "Comp">
+<a id = "Computing">
 <br>
 
 ## *Computing*
