@@ -13,11 +13,20 @@ design:
   
 ---
 <center>
-<a href="#jumpstart"><button> Louisiana Jump Start </button></a><a href="#highlights"><button> High School Highlights </button></a><a href="#more"><button> More About Each High School Program </button></a><a href="#classes"><button> An In-Depth Look at Classes </button> </a>
+
+
+*New and Media Quick Links:*
+<br>
+<a href="#jumpstart"><button style="border:none;"> Louisiana Jump Start </button></a> <a href="#highlights"><button style="border:none;"> High School Highlights </button></a> <a href="#more"><button style="border:none;"> More About Each High School Program </button></a> <a href="#classes"><button style="border:none;"> An In-Depth Look at Classes </button> </a>
 <br>
 <br>
 
+----
+
+<br>
+
 ## **Why LSU Pathways?**
+
 ## *Pathways in the News*
 
 <br>
@@ -38,7 +47,7 @@ design:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yluym2wWOk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-<a href="https://www.louisianabelieves.com/courses/all-things-jump-start" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read More About Jump Start </button></a> 
+<a href="https://www.louisianabelieves.com/courses/all-things-jump-start" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Jump Start on Louisianabelieves.com </button></a> 
 </a>
 <br>
 <br>
@@ -83,11 +92,13 @@ design:
 <a id ="classes">
 <br>
 <center>
-<a href="#engineering"><button> Pre-Engineering </button></a><a href="#ddem"><button> Digital Design and Emergent Media </button></a><a href="#computing"><button> Computing </button></a>
-<br>
-<br>
 
 ## **An In-Depth Look at Pathways Classes**
+
+<br>
+
+<a href="#engineering"><button style="border:none;"> Pre-Engineering </button></a> <a href="#ddem"><button style="border:none;"> Digital Design and Emergent Media </button></a> <a href="#computing"><button style="border:none;"> Computing </button></a>
+<br>
 
 <a id = "engineering">
 <br>
