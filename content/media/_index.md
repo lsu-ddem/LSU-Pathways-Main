@@ -27,6 +27,9 @@ design:
 <a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Pathways in the Baton Rouge Advocate </button></a> 
 <br>
 <br>
+
+---- 
+
 <a id = "jumpstart">
 <br>
 
@@ -39,10 +42,17 @@ design:
 </a>
 <br>
 <br>
+</center>
+
+----
+
 <a id="highlights">
 <br>
 
+<center> 
+
 ## **Pathways High School Highlights**
+</center>
 <br>
 <!-- 
 <a href="https://www.youtube.com/embed/_LHGthlOxqQ" title="Robotics Revolution" target="_blank"> <img alt="Robotics Revolution" src="Sci News.png" width="500" height="450"></a><a href="https://www.youtube.com/embed/LN2G067je-s" title="ZoomGolberg Machine" target="_blank"><img alt="ZoomGolberg Machine" src="Zoom RG.png" width="500" height="450"> </a> -->
@@ -53,26 +63,40 @@ design:
 
 <br>
 <br>
+
+----
+
 <a id="more">
 <br>
+<center>
 
 ## **More About Each High School Pathway Program**
+</center>
 <br>
  <iframe width="450" height="250" src="https://www.youtube.com/embed/JyZOFH_eDbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/otu6FKMVNbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/BQMZ_lofXTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </a>
 <br>
 <br>
+
+----
+
 <a id ="classes">
 <br>
+<center>
 
 ## **An In-Depth Look at Pathways Classes**
+
 <br>
 <a href="#engineering"><button>Pre-Engineering </button></a> <a href="#ddem"><button> Digital Design and Emergent Media </button></a> <a href="#computing"><button> Computing </button></a>
+</center>
+<br>
 <br>
 <a id = "engineering">
-<br>
+
+<center>
 
 ## *Pre-Engineering*
+</center>
 <br>
 
 <iframe width="450" height="250" src="https://www.youtube.com/embed/DNno0EziCeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/h05D7Pm_dKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/aPbgjl-0wzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/bunyCTVzyrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/W2PI-n5rQcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
@@ -82,21 +106,26 @@ design:
 
 <a id = "ddem">
 <br>
+<center>
 
 ## *Digital Design and Emergent Media*
+</center>
 <br>
 <iframe width="450" height="250" src="https://www.youtube.com/embed/T-h-VlgoOXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/UnBBPTA2dZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/prdOz4U7D1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </a>
 <br>
 <br>
+
 <a id = "computing">
 <br>
+<center>
 
 ## *Computing*
+</center>
 <br>
 <iframe width="450" height="250" src="https://www.youtube.com/embed/OdqvRn-q_kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/rD-0Cb78AXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/iq95FDbv628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </a>
-</center>
+
 
 
 
