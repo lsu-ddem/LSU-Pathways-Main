@@ -142,12 +142,4 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 <!-- 
 ![LSU Pathways Details](About%201.png) -->
 
-<!-- <br>
 
-## LSU Pathways in the news:
-
-{{< video src="LPB-Rethinking-Education.mp4" controls="yes" >}}
-
-<br>
-
-<a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Pathways in the Baton Rouge Advocate </button></a>  -->

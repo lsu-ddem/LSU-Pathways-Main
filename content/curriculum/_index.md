@@ -3,6 +3,8 @@ widget: blank
 headless: true
 header:
   image: "header.jpg"
+
+  active: false
 # ... Put Your Section Options Here (title etc.) ...
 # title: LSU Pathways Classes
 # subtitle:

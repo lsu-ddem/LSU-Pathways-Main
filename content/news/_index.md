@@ -15,7 +15,7 @@ design:
 <center>
 
 
-*New and Media Quick Links:*
+News and Media Quick Links:
 <br>
 <a href="#jumpstart"><button style="border:none;"> Louisiana Jump Start </button></a> <a href="#highlights"><button style="border:none;"> High School Highlights </button></a> <a href="#more"><button style="border:none;"> More About Each High School Program </button></a> <a href="#classes"><button style="border:none;"> An In-Depth Look at Classes </button> </a>
 <br>
@@ -63,9 +63,6 @@ design:
 ## **Pathways High School Highlights**
 </center>
 <br>
-<!-- 
-<a href="https://www.youtube.com/embed/_LHGthlOxqQ" title="Robotics Revolution" target="_blank"> <img alt="Robotics Revolution" src="Sci News.png" width="500" height="450"></a><a href="https://www.youtube.com/embed/LN2G067je-s" title="ZoomGolberg Machine" target="_blank"><img alt="ZoomGolberg Machine" src="Zoom RG.png" width="500" height="450"> </a> -->
-
 
 <iframe width="450" height="250" src="https://www.youtube.com/embed/_LHGthlOxqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/LN2G067je-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/RgDsBjt9mYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/7z1R_pSNKCk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 		</a>

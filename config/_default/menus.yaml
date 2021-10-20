@@ -11,7 +11,7 @@ main:
     url: 'about/'
     weight: 20
   - name: News and Media
-    url: 'media/'
+    url: 'news/'
     weight: 35  
   - name: Get Involved
     url: 'getinvolved/'
