@@ -36,10 +36,12 @@ header:
 
 ## LSU Pathways for high school is a robust curriulum designed for in-depth study of one of four available STEM pathways. Students can choose to study biomedical sciences, computing, digital design and emergent media, or pre-engineering.
 <br>
+<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer</button></a> <a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer</button></a> <a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Flyer </button></a> 
+<br><br>
 
 *Click on a dropdown below for more details and syllabi for each pathway.*
 
-<br>
+
 
 {{< spoiler text="Biomedical Sciences" >}}
    #### Core Courses:
