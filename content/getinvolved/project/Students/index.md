@@ -36,7 +36,7 @@ weight: 10
 <br></br>
 <a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering for High School </button></a> 
 <br></br>
-<a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to High School Syllabi Page </button></a> 
+<a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to High School Curriculum Page </button></a> 
 <br></br>
 
 ----
@@ -46,7 +46,7 @@ weight: 10
 
 <a href="MiddleSchoolStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort </button></a> 
 <br><br>
-<a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to Middle School Syllabi Page </button></a> <br></br>
+<a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to Middle School Curriculum Page </button></a> <br></br>
 
 
 
