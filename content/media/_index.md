@@ -83,17 +83,14 @@ design:
 <a id ="classes">
 <br>
 <center>
+<a href="#engineering"><button> Pre-Engineering </button></a><a href="#ddem"><button> Digital Design and Emergent Media </button></a><a href="#computing"><button> Computing </button></a>
+<br>
+<br>
 
 ## **An In-Depth Look at Pathways Classes**
 
-<br>
-<a href="#engineering"><button> Pre-Engineering </button></a><a href="#ddem"><button> Digital Design and Emergent Media </button></a><a href="#computing"><button> Computing </button></a>
-</center>
-
-<br>
 <a id = "engineering">
 <br>
-<center>
 
 ## *Pre-Engineering*
 </center>
