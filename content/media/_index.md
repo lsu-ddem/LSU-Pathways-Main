@@ -89,10 +89,10 @@ design:
 <br>
 <a href="#engineering"><button>Pre-Engineering </button></a> <a href="#ddem"><button> Digital Design and Emergent Media </button></a> <a href="#computing"><button> Computing </button></a>
 </center>
-<br>
+
 <br>
 <a id = "engineering">
-
+<br>
 <center>
 
 ## *Pre-Engineering*
