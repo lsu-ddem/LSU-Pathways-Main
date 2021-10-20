@@ -13,7 +13,7 @@ design:
   
 ---
 <center>
-<a href="#jumpstart"><button> Louisiana Jump Start</button></a> <a href="#highlights"> <button>High School Highlights</button></a> <a href="#more"> <button> More About Each High School Program</button></a> <a href="#classes"> <button>An In-Depth Look at Classes </button> </a>
+<a href="#jumpstart"><button> Louisiana Jump Start </button></a><a href="#highlights"><button> High School Highlights </button></a><a href="#more"><button> More About Each High School Program </button></a><a href="#classes"><button> An In-Depth Look at Classes </button> </a>
 <br>
 <br>
 
@@ -87,7 +87,7 @@ design:
 ## **An In-Depth Look at Pathways Classes**
 
 <br>
-<a href="#engineering"><button>Pre-Engineering </button></a> <a href="#ddem"><button> Digital Design and Emergent Media </button></a> <a href="#computing"><button> Computing </button></a>
+<a href="#engineering"><button> Pre-Engineering </button></a><a href="#ddem"><button> Digital Design and Emergent Media </button></a><a href="#computing"><button> Computing </button></a>
 </center>
 
 <br>
