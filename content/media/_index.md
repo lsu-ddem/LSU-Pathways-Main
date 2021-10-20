@@ -13,21 +13,33 @@ design:
   
 ---
 <center>
-<a href="#Highlights"><button style="background-color:#fdd023; border-color: #fdd023" > Pathways High School Highlights </button></a> <a href="#More"><button style="background-color:#fdd023; border-color: #fdd023" > More About Each High School Program </button></a> <a href="#Classes"><button style="background-color:#fdd023; border-color: #fdd023" > An In-Depth Look at Classes </button></a>
+<a href="#jumpstart"><button> Louisiana Jump Start</button></a> <a href="#highlights"> <button>High School Highlights</button></a> <a href="#more"> <button> More About Each High School Program</button></a> <a href="#classes"> <button>An In-Depth Look at Classes </button> </a>
 <br>
 <br>
 
 ## **Why LSU Pathways?**
 ## *Pathways in the News*
+
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PGGFH_2nUsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PGGFH_2nUsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br>
 <br>
 <a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Pathways in the Baton Rouge Advocate </button></a> 
+<br>
+<br>
+<a id = "jumpstart">
+<br>
 
+## **Louisiana Jump Start Program**
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yluym2wWOk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-<a id="Highlights">
+<a href="https://www.louisianabelieves.com/courses/all-things-jump-start" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read More About Jump Start </button></a> 
+</a>
+<br>
+<br>
+<a id="highlights">
 <br>
 
 ## **Pathways High School Highlights**
@@ -41,7 +53,7 @@ design:
 
 <br>
 <br>
-<a id="More">
+<a id="more">
 <br>
 
 ## **More About Each High School Pathway Program**
@@ -50,14 +62,14 @@ design:
 </a>
 <br>
 <br>
-<a id ="Classes">
+<a id ="classes">
 <br>
 
 ## **An In-Depth Look at Pathways Classes**
 <br>
-<a href="#PreEngineering"><button style="background-color:#fdd023; border-color: #fdd023" > Pre-Engineering </button></a> <a href="#DDEM"><button style="background-color:#fdd023; border-color: #fdd023" > Digital Design and Emergent Media </button></a> <a href="#Computing"><button style="background-color:#fdd023; border-color: #fdd023" > Computing </button></a>
+<a href="#engineering"><button>Pre-Engineering </button></a> <a href="#ddem"><button> Digital Design and Emergent Media </button></a> <a href="#computing"><button> Computing </button></a>
 <br>
-<a id = "PreEngineering">
+<a id = "engineering">
 <br>
 
 ## *Pre-Engineering*
@@ -68,7 +80,7 @@ design:
 <br>
 <br>
 
-<a id = "DDEM">
+<a id = "ddem">
 <br>
 
 ## *Digital Design and Emergent Media*
@@ -77,7 +89,7 @@ design:
 </a>
 <br>
 <br>
-<a id = "Computing">
+<a id = "computing">
 <br>
 
 ## *Computing*
