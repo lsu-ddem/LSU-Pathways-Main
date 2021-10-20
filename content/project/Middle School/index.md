@@ -45,6 +45,6 @@ By the end of this course, the successful student will be able to:
 
 
 <br>
-<a href="MiddleSchoolCohortAdministrationFlyer_updatedMarch15.pdf" target="_blank"> <button style= "background-color:#fdd023; border-color: #fdd023"> Middle School Pathways Introduction </button></a>
+<a href="MiddleSchoolCohortAdministrationFlyer_updatedMarch15.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Pathways Introduction </button></a>
 <br></br>
-<a href="Syllabus_Survey-of-Computing.pdf" target="_blank"> <button style= "background-color:#fdd023; border-color: #fdd023"> Survey of Computing for Middle School Syllabus </button></a>
+<a href="Syllabus_Survey-of-Computing.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computing for Middle School Syllabus </button></a>

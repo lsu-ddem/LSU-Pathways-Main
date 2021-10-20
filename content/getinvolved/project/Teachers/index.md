@@ -35,22 +35,22 @@ weight: 20
 ## LSU Pathways trains teachers in rigorous STEM curriculum pedagogy. Click a link below to learn more. 
 <br>
 
-<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> High School Pathways Invitation </button></a> 
+<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School Pathways Invitation </button></a> 
 <br></br>
 
 ----
 ## Learn more about teaching with each program.
 <br>
 
-<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing for High School </button></a> 
+<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing for High School </button></a> 
 <br></br>
-<a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media for High School  </button></a> 
+<a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media for High School  </button></a> 
 <br></br>
-<a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering for High School </button></a> 
+<a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering for High School </button></a> 
 <br></br>
-<a href="MiddleSchoolTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School STEM Cohort  </button></a> 
+<a href="MiddleSchoolTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort  </button></a> 
 <br></br>
-<a href="Elementary School Cohort Brochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border-color: #fdd023"> Elementary School Pathways </button></a>
+<a href="Elementary School Cohort Brochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways </button></a>
 
 <br>
 

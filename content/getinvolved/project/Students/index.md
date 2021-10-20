@@ -20,9 +20,9 @@ weight: 10
 ## LSU Pathways helps students learn engaging and marketable skills in STEM subjects. To learn more, click on a link below. 
 <br>
 
-<a href="PathwayChart.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways STEM Courses </button></a> 
+<a href="PathwayChart.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pathways STEM Courses </button></a> 
 <br></br>
-<a href="CourseDescriptions2020March_24.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> In-Depth High School Course Descriptions </button></a> 
+<a href="CourseDescriptions2020March_24.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> In-Depth High School Course Descriptions </button></a> 
 <br></br>
 
 ----
@@ -30,13 +30,13 @@ weight: 10
 ## Learn more about each STEM pathway.
 <br>
 
-<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing for High School </button></a> 
+<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing for High School </button></a> 
 <br></br>
-<a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media for High School </button></a> 
+<a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media for High School </button></a> 
 <br></br>
-<a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering for High School </button></a> 
+<a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering for High School </button></a> 
 <br></br>
-<a href="MiddleSchoolStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School STEM Cohort </button></a> 
+<a href="MiddleSchoolStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort </button></a> 
 <br></br>
 
 ----
@@ -44,7 +44,7 @@ weight: 10
 
 ## Learn more about Pathways for High School. View curriculum and syllabi.
 <br>
-<a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways for High School </button></a> 
+<a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pathways for High School </button></a> 
 <br></br>
 
 ----
@@ -52,7 +52,7 @@ weight: 10
 ## Learn more about Pathways for Middle School and the Introduction to STEM Pathways program.
 <br>
 
-<a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways for Middle School </button></a> <br></br>
+<a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pathways for Middle School </button></a> <br></br>
 
 
 

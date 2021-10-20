@@ -17,24 +17,24 @@ weight: 25
 
 ## Interested in having your school become a Pathways affiliate? Click on a link below to learn more.
 <br>
-<a href="Middle%20School%202021%20LSU%20Pathways%20Invitation.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School Invitation </button></a>
+<a href="Middle%20School%202021%20LSU%20Pathways%20Invitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Invitation </button></a>
 <br></br>
-<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> High School Invitation </button></a> 
+<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School Invitation </button></a> 
 <br></br>
-<a href="LSU%202021-22%20Pathway%20MOU.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Join STEM Pathways </button></a> 
+<a href="LSU%202021-22%20Pathway%20MOU.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Join STEM Pathways </button></a> 
 <br></br>
 
 ---- 
 
 ## Learn more about each program.
 <br>
-<a href="GeneralCounselorFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing for High School  </button></a> 
+<a href="GeneralCounselorFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing for High School  </button></a> 
 <br></br>
-<a href="DDEMAdministratorsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media for High School </button></a> 
+<a href="DDEMAdministratorsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media for High School </button></a> 
 <br></br>
-<a href="Pre-EngineeringAdministrationFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering for High School </button></a> 
+<a href="Pre-EngineeringAdministrationFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering for High School </button></a> 
 <br></br>
-<a href="MiddleSchoolAdmin.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School STEM Cohort </button></a> 
+<a href="MiddleSchoolAdmin.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort </button></a> 
 <br></br>
 
 ---- 

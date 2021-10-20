@@ -136,7 +136,7 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 <br>
 
-<a href="STEM%20Pathways.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> LSU Pathways Pamphlet </button></a> 
+<a href="STEM%20Pathways.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Pamphlet </button></a> 
 
 
 <!-- 

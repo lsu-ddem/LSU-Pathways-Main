@@ -78,6 +78,6 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <br>
 
 <!-- make a better link button -->
- <a href="getinvolved/"><button style= "background-color:#fdd023; border-color: #fdd023"> Learn More Here  </button></a> 
+ <a href="getinvolved/"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Learn More Here  </button></a> 
  
 </center>

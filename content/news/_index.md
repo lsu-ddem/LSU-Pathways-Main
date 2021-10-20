@@ -17,7 +17,7 @@ design:
 
 News and Media Quick Links:
 <br>
-<a href="#jumpstart"><button style="border:none;"> Louisiana Jump Start </button></a> <a href="#highlights"><button style="border:none;"> High School Highlights </button></a> <a href="#more"><button style="border:none;"> More About Each High School Program </button></a> <a href="#classes"><button style="border:none;"> An In-Depth Look at Classes </button> </a>
+<a href="#jumpstart"><button style="border:none;border-radius: 5px; padding: 5px"> Louisiana Jump Start </button></a> <a href="#highlights"><button style="border:none;border-radius: 5px;padding: 5px"> High School Highlights </button></a> <a href="#more"><button style="border:none;border-radius: 5px;padding: 5px"> More About Each High School Program </button></a> <a href="#classes"><button style="border:none;border-radius: 5px;padding: 5px"> An In-Depth Look at Classes </button> </a>
 <br>
 <br>
 
@@ -33,7 +33,7 @@ News and Media Quick Links:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PGGFH_2nUsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br>
 <br>
-<a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Pathways in the Baton Rouge Advocate </button></a> 
+<a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Read About Pathways in the Baton Rouge Advocate </button></a> 
 <br>
 <br>
 
@@ -47,7 +47,7 @@ News and Media Quick Links:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yluym2wWOk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-<a href="https://www.louisianabelieves.com/courses/all-things-jump-start" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Jump Start on Louisianabelieves.com </button></a> 
+<a href="https://www.louisianabelieves.com/courses/all-things-jump-start" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Read About Jump Start on Louisianabelieves.com </button></a> 
 </a>
 <br>
 <br>
@@ -94,7 +94,7 @@ News and Media Quick Links:
 
 <br>
 
-<a href="#engineering"><button style="border:none;"> Pre-Engineering </button></a> <a href="#ddem"><button style="border:none;"> Digital Design and Emergent Media </button></a> <a href="#computing"><button style="border:none;"> Computing </button></a>
+<a href="#engineering"><button style="border:none;border-radius: 5px; padding: 5px"> Pre-Engineering </button></a> <a href="#ddem"><button style="border:none;border-radius: 5px; padding: 5px"> Digital Design and Emergent Media </button></a> <a href="#computing"><button style="border:none;border-radius: 5px; padding: 5px"> Computing </button></a>
 <br>
 
 <a id = "engineering">
