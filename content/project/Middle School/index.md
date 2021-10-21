@@ -53,9 +53,7 @@ This year long project-based course explores four main pathways of STEM educatio
 
 <br>
 
-<a href="MiddleSchoolCohortAdministrationFlyer_updatedMarch15.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Introduction to STEM Pathways Flyer</button></a>
 
-<br>
 </a>
 
 ------
@@ -94,6 +92,9 @@ unit quizzes. Summative assessment includes projects and/or tests at the end of 
 
 <br>
 
-<a href="Syllabus_Survey-of-Computing.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Syllabus </button></a>
-<br>
+<a href="../../syllabi/MSComputingSyllabus.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Syllabus </button></a>
+<a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort Flyer</button></a>
 </a>
+<br>
+
+

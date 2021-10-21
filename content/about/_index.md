@@ -119,7 +119,7 @@ LSU STEM Pathways provides high school students with the opportunity to enroll i
 
 {{< /spoiler >}}
 
-![LSU Pathways Map](About%202.png)
+![LSU Pathways Map](about.png)
 <!-- Lee needs to be changed to Liberty here -->
 
 
@@ -136,10 +136,9 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 <br>
 
-<a href="STEM%20Pathways.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Pamphlet </button></a> 
+<a href="../../brochures/STEMPathwaysPamphlet.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Pamphlet </button></a> 
 
 
-<!-- 
-![LSU Pathways Details](About%201.png) -->
+
 
 

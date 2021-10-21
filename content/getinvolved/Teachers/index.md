@@ -35,18 +35,22 @@ weight: 20
 ## LSU Pathways trains teachers in rigorous STEM curriculum pedagogy. Click a link below to learn more. 
 <br>
 
-<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School Pathways Invitation </button></a> 
+<a href="../../brochures/HighSchoolInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School Invitation </button></a> 
 <br><br>
+<a href="../../brochures/MiddleSchoolInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Invitation </button></a>
+<br></br>
+<a href="../../brochures/2021MOU.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Ready to Join STEM Pathways? </button></a> 
+<br></br>
 
 ----
 ## Learn more about teaching with each high school pathway.
 <br>
 
-<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer </button></a> 
+<a href="../../brochures/ComputingTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer </button></a> 
 <br><br>
-<a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer  </button></a> 
+<a href="../../brochures/DDEMTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer  </button></a> 
 <br><br>
-<a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Flyer </button></a> 
+<a href="../../brochures/PreEngineeringTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Flyer </button></a> 
 <br><br>
 <a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to High School Curriculum Page </button></a> 
 <br></br>
@@ -56,7 +60,7 @@ weight: 20
 ## Learn more about teaching with middle school pathways.
 
 <br>
-<a href="MiddleSchoolTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort Flyer </button></a> 
+<a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort Flyer </button></a> 
 <br><br>
 
 <a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to Middle School Curriculum Page </button></a> 
@@ -67,7 +71,7 @@ weight: 20
 ## Learn more about teaching with elementary school pathways.
 
 <br>
-<a href="ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways Flyer</button></a>
+<a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways Flyer</button></a>
 <br><br>
 <a href="/project/elementary-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to Elementary School Curriculum Page </button></a> 
 <br></br>

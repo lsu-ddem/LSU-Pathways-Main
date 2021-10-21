@@ -36,7 +36,7 @@ header:
 
 ## LSU Pathways for high school is a robust curriulum designed for in-depth study of one of four available STEM pathways. Students can choose to study biomedical sciences, computing, digital design and emergent media, or pre-engineering.
 <br>
-<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer</button></a> <a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer</button></a> <a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Flyer </button></a> 
+<a href="../../brochures/ComputingStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer</button></a> <a href="../../brochures/DDEMStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer</button></a> <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Flyer </button></a> 
 <br><br>
 
 *Click on a dropdown below for more details and syllabi for each pathway.*
@@ -45,20 +45,20 @@ header:
 
 {{< spoiler text="Biomedical Sciences" >}}
    #### Core Courses:
-   - <a href="../../curriculum/syllabi/Intro to Biomed.pdf" Target ="_blank">Intro to Biomedical Sciences </a>
-   - <a href ="../../curriculum/syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
-   - <a href="../../curriculum/syllabi/Comparative Anatomy.pdf" Target ="_blank">Comparative Anatomy & Physiology </a>
+   - <a href="../../syllabi/IntroToBiomed.pdf" Target ="_blank">Intro to Biomedical Sciences </a>
+   - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
+   - <a href="../../syllabi/ComparativeAnatomy.pdf" Target ="_blank">Comparative Anatomy & Physiology </a>
    - One from:
-     - <a href="../../curriculum/syllabi/Capstone.pdf" Target ="_blank">Biomedical Capstone </a>
-     - <a href = "../../curriculum/syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
+     - <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Biomedical Capstone </a>
+     - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
 
   #### LSU Electives:
-   - <a href="../../curriculum/syllabi/Forensics.pdf" Target ="_blank">Forensic Science </a>
+   - <a href="../../syllabi/Forensics.pdf" Target ="_blank">Forensic Science </a>
    - Genetics
    - Bioinformatics
    - Conservation Biology
-   - <a href = "../../curriculum/syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
-   - <a href="../../curriculum/syllabi/Capstone.pdf" Target ="_blank">Biomedical Capstone </a>
+   - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
+   - <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Biomedical Capstone </a>
    - Biology II DE
    - One from:
      - AP Biology
@@ -90,26 +90,26 @@ header:
 
  
    #### Core Courses:
-   - <a href ="../../curriculum/syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
+   - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
    - Programming Core (one from):
-     - <a href = "../../curriculum/syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
-     - <a href = "../../curriculum/syllabi/Syllabus_Programming-for-STEM.pdf" Target ="_blank"> Programming for STEM </a>
+     - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
+     - <a href = "../../syllabi/ProgrammingForSTEM.pdf" Target ="_blank"> Programming for STEM </a>
    - Networking and Society Core (one from):
-       - <a href = "../../curriculum/syllabi/Syllabus_Cybersecurity.pdf" Target = "_blank"> Cybersecurity </a>
+       - <a href = "../../syllabi/Cybersecurity.pdf" Target = "_blank"> Cybersecurity </a>
        - AP Computer Science Principles
    - Applications of Computing Core (one from):
-       - <a href = "../../curriculum/syllabi/Syllabus_Survey-of-Computing.pdf" Target = "_blank"> Survey of Computer Science </a>
-       - <a href = "../../curriculum/syllabi/Syllabus_Interactive-Computing.pdf" target = "_blank"> Interactive Computing </a>
+       - <a href = "../../syllabi/SurveyOfComputing.pdf" Target = "_blank"> Survey of Computer Science </a>
+       - <a href = "../../syllabi/InteractiveComputing.pdf" target = "_blank"> Interactive Computing </a>
 
    #### LSU Electives:
    - Bioinformatics
-   - <a href = "../../curriculum/syllabi/coding-for-the-web.pdf" target = "_blank"> Coding for the Web </a>
-   - <a href = "../../curriculum/syllabi/Syllabus_Cybersecurity.pdf" target = "_blank"> Cybersecurity </a>
-   - <a href = "../../curriculum/syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
-   - <a a href = "../../curriculum/syllabi/Syllabus_Interactive-Computing.pdf" target = "_blank"> Interactive Computing </a>
+   - <a href = "../../syllabi/CodingForTheWeb.pdf" target = "_blank"> Coding for the Web </a>
+   - <a href = "../../syllabi/Cybersecurity.pdf" target = "_blank"> Cybersecurity </a>
+   - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
+   - <a a href = "../../syllabi/InteractiveComputing.pdf" target = "_blank"> Interactive Computing </a>
    - Programming for Digital Media (DE)
-   - <a href = "../../curriculum/syllabi/Syllabus_Programming-for-STEM.pdf" Target ="_blank"> Programming for STEM </a>
-   - <a href = "../../curriculum/syllabi/Intro to Robotics.pdf" target = "_blank"> Robotics </a>
+   - <a href = "../../syllabi/ProgrammingForSTEM.pdf" Target ="_blank"> Programming for STEM </a>
+   - <a href = "../../syllabi/IntroToRobotics.pdf" target = "_blank"> Robotics </a>
    - Video Game Design
 
    #### Other Approved Electives:
@@ -147,19 +147,19 @@ header:
 {{< spoiler text="Digital Design and Emergent Media" >}}
 
   #### Core Courses:
-   - <a href = "../../curriculum/syllabi/digital-storytelling.pdf" target = "_blank"> Digital Storytelling </a>
+   - <a href = "../../syllabi/DigitalStorytelling.pdf" target = "_blank"> Digital Storytelling </a>
    - Programming for Digital Media (DE)
-   - <a href = "../../curriculum/syllabi/coding-for-the-web.pdf" target = "_blank"> Coding for the Web </a>
-   - <a href ="../../curriculum/syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
+   - <a href = "../../syllabi/CodingForTheWeb.pdf" target = "_blank"> Coding for the Web </a>
+   - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
 
   #### LSU Electives:
-   - <a href = "../../curriculum/syllabi/interactive-digital-media-capstone.pdf" target = "_blank"> Interactive Digital Media Capstone </a>
-   - <a href = "../../curriculum/syllabi/sound-design.pdf" target = "_blank">Sound Design (DE)</a>
-   - <a href = "../../curriculum/syllabi/ditigal-image-and-motion-graphics.pdf" target = "_blank"> Digital Image & Motion Graphics (AP Art) </a>
+   - <a href = "../../syllabi/InteractiveDigitalMediaCapstone.pdf" target = "_blank"> Interactive Digital Media Capstone </a>
+   - <a href = "../../syllabi/SoundDesign.pdf" target = "_blank">Sound Design (DE)</a>
+   - <a href = "../../syllabi/DigitalImage.pdf" target = "_blank"> Digital Image & Motion Graphics (AP Art) </a>
    - Basic/Advanced Film
    - Film and TV
-   - <a href = "../../curriculum/syllabi/programming-for-engineers.pdf" target = "_blank"> Programming for Engineers </a>
-   - <a href = "../../curriculum/syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
+   - <a href = "../../syllabi/ProgrammingForEngineers.pdf" target = "_blank"> Programming for Engineers </a>
+   - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
    - Video Game Design
 
   #### Other Approved Electives:
@@ -180,19 +180,19 @@ header:
 {{< spoiler text="Pre-Engineering" >}}
 
    #### Core Courses:
-   - <a href = "../../curriculum/syllabi/Intro to Engineering.pdf" target = "_blank"> Intro to Engineering Design (DE) </a>
-   - <a href ="../../curriculum/syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
-   - <a href = "../../curriculum/syllabi/Intro to Robotics.pdf" target = "_blank"> Robotics </a>
+   - <a href = "../../syllabi/IntroToEngineering.pdf" target = "_blank"> Intro to Engineering Design (DE) </a>
+   - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
+   - <a href = "../../syllabi/IntroToRobotics.pdf" target = "_blank"> Robotics </a>
    - One from:
-      - <a href = "../../curriculum/syllabi/Engineering Design and Development.pdf" target = "_blank"> Engineering Design and Development </a>
-      - <a href ="../../curriculum/syllabi/Principles of Engineering.pdf" target = "_blank"> Principles of Engineering </a>
+      - <a href = "../../syllabi/EngineeringDesign.pdf" target = "_blank"> Engineering Design and Development </a>
+      - <a href ="../../syllabi/PrinciplesOfEngineering.pdf" target = "_blank"> Principles of Engineering </a>
 
    #### LSU Electives:
    - Engineering Economy
-   - <a href ="../../curriculum/syllabi/Principles of Engineering.pdf" target = "_blank"> Principles of Engineering </a>
-   - <a href = "../../curriculum/syllabi/Engineering Design and Development.pdf" target = "_blank"> Engineering Design and Development </a>
-   - <a href = "../../curriculum/syllabi/programming-for-engineers.pdf" target = "_blank"> Programming for Engineers </a>
-   - <a href = "../../curriculum/syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
+   - <a href ="../../syllabi/PrinciplesOfEngineering.pdf" target = "_blank"> Principles of Engineering </a>
+   - <a href = "../../syllabi/EngineeringDesign.pdf" target = "_blank"> Engineering Design and Development </a>
+   - <a href = "../../syllabi/ProgrammingForEngineers.pdf" target = "_blank"> Programming for Engineers </a>
+   - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
    - Statistical Reasoning
 
    #### Other Approved Electives:
