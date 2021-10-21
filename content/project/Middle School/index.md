@@ -48,7 +48,7 @@ This year long project-based course explores four main pathways of STEM educatio
 
 <br>
 
-<a href="MiddleSchoolCohortAdministrationFlyer_updatedMarch15.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Pathways Introduction Flyer</button></a>
+<a href="MiddleSchoolCohortAdministrationFlyer_updatedMarch15.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Introduction to STEM Pathways Flyer</button></a>
 
 <br>
 </a>
