@@ -56,7 +56,7 @@ weight: 20
 <br>
 <a href="MiddleSchoolTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort  </button></a> 
 <br><br>
-<a href="Elementary School Cohort Brochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways </button></a>
+<a href="ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways </button></a>
 
 <br>
 
