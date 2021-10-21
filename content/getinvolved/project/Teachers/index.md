@@ -39,24 +39,38 @@ weight: 20
 <br><br>
 
 ----
-## Learn more about teaching with each high school program.
+## Learn more about teaching with each high school pathway.
 <br>
 
-<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing for High School </button></a> 
+<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer </button></a> 
 <br><br>
-<a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media for High School  </button></a> 
+<a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer  </button></a> 
 <br><br>
-<a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering for High School </button></a> 
+<a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Flyer </button></a> 
 <br><br>
+<a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to High School Curriculum Page </button></a> 
+<br></br>
 
 ----
 
-## Learn more about teaching with the middle and elementary school programs.
+## Learn more about teaching with middle school pathways.
 
 <br>
-<a href="MiddleSchoolTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort  </button></a> 
+<a href="MiddleSchoolTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort Flyer </button></a> 
 <br><br>
-<a href="ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways </button></a>
+
+<a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to Middle School Curriculum Page </button></a> 
+<br></br>
+
+----
+
+## Learn more about teaching with elementary school pathways.
+
+<br>
+<a href="ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways Flyer</button></a>
+<br><br>
+<a href="/project/elementary-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to Elementary School Curriculum Page </button></a> 
+<br></br>
 
 <br>
 
