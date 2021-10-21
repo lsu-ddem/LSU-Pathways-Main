@@ -17,8 +17,12 @@ header:
 ---
 
 ## LSU Pathways for middle school consists of two introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways.
+<br> 
+<a href="#introduction"><button style="border:none;border-radius: 5px; padding: 5px"> Introduction to STEM Pathways </button></a> <a href="#computing"><button style="border:none;border-radius: 5px;padding: 5px"> Survey of Computer Science  </button></a>
 <br> <br>
 
+<a id ="introduction">
+<br>
 
 ## **Introduction to STEM Pathways and Careers**
 <br>
@@ -47,8 +51,11 @@ This year long project-based course explores four main pathways of STEM educatio
 <a href="MiddleSchoolCohortAdministrationFlyer_updatedMarch15.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Pathways Introduction Flyer</button></a>
 
 <br>
+</a>
 
 ------
+
+<a id = "computing">
 <br>
 
 ## **Survey of Computer Science**
@@ -83,3 +90,5 @@ unit quizzes. Summative assessment includes projects and/or tests at the end of 
 <br>
 
 <a href="Syllabus_Survey-of-Computing.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Syllabus </button></a>
+<br>
+</a>
