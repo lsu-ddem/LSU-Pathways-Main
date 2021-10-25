@@ -17,7 +17,7 @@ design:
 
 News and Media Quick Links:
 <br>
-<a href="#jumpstart"><button style="border:none;border-radius: 5px; padding: 5px"> Louisiana Jump Start </button></a> <a href="#highlights"><button style="border:none;border-radius: 5px;padding: 5px"> High School Highlights </button></a> <a href="#more"><button style="border:none;border-radius: 5px;padding: 5px"> More About Each High School Program </button></a> <a href="#classes"><button style="border:none;border-radius: 5px;padding: 5px"> An In-Depth Look at Classes </button> </a>
+<a href="#jumpstart"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Louisiana Jump Start </button></a> <a href="#highlights"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> High School Highlights </button></a> <a href="#more"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> More About Each High School Program </button></a> <a href="#classes"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> An In-Depth Look at Classes </button> </a>
 <br>
 
 <br>
@@ -91,7 +91,7 @@ News and Media Quick Links:
 
 <br>
 
-<a href="#engineering"><button style="border:none;border-radius: 5px; padding: 5px"> Pre-Engineering </button></a> <a href="#ddem"><button style="border:none;border-radius: 5px; padding: 5px"> Digital Design and Emergent Media </button></a> <a href="#computing"><button style="border:none;border-radius: 5px; padding: 5px"> Computing </button></a>
+<a href="#engineering"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Pre-Engineering </button></a> <a href="#ddem"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Digital Design and Emergent Media </button></a> <a href="#computing"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Computing </button></a>
 <br>
 
 <a id = "engineering">
