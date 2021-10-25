@@ -18,10 +18,16 @@ header:
 
 ## LSU Pathways for middle school consists of two introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways.
 <br>
-
-The Middle School STEM Pathways Program is pleased to announce we will be piloting new 6th grade courses in summer of 2022. This will allow us to expand the number of quality course offerings at the middle school level that support STEM and PBL in the classrooms. For more information on our newest pilots, please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
+<div style="background-color:#fdd023; border-style: double;">
 <br>
-<br> 
+<center>
+
+ The Middle School STEM Pathways Program is pleased to announce we will be piloting new 6th grade courses in summer of 2022. This will allow us to expand the number of quality course offerings at the middle school level that support STEM and PBL in the classrooms. 
+ 
+ For more information on our newest pilots, please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
+ </center>
+ </br>
+</div>
 <br>
 <a href="#introduction"><button style="border:none;border-radius: 5px; padding: 5px"> Introduction to STEM Pathways Course </button></a> <a href="#computing"><button style="border:none;border-radius: 5px;padding: 5px"> Survey of Computer Science Course </button></a>
 <br>
