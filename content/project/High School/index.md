@@ -107,7 +107,7 @@ header:
    - <a href = "../../syllabi/Cybersecurity.pdf" target = "_blank"> Cybersecurity </a>
    - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
    - <a a href = "../../syllabi/InteractiveComputing.pdf" target = "_blank"> Interactive Computing </a>
-   - Programming for Digital Media (DE)
+   - <a href ="../../syllabi/ProgrammingDigitalMedia.pdf" Target ="_blank">Programming for Digital Media (DE) </a>
    - <a href = "../../syllabi/ProgrammingForSTEM.pdf" Target ="_blank"> Programming for STEM </a>
    - <a href = "../../syllabi/IntroToRobotics.pdf" target = "_blank"> Robotics </a>
    - Video Game Design
@@ -148,7 +148,7 @@ header:
 
   #### Core Courses:
    - <a href = "../../syllabi/DigitalStorytelling.pdf" target = "_blank"> Digital Storytelling </a>
-   - Programming for Digital Media (DE)
+   - <a href ="../../syllabi/ProgrammingDigitalMedia.pdf" Target ="_blank">Programming for Digital Media (DE) </a>
    - <a href = "../../syllabi/CodingForTheWeb.pdf" target = "_blank"> Coding for the Web </a>
    - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
 
