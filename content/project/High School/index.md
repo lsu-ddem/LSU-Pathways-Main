@@ -34,7 +34,7 @@ header:
 # slides: example
 ---
 
-## LSU Pathways for high school is a robust curriulum designed for in-depth study of one of four available STEM pathways. Students can choose to study biomedical sciences, computing, digital design and emergent media, or pre-engineering.
+## LSU Pathways for high school is a robust curriculum designed for in-depth study of one of four available STEM pathways. Students can choose to study biomedical sciences, computing, digital design and emergent media, or pre-engineering.
 <br>
 <a href="../../brochures/ComputingStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer</button></a> <a href="../../brochures/DDEMStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer</button></a> <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Flyer </button></a> 
 <br><br>
