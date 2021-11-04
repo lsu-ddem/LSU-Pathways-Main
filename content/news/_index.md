@@ -14,10 +14,7 @@ design:
 ---
 <center>
 
-
-News and Media Quick Links:
-<br>
-<a href="#jumpstart"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Louisiana Jump Start </button></a> <a href="#highlights"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> High School Highlights </button></a> <a href="#more"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> More About Each High School Program </button></a> <a href="#classes"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> An In-Depth Look at Classes </button> </a>
+<a href="#jumpstart"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Louisiana Jump Start </button></a> <a href="#highschool"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> High School Pathway </button></a> <a href="#elementaryschool"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> Elementary School Pathway </button></a> 
 <br>
 
 <br>
@@ -52,87 +49,65 @@ News and Media Quick Links:
 
 ----
 
-<a id="highlights">
+<a id="highschool">
 <br>
 
 <center> 
 
-## **Pathways High School Highlights**
+## **High School Highlights**
 </center>
 <br>
 
 <iframe width="450" height="250" src="https://www.youtube.com/embed/_LHGthlOxqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/LN2G067je-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/RgDsBjt9mYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/7z1R_pSNKCk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-		</a>
-
+	
 <br>
-<br>
-
-----
-
-<a id="more">
-<br>
+<a id = "PreEngineering">
 <center>
-
-## **More About Each High School Pathway Program**
-</center>
-<br>
- <iframe width="450" height="250" src="https://www.youtube.com/embed/JyZOFH_eDbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/otu6FKMVNbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/BQMZ_lofXTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</a>
-<br>
 <br>
 
-----
+## **Pre-Engineering Pathway**
 
-<a id ="classes">
-<br>
-<center>
-
-## **An In-Depth Look at Pathways Classes**
-
-<br>
-
-<a href="#engineering"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Pre-Engineering </button></a> <a href="#ddem"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Digital Design and Emergent Media </button></a> <a href="#computing"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Computing </button></a>
-<br>
-
-<a id = "engineering">
-<br>
-
-## *Pre-Engineering*
 </center>
 <br>
 
-<iframe width="450" height="250" src="https://www.youtube.com/embed/DNno0EziCeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/h05D7Pm_dKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/aPbgjl-0wzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/bunyCTVzyrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/W2PI-n5rQcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="450" height="250" src="https://www.youtube.com/embed/JyZOFH_eDbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/DNno0EziCeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/h05D7Pm_dKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/aPbgjl-0wzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/bunyCTVzyrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/W2PI-n5rQcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </a>
-<br>
-<br>
-
-<a id = "ddem">
 <br>
 <center>
+<a id = "DDEM">
+<br>
 
-## *Digital Design and Emergent Media*
+## **Digital Design and Emergent Media Pathway**
 </center>
 <br>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/T-h-VlgoOXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/UnBBPTA2dZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/prdOz4U7D1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="450" height="250" src="https://www.youtube.com/embed/otu6FKMVNbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/T-h-VlgoOXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/UnBBPTA2dZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/prdOz4U7D1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </a>
 <br>
-<br>
-
+<center>
 <a id = "computing">
 <br>
-<center>
 
-## *Computing*
+## **Computing Pathway**
 </center>
 <br>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/OdqvRn-q_kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/rD-0Cb78AXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/iq95FDbv628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="450" height="250" src="https://www.youtube.com/embed/BQMZ_lofXTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/OdqvRn-q_kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/rD-0Cb78AXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/iq95FDbv628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </a>
+	</a>
+<br>
+<br>
+
+-----
+<br>
+<a id ="elementaryschool">
+<center>
+
+## **Elementary School Pathway**
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Co7qBHDFstA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-
-
-
+</a>
 
 
 

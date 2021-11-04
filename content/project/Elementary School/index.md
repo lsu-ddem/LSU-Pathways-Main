@@ -26,6 +26,11 @@ With this program, the LSU Pathways team provides training to elementary school 
  
 <br>
 
+
+<a href="../..//news/#elementaryschool" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways Video </button></a>
+<br>
+<br>
 <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways Flyer </button></a>
-<br></br>
+<br>
+<br>
 <a href="../../brochures/ElementaryModules.pdf" target ="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School STEM Pathway Module Descriptions </button></a>
