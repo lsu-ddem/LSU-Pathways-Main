@@ -33,4 +33,13 @@ With this program, the LSU Pathways team provides training to elementary school 
 <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways Flyer </button></a>
 <br>
 <br>
-<a href="../../brochures/ElementaryModules.pdf" target ="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School STEM Pathway Module Descriptions </button></a>
+<a href="../../brochures/ElementaryModules.pdf" target ="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School STEM Pathways Module Descriptions </button></a>
+<br>
+<br>
+
+-----
+
+<br>
+
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant.
+<br>

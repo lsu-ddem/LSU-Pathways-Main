@@ -25,11 +25,12 @@ weight: 10
 <a href="../../brochures/HSCourseDescriptions.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> In-Depth High School Course Descriptions </button></a> 
 <br></br>
 
-----
+
 
 ## Learn more about each high school pathway.
 <br>
-
+<a href="../../brochures/BiomedStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical Flyer </button></a> 
+<br></br>
 <a href="../../brochures/ComputingStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer </button></a> 
 <br></br>
 <a href="../../brochures/DDEMStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer </button></a> 
@@ -39,7 +40,7 @@ weight: 10
 <a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to High School Curriculum Page </button></a> 
 <br></br>
 
-----
+
 
 ## Learn more about middle school pathways.
 <br>

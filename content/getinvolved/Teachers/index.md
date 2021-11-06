@@ -42,10 +42,11 @@ weight: 20
 <a href="../../brochures/2021MOU.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Ready to Join STEM Pathways? </button></a> 
 <br></br>
 
-----
+
 ## Learn more about teaching with each high school pathway.
 <br>
-
+<a href="../../brochures/BiomedTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical Flyer </button></a> 
+<br><br>
 <a href="../../brochures/ComputingTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer </button></a> 
 <br><br>
 <a href="../../brochures/DDEMTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design and Emergent Media Flyer  </button></a> 
@@ -55,7 +56,7 @@ weight: 20
 <a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to High School Curriculum Page </button></a> 
 <br></br>
 
-----
+
 
 ## Learn more about teaching with middle school pathways.
 
@@ -66,7 +67,7 @@ weight: 20
 <a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to Middle School Curriculum Page </button></a> 
 <br></br>
 
-----
+
 
 ## Learn more about teaching with elementary school pathways.
 
@@ -74,7 +75,5 @@ weight: 20
 <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Pathways Flyer</button></a>
 <br><br>
 <a href="/project/elementary-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Go to Elementary School Curriculum Page </button></a> 
-<br></br>
 
-<br>
 

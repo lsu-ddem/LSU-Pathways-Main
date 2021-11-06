@@ -16,6 +16,9 @@ main:
   - name: Get Involved
     url: 'getinvolved/'
     weight: 40
+  - name: Grants
+    url: "grants/"
+    weight: 45
   # - name: Publications
   #   url: '#featured'
   #   weight: 50

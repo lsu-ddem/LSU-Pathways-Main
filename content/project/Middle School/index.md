@@ -107,6 +107,12 @@ unit quizzes. Summative assessment includes projects and/or tests at the end of 
 <a href="../../syllabi/MSComputingSyllabus.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Syllabus </button></a>
 <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort Flyer</button></a>
 </a>
+
 <br>
 
+-----
 
+<br>
+
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant.
+<br>
