@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
  title = "Pathways Curriculum"
-subtitle = "LSU Pathways has courses for high school and middle school, and teacher training for elementary school."
+subtitle = "LSU Pathways has courses for high school and middle school and teacher training for elementary school."
 
 [content]
   # Page type to display. E.g. project.
