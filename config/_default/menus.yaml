@@ -19,6 +19,9 @@ main:
   - name: Grants
     url: "grants/"
     weight: 45
+  - name: Scholarships
+    url: "scholarships/"
+    weight: 45
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
