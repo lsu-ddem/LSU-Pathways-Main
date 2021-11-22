@@ -106,7 +106,7 @@ Click on a dropdown to view the syllabi for each pathway.
        - AP Computer Science Principles
    - Applications of Computing Core (one from):
        - <a href = "../../syllabi/SurveyOfComputing.pdf" Target = "_blank"> Survey of Computer Science </a>
-       - <a href = "../../syllabi/InteractiveComputing.pdf" target = "_blank"> Interactive Computing </a>
+       - Interactive Computing
 
    #### LSU Electives:
    - Bioinformatics
