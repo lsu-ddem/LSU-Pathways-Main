@@ -29,9 +29,8 @@ header:
  </br>
 </div>
 <br>
-<br>
 <center>
-<a href="#introduction"><button style= "background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Introduction to STEM Pathways Course </button></a> <a href="#computing"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> Survey of Computer Science Course </button></a>
+<a href="#introduction"><button style= "background-color:#fdd023; border:none;border-radius: 5px; padding: 5px"> Introduction to STEM Pathways Course </button></a> <a href="#computing"><button style="background-color:#fdd023; border:none;border-radius: 5px;padding: 5px"> Survey of Computer Science Course </button></a>
 <br>
 </br>
 </center>

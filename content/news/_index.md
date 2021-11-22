@@ -14,7 +14,7 @@ design:
 ---
 <center>
 
-<a href="#jumpstart"><button style="background-color:#F1EEDB; border:none;border-radius: 5px; padding: 5px"> Louisiana Jump Start </button></a> <a href="#highschool"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> High School Pathway </button></a> <a href="#elementaryschool"><button style="background-color:#F1EEDB; border:none;border-radius: 5px;padding: 5px"> Elementary School Pathway </button></a> 
+<a href="#jumpstart"><button style="background-color:#fdd023; border:none;border-radius: 5px; padding: 5px"> Louisiana Jump Start </button></a> <a href="#highschool"><button style="background-color:#fdd023; border:none;border-radius: 5px;padding: 5px"> High School Pathway </button></a> <a href="#elementaryschool"><button style="background-color:#fdd023; border:none;border-radius: 5px;padding: 5px"> Elementary School Pathway </button></a> 
 <br>
 
 <br>
