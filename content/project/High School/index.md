@@ -152,6 +152,7 @@ Click on a dropdown to view the syllabi for each pathway.
 
 
 {{< spoiler text="Digital Design and Emergent Media" >}}
+To view the full DDEM website please visit <a href="https://ddem.lsupathways.org" Target ="_blank">ddem.lsupathways.org. </a>
 
   #### Core Courses:
    - <a href = "../../syllabi/DigitalStorytelling.pdf" target = "_blank"> Digital Storytelling </a>
