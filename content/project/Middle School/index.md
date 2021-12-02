@@ -100,8 +100,12 @@ Assessment
 
 Formative assessment includes worksheets and several practice activities for each lesson, and 
 unit quizzes. Summative assessment includes projects and/or tests at the end of each unit. 
-
 <br>
+<br>
+For an outline of recommended courses in the computing pathway, please see the
+ <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">Recommended Order of Courses Flyer.</a>
+ <br>
+ <br>
 
 <a href="../../syllabi/MSComputingSyllabus.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Syllabus </button></a>
 <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort Flyer</button></a>
