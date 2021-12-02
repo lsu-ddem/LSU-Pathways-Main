@@ -94,6 +94,10 @@ Click on a dropdown to view the syllabi for each pathway.
 
 {{< spoiler text="Computing" >}}
  This pathway is currently a key part of two major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">brbytes.org.</a> 
+ <br>
+ <br>
+ For an outline of recommended courses in the computing pathway, please see the
+ <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">Recommended Order of Courses Flyer.</a>
 
  
    #### Core Courses:
