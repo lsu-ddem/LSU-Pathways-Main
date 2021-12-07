@@ -30,6 +30,9 @@ design:
 <a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Read About Pathways in the Baton Rouge Advocate </button></a> 
 <br>
 <br>
+<a href="https://www.lsu.edu/research/news/2021/1108-brbytes.php?mc_cid=7b5848f6d7&mc_eid=dd3d90141f" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> BRBytes in the News </button></a> 
+<br>
+<br>
 
 ---- 
 
