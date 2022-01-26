@@ -103,7 +103,7 @@ unit quizzes. Summative assessment includes projects and/or tests at the end of 
 <br>
 <br>
 For an outline of recommended courses in the computing pathway, please see the
- <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">Recommended Order of Courses Flyer.</a>
+ <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">Recommended Order of Courses flyer.</a>
  <br>
  <br>
 
