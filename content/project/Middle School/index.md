@@ -18,7 +18,7 @@ header:
 
 ## LSU Pathways for middle school consists of two introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways.
 <br>
-<div style="background-color:#fdd023; border-style: double;">
+<div style="background-color:#fdd023; ">
 <br>
 <center>
 
@@ -35,7 +35,7 @@ header:
 </br>
 </center>
 
-----
+
 
 <a id ="introduction">
 <br>
@@ -67,7 +67,7 @@ This year long project-based course explores four main pathways of STEM educatio
 
 </a>
 
-------
+
 
 <a id = "computing">
 <br>
@@ -113,7 +113,7 @@ For an outline of recommended courses in the computing pathway, please see the
 
 <br>
 
------
+
 
 <br>
 

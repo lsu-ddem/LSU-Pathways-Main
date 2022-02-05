@@ -71,7 +71,7 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
 
-<div style="background-color:#fdd023; font-color: #000000; border-style: double; padding: 15px">
+<div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 25px">
 <center>
 
 ## Invitation to participate in the LSU STEM Pathways summer training institute will be available starting **March 15th, 2022**.

@@ -34,7 +34,7 @@ design:
 <br>
 <br>
 
----- 
+
 
 <a id = "jumpstart">
 <br>
@@ -54,7 +54,7 @@ design:
 <br>
 </center>
 
-----
+
 
 <a id="highschool">
 <br>
@@ -103,7 +103,7 @@ design:
 <br>
 <br>
 
------
+
 <br>
 <a id ="elementaryschool">
 <center>

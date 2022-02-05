@@ -26,7 +26,7 @@ The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarsh
 <br>
 <br>
 
------
+
 <br>
 
 ## The American Society of Mechanical Engineers High School Scholarship
@@ -42,7 +42,7 @@ The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating
 <br>
 
 
------
+
 
 <br>
 
@@ -56,7 +56,7 @@ Funded by the National Science Foundation, the LSU S-STEM Scholars program aims 
 <br>
 <br>
 
------
+
 
 <br>
 
