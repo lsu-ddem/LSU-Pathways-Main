@@ -3,8 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 active: true
-header:
-  image: "header.jpg"
+# header:
+#   image: "header.jpg"
 # This file represents a page section.
 headless: true
 
