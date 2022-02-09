@@ -18,7 +18,7 @@ header:
 
 ## LSU Pathways for middle school consists of two introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways.
 <br>
-<div style="background-color:#fdd023; ">
+<div style="background-color:#fdd023; padding: 15px ">
 <br>
 <center>
 
@@ -30,7 +30,7 @@ header:
 </div>
 <br>
 <center>
-<a href="#introduction"><button style= "background-color:#fdd023; border:none;border-radius: 5px; padding: 5px"> Introduction to STEM Pathways Course </button></a> <a href="#computing"><button style="background-color:#fdd023; border:none;border-radius: 5px;padding: 5px"> Survey of Computer Science Course </button></a>
+<a href="#introduction"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Introduction to STEM Pathways Course </button></a> <a href="#computing"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Course </button></a>
 <br>
 </br>
 </center>
@@ -108,6 +108,7 @@ For an outline of recommended courses in the computing pathway, please see the
  <br>
 
 <a href="../../syllabi/MSComputingSyllabus.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Syllabus </button></a>
+
 <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort Flyer</button></a>
 </a>
 
