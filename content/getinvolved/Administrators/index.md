@@ -1,7 +1,7 @@
 ---
 title: Become a Pathways School.
-header:
-  image: "header.jpg"
+# header:
+#   image: "header.jpg"
 # summary: 
 # tags:
 # # - Demo
