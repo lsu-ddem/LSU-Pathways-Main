@@ -1,8 +1,8 @@
 ---
 title: Teach with Pathways.
 summary: 
-header:
-  image: "header.jpg"
+# header:
+#   image: "header.jpg"
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
