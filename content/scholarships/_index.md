@@ -29,54 +29,21 @@ The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarsh
 
 <br>
 
-## The American Society of Mechanical Engineers High School Scholarship
-<br>
-
-Graduating high school students are the next generation of engineers!
-
-The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating high school seniors interested in pursuing engineering degrees.
-
-<br>
-<a href="https://www.asme.org/asme-programs/students-and-faculty/scholarships/available-high-school-scholarships" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ASME Scholarship </button></a> 
-<br>
-<br>
-
-
-
-
-<br>
-
-## S-STEM Scholars Program
-<br>
-
-Funded by the National Science Foundation, the LSU S-STEM Scholars program aims to increase the educational and career opportunities for academically talented, financially disadvantaged students who are pursuing degrees in basic sciences or mathematics. 
-
-<br>
-<a href="https://www.lsu.edu/osi/programs/s-stem-scholars-program/index.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> S-STEM Scholars Program </button></a> 
-<br>
-<br>
-
-
-
-<br>
-
 ## LSU Engineering Freshman Scholarships
 <br>
-
 In addition to providing numerous scholarships to current LSU Engineering students each year, the College of Engineering has several competitive scholarships available to qualified first-year engineering students. 
 
+<br>
 <br>
 <a href="https://www.lsu.edu/eng/future/engineer-experience/scholarships.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Engineering Freshman Scholarships </button></a> 
 <br>
 <br>
 
 
-
 <br>
 
-## PRISE Program 
+## LSU PRISE Program 
 <br>
-
 
 The PRISE (Preparing Resilient Individuals for Success in Engineering) Program is an NSF-funded scholarship launching in Fall 2022 that is designed to help high-achieving, high potential engineering students with financial hardships persist through graduation. This program provides a need-based scholarship to entering freshmen engineering students for up to eight semesters and offers academic and professional development programs to help our students succeed in engineering.
 
@@ -94,9 +61,35 @@ Program Highlights:
 
 - Access to funds to help secure internships between junior and senior year
 
-
 <br>
 <a href="https://form.jotform.com/lsucoediversity/lsu-s-stem-application-2022" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Apply for the PRISE Program as a participant </button></a> 
 <br>
 <br>
 <a href="https://lsu.edu/eng/prise_program.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Learn more about the PRISE Program here </button></a> 
+<br>
+<br>
+
+
+<br>
+
+## **National Scholarships** 
+<br>
+
+## The American Society of Mechanical Engineers High School Scholarship
+<br>
+Graduating high school students are the next generation of engineers!
+
+The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating high school seniors interested in pursuing engineering degrees.
+<br>
+<br>
+<a href="https://www.asme.org/asme-programs/students-and-faculty/scholarships/available-high-school-scholarships" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ASME Scholarship </button></a> 
+<br>
+<br>
+<br>
+
+## S-STEM Scholars Program
+<br>
+Funded by the National Science Foundation, the LSU S-STEM Scholars program aims to increase the educational and career opportunities for academically talented, financially disadvantaged students who are pursuing degrees in basic sciences or mathematics. 
+<br>
+<br>
+<a href="https://www.lsu.edu/osi/programs/s-stem-scholars-program/index.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> S-STEM Scholars Program </button></a> 
