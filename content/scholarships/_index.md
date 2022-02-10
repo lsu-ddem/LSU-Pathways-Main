@@ -69,3 +69,34 @@ In addition to providing numerous scholarships to current LSU Engineering studen
 <a href="https://www.lsu.edu/eng/future/engineer-experience/scholarships.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Engineering Freshman Scholarships </button></a> 
 <br>
 <br>
+
+
+
+<br>
+
+## PRISE Program 
+<br>
+
+
+The PRISE (Preparing Resilient Individuals for Success in Engineering) Program is an NSF-funded scholarship launching in Fall 2022 that is designed to help high-achieving, high potential engineering students with financial hardships persist through graduation. This program provides a need-based scholarship to entering freshmen engineering students for up to eight semesters and offers academic and professional development programs to help our students succeed in engineering.
+
+Program Highlights:
+
+- Need-based scholarship with awards ranging from $2,000-$10,000 depending on unmet need
+
+- Faculty mentorship—students will be matched with faculty from the department that offers their declared major
+
+- Early access to engineering staff and advisors
+
+- Academic success workshops and coaching
+
+- Professional development workshops and coaching
+
+- Access to funds to help secure internships between junior and senior year
+
+
+<br>
+<a href="https://form.jotform.com/lsucoediversity/lsu-s-stem-application-2022" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Apply for the PRISE Program as a participant </button></a> 
+<br>
+<br>
+<a href="https://lsu.edu/eng/prise_program.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Learn more about the PRISE Program here </button></a> 
