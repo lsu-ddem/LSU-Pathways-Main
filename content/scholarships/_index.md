@@ -21,7 +21,7 @@ The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarsh
 
 <br>
 <br>
-<a href="https://lsu.qualtrics.com/jfe/form/SV_9QDyLCRjXIFggce" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pre-Engineering Pathway Gold STEM Seal Scholarship Application </button></a> 
+<a href="https://lsu.qualtrics.com/jfe/form/SV_bJBgxK7X73flK50" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pre-Engineering Pathway Gold STEM Seal Scholarship Application </button></a> 
 
 <br>
 <br>
