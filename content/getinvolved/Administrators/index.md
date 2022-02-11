@@ -14,7 +14,7 @@ weight: 25
 #   caption: Photo by Toa Heftiba on Unsplash
 #   focal_point: Smart
 ---
-
+<!-- 
 ## Interested in having your school become a Pathways affiliate? Click on a link below to learn more.
 <br>
 
@@ -22,9 +22,9 @@ weight: 25
 <br><br>
 <a href="../../brochures/MiddleSchoolInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Invitation </button></a>
 <br></br>
+ -->
 
-
-## Learn more about each high school pathway.
+## To learn more about each high school pathway, click a link below.
 <br>
 <a href="../../brochures/BiomedAdmin.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical Flyer  </button></a> 
 <br></br>

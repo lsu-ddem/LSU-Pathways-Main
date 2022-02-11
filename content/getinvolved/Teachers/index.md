@@ -32,7 +32,7 @@ weight: 20
 # slides: example
 ---
 
-## LSU Pathways trains teachers in rigorous STEM curriculum pedagogy. Click a link below to learn more. 
+<!-- ## LSU Pathways trains teachers in rigorous STEM curriculum pedagogy. Click a link below to learn more. 
 <br>
 
 <a href="../../brochures/HighSchoolInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School Invitation </button></a> 
@@ -40,9 +40,8 @@ weight: 20
 <br>
 <a href="../../brochures/MiddleSchoolInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Invitation </button></a>
 <br>
-<br>
-
-## Learn more about teaching with each high school pathway.
+<br> -->
+## To learn more about teaching with each high school pathway, click a link below.
 <br>
 <a href="../../brochures/BiomedTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical Flyer </button></a> 
 <br><br>
