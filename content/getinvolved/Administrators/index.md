@@ -22,9 +22,6 @@ weight: 25
 <br><br>
 <a href="../../brochures/MiddleSchoolInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Invitation </button></a>
 <br></br>
-<a href="../../brochures/2021MOU.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Ready to Join STEM Pathways? </button></a> 
-<br></br>
-
 
 
 ## Learn more about each high school pathway.
