@@ -38,7 +38,18 @@ design:
 
 ## **Interested in getting involved?**
 ## If you are a student, teacher, parent, or school administrator and are interested in participating in LSU Pathways, click a link below to learn more. 
+<br>
+<div style="background-color:#fdd023; padding: 35px ">
 
-## **Got more questions?** Please email us at info@lsupathways.org
-<br></br>
+<div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 25px">
+<br>
+<center>
 
+Invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute will be available March 15th, 2022.
+
+<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU and Summer Institute Details </button></a> 
+<a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a> 
+ </center>
+ </div>
+</div>
+<br>
