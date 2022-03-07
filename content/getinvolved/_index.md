@@ -47,7 +47,7 @@ design:
 
 Invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute will be available March 15th, 2022.
 
-<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU and Summer Institute Details </button></a> 
+<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Information and Invitation </button></a> 
 <a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a> 
  </center>
  </div>
