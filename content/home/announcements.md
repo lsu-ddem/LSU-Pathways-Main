@@ -73,13 +73,20 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 <div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 25px">
 <center>
-
-## Invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute will be available **March 15th, 2022**.
 <br>
 
-<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Information and Invitation </button></a> 
+## Invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute is now available.
 <br>
 
+<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Training and Course Catalog </button></a> 
+<br>
+<br>
+
+If you are ready to commit to offering an LSU STEM pathways course at your school next year, please submit a request for a Memorandum of Understanding by completing the form in this link:
+<br>
+
+<a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a>
+<br>
 </center>
 </div>
 <br>
