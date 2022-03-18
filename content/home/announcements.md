@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 17  # Order that this section will appear.
 
- # title = "**LSU Pathways** STEM Certification"
+ # title = "**Invitation to Participate"
 # subtitle = 
 
 
@@ -73,19 +73,14 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 <div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 25px">
 <center>
+
+## **MoUs Now Available**
 <br>
 
-## Invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute is now available.
+Invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute is now available. If you are ready to commit to offering an LSU STEM pathways course at your school next year, please submit a request for a Memorandum of Understanding at the link below.
 <br>
 
-<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Training and Course Catalog </button></a> 
-<br>
-<br>
-
-If you are ready to commit to offering an LSU STEM pathways course at your school next year, please submit a request for a Memorandum of Understanding by completing the form in this link:
-<br>
-
-<a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a>
+<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Training and Course Catalog </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a>
 <br>
 </center>
 </div>
