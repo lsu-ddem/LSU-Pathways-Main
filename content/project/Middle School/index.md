@@ -32,7 +32,7 @@ The Middle School STEM Pathways Program is pleased to announce we will be piloti
 <br>
 
 <center>
-<a href="#introduction"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Introduction to STEM Pathways Course </button></a> <a href="#computing"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Course </button></a>
+<a href="#introduction"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Introduction to STEM Pathways Course</button></a> <a href="#computing"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Course </button></a>
 <br>
 </br>
 </center>
@@ -107,9 +107,7 @@ For an outline of recommended courses in the computing pathway, please see the
  <br>
  <br>
 
-<a href="../../syllabi/MSComputingSyllabus.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Syllabus </button></a>
-
-<a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School STEM Cohort Flyer</button></a>
+<a href="../../syllabi/MSComputingSyllabus.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Syllabus </button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer</button></a>
 </a>
 
 <br>

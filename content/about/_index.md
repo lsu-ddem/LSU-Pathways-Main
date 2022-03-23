@@ -14,29 +14,43 @@ design:
 
 ## **More about LSU Pathways** 
 
- ## LSU STEM Pathways first took shape at Liberty Magnet High School in Baton Rouge in collaboration with LSU faculty. <!-- *MORE HISTORY HERE* -->
+ ## The LSU STEM Pathways program provides access to over 24 project-based middle and high school STEM courses as well as STEM modules for the elementary grades. 
 
  <br>
 
- In addition to taking courses in the four core subject areas of English, math, science, and social studies, students who participate in the LSU Pathways curriculum can choose to take courses in one of the following subject areas: 
+ Students who participate in the LSU Pathways curriculum can choose to take courses in one or more of the following subject areas:
 
   - Biomedical Sciences
   - Computing
   - Digital Design and Emergent Media
   - Pre-Engineering
- 
 
 <br>
 
-LSU STEM Pathways provides high school students with the opportunity to enroll in a progression of up to eight project-based STEM courses to attain industry-promulgated credentials, university-issued certificates of course completion, and/or dual enrollment credit. Students graduate with either a career-tech diploma or an enhancement to their university-prep diploma with a Silver or Gold STEM Diploma Seal.
+All Pathways contain common themes, thus allowing students to transfer between Pathways up to their junior year.
+
+  - Computational thinking, data management and analysis
+  - Development of 21st-century skills such as critical thinking, problem solving, communication, collaboration, and appropriate use of technology
+  - Cultivation of acumen in areas that contribute to success in STEM-related fields such as research & analysis, innovation & creativity, and professional ethics
 
 <br>
+Students taking these courses can attain industry-promulgated credentials, university-issued certificates of course completion, and/or dual enrollment credit. Upon completion of a Pathway, which consists of 8 courses in a single subject area, a student will earn either a career-tech diploma or an enhanced university prep-diploma with a STEM diploma seal.
+<br>
+<br>
+ Students who successfully complete four of the required courses in one Pathway will earn a Silver STEM Diploma Seal. Students will earn a Gold STEM Diploma Seal by satisfying the requirements for a Silver STEM Diploma Seal and completing four additional Elective Gold Courses from the Qualifying Course List.
+<br>
+<br>
+The statewide rollout of the LSU STEM Certification Pathways is a joint effort of the Louisiana Department of Education, Liberty Magnet High School, and faculty from Louisiana State University’s Gordon A. Cain Center for STEM Literacy, College of Engineering, College of Science, School of Art, School of Music, and the LSU Center for Computation & Technology.
 
-<!-- Under the approved state education funding formula, a school district offering a BESE-approved LSU STEM Pathway course that is taught by a trained and LSU-certified teacher receives $482 per student per course in the form of Career Tech and Career Development supplements. In the LSU STEM Pathways, the bulk of the student credentialing is not done by industry, but by LSU or ULM. -->
 
-<!-- ![LSU Pathways Schools](about%204.png) -->
+<br>
+<br>
 
 ## Who Does LSU STEM Pathways?
+<br>
+Currently, the program serves over 6,400 students at 91 Louisiana schools: 11 elementary, 21 middle, and 59 high. To see current participating schools, click the dropdown below. 
+<br>
+<br>
 {{< spoiler text="View School List" >}}
 
 - Alfred M. Barbe High School
@@ -118,21 +132,17 @@ LSU STEM Pathways provides high school students with the opportunity to enroll i
 - Zachary High School
 
 {{< /spoiler >}}
+<br>
 
-![LSU Pathways Map](about.png)
-<!-- Lee needs to be changed to Liberty here -->
+ ## Why Be a Part of LSU STEM Pathways?
+<br>
 
+ School districts, teachers, and students all benefit from participating in LSU Pathways.
 
-From 2020 on, supported by federal funding, LSU and the East Baton Rouge Parish School System have expanded the LSU Computing Pathway to middle schools and will expand the reach of Introduction to Computational Thinking, a foundational core course in all four LSU STEM Pathways, to schools across the state. Moreover, a collaborative effort of the Louisiana Department of Education, the RAND Corporation, BloomBoard, and LSU will be rolling out Micro-Credentials for STEM Pathway teachers.
+  - School districts receive additional CTE/CDF funding, earn accountability points for industry-based certifications and dual enrollment credit, and bolster their strength of diploma and interests & opportunities indices.
+  - Teachers discover new ways to engage their students and earn STEM certifications for expanded career options, including graduate certification opportunities.
+  - Students obtain access to exciting material and earn a state- approved STEM seal on their school diploma, which enhances their post-graduation career and educational opportunities, including LSU scholarships.
 
-The statewide rollout of the LSU STEM Certification Pathways is a joint effort of the Louisiana Department of Education, Liberty Magnet High School, and faculty from Louisiana State University’s Gordon A. Cain Center for STEM Literacy, College of Engineering, College of Science, School of Art, School of Music, and the LSU Center for Computation & Technology.
-<br><br>
- 
- ## In short, LSU STEM Certification Pathways provides:
-
-- Students with the opportunity to enroll in a specialized program of project-based courses.
-- Teachers with the opportunity to further their academic credentials by participating in intensive graduate-level LSU Pathways training courses.
-- School districts with additional state funding.
 
 <br>
 

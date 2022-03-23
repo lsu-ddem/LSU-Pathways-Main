@@ -37,8 +37,6 @@ design:
 ---
 
 ## **Interested in getting involved?**
-<br>
-
 ## If you are a student, parent, teacher, or school administrator and are interested in getting involved with the LSU Pathways, please see below for more information.
 <br>
 
@@ -55,6 +53,9 @@ Please click a link below to find out more about the Pathways curriculum at each
 <br>
 
 ## For Teachers
+<br>
+In order to teach an LSU Pathway course or module, no prior STEM experience is assumed. A teacher simply needs STEM-curiosity, enthusiasm for project-based teaching, and willingness to attend a virtual summer training workshop. Throughout the school year, teachers receive continual assistance from, and access to, LSU STEM Pathways’ support staff.
+<br>
 <br>
 To learn more about teaching with each high school pathway, click a link below to view the flyer.
 <br>

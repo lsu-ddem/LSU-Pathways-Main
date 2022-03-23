@@ -44,16 +44,16 @@ header:
 Click a link below to view the flyer for each pathway.
 <br>
 
-<a href="../../brochures/BiomedStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical Flyer</button></a> <a href="../../brochures/ComputingStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Flyer</button></a> <a href="../../brochures/DDEMStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM Flyer</button></a> <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Flyer </button></a> 
+<a href="../../brochures/BiomedStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical</button></a> <a href="../../brochures/ComputingStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing</button></a> <a href="../../brochures/DDEMStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM</button></a> <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering</button></a> 
 <br>
 <br>
 
 Click a link below for videos introducing many of the pathways course offerings.
 <br>
 
-<a href="../../news/#computing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Videos</button></a> 
-<a href="../../news/#DDEM" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM Videos</button></a> 
-<a href="../../news/#PreEngineering" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Videos</button></a> 
+<a href="../../news/#computing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing</button></a> 
+<a href="../../news/#DDEM" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM</button></a> 
+<a href="../../news/#PreEngineering" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering</button></a> 
 <br><br>
 
 Click on a dropdown to view the syllabi for each pathway.

@@ -69,7 +69,7 @@ Program Highlights:
 
 <br>
 
-## **National Scholarships** 
+## **National Scholarships** --------------------------------------------- 
 <br>
 
 ## The American Society of Mechanical Engineers High School Scholarship
