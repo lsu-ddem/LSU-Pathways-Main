@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: blank
 active: true
 # header:
 #   image: "header.jpg"
@@ -30,26 +30,78 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  #view: 3
 
   # For Showcase view, flip alternate rows?
   # flip_alt_rows: true
 ---
 
 ## **Interested in getting involved?**
-## If you are a student, teacher, parent, or school administrator and are interested in participating in LSU Pathways, click a link below to learn more. 
+<br>
+
+## If you are a student, parent, teacher, or school administrator and are interested in getting involved with the LSU Pathways, please see below for more information.
+<br>
+
+## For Students and Parents
+<br>
+Please click a link below to find out more about the Pathways curriculum at each level.
+<br>
+<br>
+<a href="../../project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School </button></a> <a href="../../project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../project/elementary-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School </button></a>
+<br>
+<br>
+
+
+<br>
+
+## For Teachers
+<br>
+To learn more about teaching with each high school pathway, click a link below to view the flyer.
+<br>
+<br>
+<a href="../../brochures/BiomedTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical</button></a> <a href="../../brochures/ComputingTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing</button></a> <a href="../../brochures/DDEMTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM</button></a> <a href="../../brochures/PreEngineeringTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering </button></a> 
+<br>
+<br>
+Learn more about teaching with the middle and elementary school pathways.
+<br>
+<br>
+<a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer </button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Flyer</button></a>
+<br>
+<br>
+
+
+<br>
+
+## For School Administrators
 <br>
 <div style="background-color:#fdd023; padding: 35px ">
 
-<div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 25px">
+<div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 10px">
 <br>
 <center>
 
 The invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute is now available.
-
-<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Information and Invitation </button></a> 
+<br>
+<br>
+<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Information </button></a> 
 <a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a>
+<br>
+
  </center>
  </div>
 </div>
+
 <br>
+<br>
+To learn more about becoming an administrator for each high school pathway, click a link below to view the flyer.
+<br>
+<br>
+<a href="../../brochures/BiomedAdmin.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Biomedical</button></a> <a href="../../brochures/ComputingAdmin.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing</button></a> <a href="../../brochures/DDEMAdmin.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM</button></a> <a href="../../brochures/PreEngineeringAdmin.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering </button></a>
+<br>
+<br>
+Learn more about the middle and elementary school pathways as an administrator.
+<br>
+<br>
+<a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer </button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary Flyer </button></a> 
+<br></br>
+ 

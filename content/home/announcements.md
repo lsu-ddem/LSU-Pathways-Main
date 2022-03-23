@@ -74,7 +74,7 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 <div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 25px">
 <center>
 
-## **MoUs Now Available**
+## **MoUs Now Available for School Administration**
 <br>
 
 The invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute is now available. If you are ready to commit to offering an LSU STEM pathways course at your school next year, please submit a request for a Memorandum of Understanding at the link below.

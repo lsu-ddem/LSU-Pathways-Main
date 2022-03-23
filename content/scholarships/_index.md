@@ -62,10 +62,7 @@ Program Highlights:
 - Access to funds to help secure internships between junior and senior year
 
 <br>
-<a href="https://form.jotform.com/lsucoediversity/lsu-s-stem-application-2022" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Apply for the PRISE Program as a participant </button></a> 
-<br>
-<br>
-<a href="https://lsu.edu/eng/prise_program.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Learn more about the PRISE Program here </button></a> 
+<a href="https://form.jotform.com/lsucoediversity/lsu-s-stem-application-2022" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Apply as a participant </button></a> <a href="https://lsu.edu/eng/prise_program.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Learn more here </button></a> 
 <br>
 <br>
 
