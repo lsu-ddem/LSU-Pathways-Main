@@ -34,10 +34,7 @@ All Pathways contain common themes, thus allowing students to transfer between P
   - Cultivation of acumen in areas that contribute to success in STEM-related fields such as research & analysis, innovation & creativity, and professional ethics
 
 <br>
-Students taking these courses can attain industry-promulgated credentials, university-issued certificates of course completion, and/or dual enrollment credit. Upon completion of a Pathway, which consists of 8 courses in a single subject area, a student will earn either a career-tech diploma or an enhanced university prep-diploma with a STEM diploma seal.
-<br>
-<br>
- Students who successfully complete four of the required courses in one Pathway will earn a Silver STEM Diploma Seal. Students will earn a Gold STEM Diploma Seal by satisfying the requirements for a Silver STEM Diploma Seal and completing four additional Elective Gold Courses from the Qualifying Course List.
+Students taking these courses can attain industry-promulgated credentials, university-issued certificates of course completion, and/or dual enrollment credit. Students who successfully complete 4 of the required courses in one Pathway will earn a Silver STEM Diploma Seal. Students will earn a Gold STEM Diploma Seal by satisfying the requirements for a Silver STEM Diploma Seal plus 4 additional Elective Gold Courses from the Qualifying Course List. Completion of a Pathway, which consists of 8 courses in a single subject area, will earn student either a career-tech diploma or an enhanced university prep-diploma.
 <br>
 <br>
 The statewide rollout of the LSU STEM Certification Pathways is a joint effort of the Louisiana Department of Education, Liberty Magnet High School, and faculty from Louisiana State University’s Gordon A. Cain Center for STEM Literacy, College of Engineering, College of Science, School of Art, School of Music, and the LSU Center for Computation & Technology.
