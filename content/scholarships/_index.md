@@ -90,3 +90,13 @@ Funded by the National Science Foundation, the LSU S-STEM Scholars program aims 
 <br>
 <br>
 <a href="https://www.lsu.edu/osi/programs/s-stem-scholars-program/index.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> S-STEM Scholars Program </button></a> 
+<br>
+<br>
+<br>
+
+## Great Minds in STEM Scholars Program
+<br>
+The intent of the GMiS Scholars Program is to increase the persistence to graduation among underrepresented and underserved STEM college students. The financial support helps these students focus on their coursework so they can graduate on time, enter a STEM profession, continue to serve as a role model for future generations, and secure the country's place as the finest technological leader in the world.
+<br>
+<br>
+<a href="https://gmis-scholars.org/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">GMiS Scholars Program </button></a> 
