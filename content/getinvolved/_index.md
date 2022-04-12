@@ -83,6 +83,9 @@ Learn more about teaching with the middle and elementary school pathways.
 
 The invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute is now available.
 <br>
+
+**Early bird registration deadline has been extended to May 1st.**
+<br>
 <br>
 <a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Information </button></a> 
 <a href="../../brochures/CourseCatalog2022.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a>
