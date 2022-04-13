@@ -94,7 +94,12 @@ The invitation to complete a Memorandum of Understanding to participate in the L
  </center>
  </div>
 </div>
-
+<br>
+<br>
+Learn how to start or expand an LSU STEM Pathway at your school at the link below.
+<br>
+<br>
+<a href="../../brochures/Slide-School.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Learn More</button></a>
 <br>
 <br>
 To learn more about becoming an administrator for each high school pathway, click a link below to view the flyer.
