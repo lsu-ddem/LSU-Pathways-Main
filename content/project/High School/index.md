@@ -41,7 +41,7 @@ header:
 <br>
 <br>
 
-Click a link below to view the flyer for each pathway. To see videos introducing the curriculum, please see our <a href = "../../news/">News and Media page.</a>
+Click a link below to view the flyer for each pathway. For videos introducing the curriculum, please see our <a href = "../../news/">news and media page.</a>
 <br>
 
 <a href="../../brochures/BiomedStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical</button></a> <a href="../../brochures/ComputingStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing</button></a> <a href="../../brochures/DDEMStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM</button></a> <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering</button></a> 
@@ -99,10 +99,7 @@ Click on a dropdown to view the syllabi for each pathway.
 <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway Brief </a>
 <br>
 <br>
- This pathway is currently a key part of two major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">brbytes.org.</a> 
- <br>
- <br>
- For an outline of recommended courses in the computing pathway, please see the
+ This pathway is currently a key part of two major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">brbytes.org.</a> For an outline of recommended courses in the computing pathway, please see the
  <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">Recommended Order of Courses Flyer.</a>
 
  
@@ -163,7 +160,6 @@ Click on a dropdown to view the syllabi for each pathway.
 
 {{< spoiler text="Digital Design and Emergent Media" >}}
  <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank"> DDEM STEM Pathway Brief </a>
- <br>
  <br>
 To view the full DDEM website please visit <a href="https://ddem.lsupathways.org" Target ="_blank">ddem.lsupathways.org. </a>
 

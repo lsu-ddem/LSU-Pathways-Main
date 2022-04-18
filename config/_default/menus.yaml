@@ -10,6 +10,9 @@ main:
   - name: About
     url: 'about/'
     weight: 20
+  - name: Curriculum
+    url: '#classes'
+    weight: 25
   - name: News and Media
     url: 'news/'
     weight: 35  
