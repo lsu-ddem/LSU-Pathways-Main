@@ -37,7 +37,7 @@ All Pathways contain common themes, thus allowing students to transfer between P
 Students taking these courses can attain industry-promulgated credentials, university-issued certificates of course completion, and/or dual enrollment credit. Students who successfully complete 4 of the required courses in one Pathway will earn a Silver STEM Diploma Seal. Students will earn a Gold STEM Diploma Seal by satisfying the requirements for a Silver STEM Diploma Seal plus 4 additional Elective Gold Courses from the Qualifying Course List. Completion of a Pathway, which consists of 8 courses in a single subject area, will earn student either a career-tech diploma or an enhanced university prep-diploma.
 <br>
 <br>
-<a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Endorsement Overview</button></a> <a href="../../brochures/Slide-Endorsements.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Endorsement Details</button></a> <a href="../../brochures/Slide-DE.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Dual Enrollment</button></a> 
+<a href="https://www.louisianabelieves.com/courses/louisiana-stem-initiative" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Louisiana Believes STEM Initiative </button></a> <a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Endorsement Overview</button></a> <a href="../../brochures/Slide-DE.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Dual Enrollment</button></a> 
 <br>
 <br>
 The statewide rollout of the LSU STEM Certification Pathways is a joint effort of the Louisiana Department of Education, Liberty Magnet High School, and faculty from Louisiana State University’s Gordon A. Cain Center for STEM Literacy, College of Engineering, College of Science, School of Art, School of Music, and the LSU Center for Computation & Technology.
@@ -146,8 +146,7 @@ Currently, the program serves over 6,400 students at 91 Louisiana schools: 11 el
 
 <br>
 
-<a href="../../brochures/STEMPathwaysPamphlet.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Pamphlet </button></a> <a href="../../brochures/Slide-LABelieves.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Louisiana Believes STEM Initiative </button></a> 
-
+<a href="../../brochures/STEMPathwaysPamphlet.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Pamphlet </button></a> 
 
 
 

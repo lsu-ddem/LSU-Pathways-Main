@@ -41,26 +41,19 @@ header:
 <br>
 <br>
 
-Click a link below to view the flyer for each pathway.
+Click a link below to view the flyer for each pathway. To see videos introducing the curriculum, please see our <a href = "../../news/">News and Media page.</a>
 <br>
 
 <a href="../../brochures/BiomedStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical</button></a> <a href="../../brochures/ComputingStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing</button></a> <a href="../../brochures/DDEMStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM</button></a> <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering</button></a> 
 <br>
 <br>
 
-Click a link below for videos introducing many of the pathways course offerings.
-<br>
-
-<a href="../../news/#computing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing</button></a> 
-<a href="../../news/#DDEM" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM</button></a> 
-<a href="../../news/#PreEngineering" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering</button></a> 
-<br><br>
-
 Click on a dropdown to view the syllabi for each pathway.
 
 
 
 {{< spoiler text="Biomedical Sciences" >}}
+<a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway Brief </a>
    #### Core Courses:
    - <a href="../../syllabi/IntroToBiomed.pdf" Target ="_blank">Intro to Biomedical Sciences </a>
    - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
@@ -103,6 +96,9 @@ Click on a dropdown to view the syllabi for each pathway.
 {{< /spoiler >}}
 
 {{< spoiler text="Computing" >}}
+<a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway Brief </a>
+<br>
+<br>
  This pathway is currently a key part of two major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">brbytes.org.</a> 
  <br>
  <br>
@@ -166,6 +162,9 @@ Click on a dropdown to view the syllabi for each pathway.
 
 
 {{< spoiler text="Digital Design and Emergent Media" >}}
+ <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank"> DDEM STEM Pathway Brief </a>
+ <br>
+ <br>
 To view the full DDEM website please visit <a href="https://ddem.lsupathways.org" Target ="_blank">ddem.lsupathways.org. </a>
 
   #### Core Courses:
@@ -200,7 +199,7 @@ To view the full DDEM website please visit <a href="https://ddem.lsupathways.org
 {{< /spoiler >}}
 
 {{< spoiler text="Pre-Engineering" >}}
-
+<a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank"> Pre-Engineering STEM Pathway Brief </a>
    #### Core Courses:
    - <a href = "../../syllabi/IntroToEngineering.pdf" target = "_blank"> Intro to Engineering Design (DE) </a>
    - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
