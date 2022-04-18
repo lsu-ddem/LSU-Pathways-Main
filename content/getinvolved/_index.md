@@ -60,7 +60,7 @@ In order to teach an LSU Pathway course or module, no prior STEM experience is a
 To learn more about teaching with each pathway, click a link below to view the flyer.
 <br>
 <br>
-<a href="../../brochures/TeacherFlyers.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School Flyers</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer </button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Flyer</button></a>
+<a href="../../brochures/TeacherFlyers.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a>
 <br>
 <br>
 
@@ -99,6 +99,6 @@ Learn how to start or expand an LSU STEM Pathway at your school at the link belo
 To learn more about becoming an administrator for each pathway, click a link below to view the flyer.
 <br>
 <br>
-<a href="../../brochures/AdminFlyers.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">High School Flyers</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer </button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary Flyer </button></a> 
+<a href="../../brochures/AdminFlyers.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a> 
 <br></br>
  
