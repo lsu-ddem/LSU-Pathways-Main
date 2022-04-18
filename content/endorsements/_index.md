@@ -2,7 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-active: true
+active: false
 # header:
 #   image: "header.jpg"
 # This file represents a page section.
