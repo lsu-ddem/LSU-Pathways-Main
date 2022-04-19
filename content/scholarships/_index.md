@@ -17,7 +17,7 @@ design:
 
 ## LSU Pre-Engineering Pathway Gold STEM Seal Scholarship
 <br>
-The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester. 
+The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester. Deadline to apply is April 15th.
 
 <br>
 <br>
