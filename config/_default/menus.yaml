@@ -25,6 +25,9 @@ main:
   - name: Scholarships
     url: "scholarships/"
     weight: 50
+  - name: Endorsements
+    url: "endorsements/"
+    weight: 55
   # - name: Publications
   #   url: '#featured'
   #   weight: 50

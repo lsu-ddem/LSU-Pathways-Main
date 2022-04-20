@@ -49,7 +49,6 @@ design:
 <br>
 {{< spoiler text="View School List" >}}
 
-- Brusly High School
 - Liberty Magnet High School
 - STEM Magnet Academy of Point Coupee
 {{< /spoiler >}}
@@ -58,7 +57,7 @@ design:
 ## 2020-2021
 71 students graduated with STEM endorsements from LSU Pathways. 
 <br>
-<a href = "https://endorsements.lsupathways.com/" target = "_blank">2021 List of Students</a> 
+This year, our students were asked to submit a portrait and short bio to be published. <a href = "https://endorsements.lsupathways.com/" target = "_blank">View 2021 Student Bios.</a> 
 <br>
 {{< spoiler text="View School List" >}}
 
