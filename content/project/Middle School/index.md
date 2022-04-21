@@ -16,7 +16,63 @@ header:
 #   focal_point: Smart
 ---
 
-## LSU Pathways for middle school consists of two introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways.
+## While the Louisiana Department of Education (LDOE) STEM Pathways are designed for students in 9th-12th grade, LSU recognizes the need to create a pipeline for success beginning elementary and middle school.  There are several opportunities for middle school students to get involved with the LSU STEM Pathways before 9th grade. 
+<br>
+<a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer</button></a> 
+
+<br>
+<br>
+
+## LSU Pathways provides high school credit STEM Pathways courses for middle school students.
+<br>
+LSU STEM Pathways has two high school courses that can be taken in middle school for high school credit. These courses are designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four LSU STEM pathways. 
+<br>
+<br>
+{{< spoiler text="Introduction to STEM Pathways and Careers" >}}
+
+Introduction to STEM Pathways and Careers was developed for the Louisiana Department of Education through a partnership between Louisiana State University and the East Baton Rouge Parish School System, with partial funding from the National Science Foundation. This course is a high school credit basic career readiness course that counts on all STEM Pathways as well as towards traditional Jumpstart diplomas.  While the course is designed to be taken in high school, it is available to students as early as seventh grade. 
+
+This year long project-based course explores four main pathways of STEM education and possible careers in the fields of 1) Computing and Computer Science, 2) Pre-Engineering, 3) Digital Design and Emergent Media, and 4) Biomedical Sciences. This course is meant to expose students to these overarching concepts: 
+	
+- To expand awareness of various careers and occupational pathways related to STEM
+-	To stimulate the understanding of higher order thinking processes such as the engineering design process, the scientific method, and computational thinking
+-	To develop foundational knowledge and skills in the JumpStart pathways and careers as related to STEM, and utilize the knowledge and skills in their current educational setting.
+-	To increase interest in the four core areas of STEM related to this class through project-based activities that are also standards based.
+<br><br>
+
+Course Objectives:
+-	Identify career opportunities in various STEM fields.
+-	Use computing technology for creative expression.
+-	Explain the Software Development Process through projects and activities where students design and code.
+-	Explain the Engineering Design Process and utilize the process in various engineering projects.
+-	Describe the role of visual communication and its cultural implications in society.
+-	Use various forms of digital and emergent media to design their own products.
+-	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
+
+<br>
+{{< /spoiler >}}
+
+
+{{< spoiler text="Survey of Computer Science" >}}
+
+This course is part of the high school Computing Pathway and can be taken for high school credit beginning in 8th grade.  
+
+The course follows the framework of Seven Big Ideas adopted in the AP Computer Science Principles (CSP) course but focuses more on fun and engaging exploration and experimentation and less on problem-solving and formal analysis than the AP CSP course. To prepare students for the rigors of other courses in the Pathway, this course models ways to adopt a productive disposition that fosters creativity and perseverance. In addition, career exploration lessons are threaded throughout the course, with a focus on developing students' interest in computing and identification with the computing professions. 
+<br><br>
+
+Course Objectives:  
+- Demonstrate how to use technology to create computing artifacts. 
+- Explain the Big Ideas in Computing. 
+- Describe how computers work, and how to use them effectively. 
+- Analyze how the Big Ideas in Computing are relevant in daily life. 
+- Describe careers related to computing and the requisites for each. 
+- Communicate computing ideas using appropriate terminology 
+- Collaborate with other students to develop computing artifacts, algorithms or protocols. 
+
+{{< /spoiler >}}
+ <br>
+
+## LSU Pathways middle school credit courses are designed to prepare students for STEM Pathways.
 <br>
 <div style="background-color:#fdd023; padding: 35px ">
 
@@ -29,75 +85,6 @@ The Middle School STEM Pathways Program is pleased to announce we will be piloti
  </center>
  </div>
 </div>
-<br>
-
-<center>
-<a href="#introduction"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Introduction to STEM Pathways Course</button></a> <a href="#computing"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Survey of Computer Science Course </button></a>
-<br>
-</br>
-</center>
-
-<a id ="introduction">
-<br>
-
-## **Introduction to STEM Pathways and Careers**
-<br>
-
-Introduction to STEM Pathways and Careers was developed for the Louisiana Department of Education through a partnership between Louisiana State University and the East Baton Rouge Parish School System, with partial funding from the National Science Foundation. The course is offered to middle school students at the seventh-grade level for high school credit and serves as a universal course elective for the STEM Pathways as well as JUMPSTART and PLTW. 
-
-This year long project-based course explores four main pathways of STEM education and possible careers in the fields of 1) Computing and Computer Science, 2) Pre-Engineering, 3) Digital Design and Emergent Media, and 4) Biomedical Sciences. This course is meant to expose students to these overarching concepts: 
-	
-- To expand awareness of various careers and occupational pathways related to STEM
--	To stimulate the understanding of higher order thinking processes such as the engineering design process, the scientific method, and computational thinking
--	To develop foundational knowledge and skills in the JumpStart pathways and careers as related to STEM, and utilize the knowledge and skills in their current educational setting.
--	To increase interest in the four core areas of STEM related to this class through project-based activities that are also standards based.
-<br><br>
-
-#### Course Objectives:
--	Identify career opportunities in various STEM fields.
--	Use computing technology for creative expression.
--	Explain the Software Development Process through projects and activities where students design and code.
--	Explain the Engineering Design Process and utilize the process in various engineering projects.
--	Describe the role of visual communication and its cultural implications in society.
--	Use various forms of digital and emergent media to design their own products.
--	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
-
-<br>
-
-
-</a>
-
-
-
-<a id = "computing">
-<br>
-
-## **Survey of Computer Science**
-<br>
-
-This course introduces the basics of computing using fun and engaging activities instead of 
-formally describing the concepts. It follows the framework of Seven Big Ideas adopted in the AP 
-Computer Science Principles course, but it has more emphasis on exploration and 
-experimentation, and less emphasis on problem-solving and formal analysis than a regular CSP 
-course. To prepare students for the rigors of other courses in the Pathway, this course models 
-ways to adopt a productive disposition that fosters creativity and perseverance. In addition, career 
-exploration lessons are threaded throughout the course, with a focus on developing students' 
-interest in computing and identification with the computing professions. 
-<br><br>
-
-#### Course Objectives:  
-- Demonstrate how to use technology to create computing artifacts. 
-- Explain the Big Ideas in Computing. 
-- Describe how computers work, and how to use them effectively. 
-- Analyze how the Big Ideas in Computing are relevant in daily life. 
-- Describe careers related to computing and the requisites for each. 
-- Communicate computing ideas using appropriate terminology 
-- Collaborate with other students to develop computing artifacts, algorithms or protocols. 
- <br>
- <br>
-
-<a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer</button></a> <a href="../../brochures/ComputingFlowChart.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Recommended Order of Courses Flyer </button></a> 
-</a>
 
 <br>
 <br>
