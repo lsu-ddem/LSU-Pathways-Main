@@ -28,7 +28,7 @@ header:
 LSU STEM Pathways has two high school courses that can be taken in middle school for high school credit. These courses are designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four LSU STEM pathways. 
 <br>
 <br>
-{{< spoiler text="Introduction to STEM Pathways and Careers" >}}
+{{< spoiler text="Introduction to STEM Pathways and Careers (Basic Career Readiness Course)" >}}
 
 Introduction to STEM Pathways and Careers was developed for the Louisiana Department of Education through a partnership between Louisiana State University and the East Baton Rouge Parish School System, with partial funding from the National Science Foundation. This course is a high school credit basic career readiness course that counts on all STEM Pathways as well as towards traditional Jumpstart diplomas.  While the course is designed to be taken in high school, it is available to students as early as seventh grade. 
 
@@ -49,11 +49,13 @@ Course Objectives:
 -	Use various forms of digital and emergent media to design their own products.
 -	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
 
+For a complete list of LDOE Jump Start universal courses please <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">click here.</a>
+
 <br>
 {{< /spoiler >}}
 
 
-{{< spoiler text="Survey of Computer Science" >}}
+{{< spoiler text="Survey of Computer Science (Computing Pathway Only)" >}}
 
 This course is part of the high school Computing Pathway and can be taken for high school credit beginning in 8th grade.  
 

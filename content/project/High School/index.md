@@ -41,16 +41,40 @@ header:
 <br>
 <br>
 
-Click a link below to view the flyer for each pathway. For videos introducing the curriculum, please see our <a href = "../../news/">news and media page.</a>
+<b>Click a link below to view the flyer for each pathway.</b>
+<br> 
+For videos introducing the curriculum, please see our <a href = "../../news/">news and media page.</a>
 <br>
 
 <a href="../../brochures/BiomedStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical</button></a> <a href="../../brochures/ComputingStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing</button></a> <a href="../../brochures/DDEMStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM</button></a> <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering</button></a> 
 <br>
 <br>
+<br>
+Introduction to STEM Pathways and Careers is a high school course available both at the middle school level and at the high school level. It can be applied toward any of the four pathways. For a complete list of LDOE Jump Start universal courses please <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">click here.</a>
+{{< spoiler text="Introduction to STEM Pathways and Careers (Basic Career Readiness Course)" >}}
 
-Click on a dropdown to view the syllabi for each pathway.
+Introduction to STEM Pathways and Careers was developed for the Louisiana Department of Education through a partnership between Louisiana State University and the East Baton Rouge Parish School System, with partial funding from the National Science Foundation. This course is a high school credit basic career readiness course that counts on all STEM Pathways as well as towards traditional Jumpstart diplomas.  While the course is designed to be taken in high school, it is available to students as early as seventh grade. 
 
+This year long project-based course explores four main pathways of STEM education and possible careers in the fields of 1) Computing and Computer Science, 2) Pre-Engineering, 3) Digital Design and Emergent Media, and 4) Biomedical Sciences. This course is meant to expose students to these overarching concepts: 
+	
+- To expand awareness of various careers and occupational pathways related to STEM
+-	To stimulate the understanding of higher order thinking processes such as the engineering design process, the scientific method, and computational thinking
+-	To develop foundational knowledge and skills in the JumpStart pathways and careers as related to STEM, and utilize the knowledge and skills in their current educational setting.
+-	To increase interest in the four core areas of STEM related to this class through project-based activities that are also standards based.
+<br><br>
 
+Course Objectives:
+-	Identify career opportunities in various STEM fields.
+-	Use computing technology for creative expression.
+-	Explain the Software Development Process through projects and activities where students design and code.
+-	Explain the Engineering Design Process and utilize the process in various engineering projects.
+-	Describe the role of visual communication and its cultural implications in society.
+-	Use various forms of digital and emergent media to design their own products.
+-	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
+
+{{< /spoiler >}}
+<br>
+<b>Click on a dropdown to view the syllabi for each pathway.</b>
 
 {{< spoiler text="Biomedical Sciences" >}}
 <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway Brief </a>
