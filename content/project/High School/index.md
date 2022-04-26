@@ -50,7 +50,7 @@ For videos introducing the curriculum, please see our <a href = "../../news/">ne
 <br>
 <br>
 <br>
-Introduction to STEM Pathways and Careers is a high school course available both at the middle school level and at the high school level. It can be applied toward any of the four pathways. For a complete list of LDOE Jump Start universal courses please <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">click here.</a>
+Introduction to STEM Pathways and Careers is a Jumpstart 2.0 Basic Career Readiness course that can be taken in either high school or in middle school for high school credit. It can be applied toward any of the four STEM Pathways or any of the Jumpstart 2.0 pathways. For a complete list of LDOE Jump Start universal courses please <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">click here.</a>
 {{< spoiler text="Introduction to STEM Pathways and Careers (Basic Career Readiness Course)" >}}
 
 Introduction to STEM Pathways and Careers was developed for the Louisiana Department of Education through a partnership between Louisiana State University and the East Baton Rouge Parish School System, with partial funding from the National Science Foundation. This course is a high school credit basic career readiness course that counts on all STEM Pathways as well as towards traditional Jumpstart diplomas.  While the course is designed to be taken in high school, it is available to students as early as seventh grade. 
