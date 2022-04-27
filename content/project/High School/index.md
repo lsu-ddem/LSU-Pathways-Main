@@ -137,7 +137,7 @@ Course Objectives:
        - AP Computer Science Principles
    - Applications of Computing Core (one from):
        - <a href = "../../syllabi/SurveyOfComputing.pdf" Target = "_blank"> Survey of Computer Science </a>
-       - Interactive Computing
+       - <a a href = "../../syllabi/InteractiveComputing.pdf" target = "_blank"> Interactive Computing </a>
 
    #### LSU Electives:
    - Bioinformatics
@@ -148,7 +148,7 @@ Course Objectives:
    - <a href ="../../syllabi/ProgrammingDigitalMedia.pdf" Target ="_blank">Programming for Digital Media (DE) </a>
    - <a href = "../../syllabi/ProgrammingForSTEM.pdf" Target ="_blank"> Programming for STEM </a>
    - <a href = "../../syllabi/IntroToRobotics.pdf" target = "_blank"> Robotics </a>
-   - Video Game Design
+   - <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
 
    #### Other Approved Electives:
    - AP Calculus AB
@@ -197,11 +197,10 @@ To view the full DDEM website please visit <a href="https://ddem.lsupathways.org
    - <a href = "../../syllabi/InteractiveDigitalMediaCapstone.pdf" target = "_blank"> Interactive Digital Media Capstone </a>
    - <a href = "../../syllabi/SoundDesign.pdf" target = "_blank">Sound Design (DE)</a>
    - <a href = "../../syllabi/DigitalImage.pdf" target = "_blank"> Digital Image & Motion Graphics (AP Art) </a>
-   - Basic/Advanced Film
-   - Film and TV
+   - <a href= "../../syllabi/FilmAndTV.pdf" target = "_blank">Basic/Advanced Film and TV </a>
    - <a href = "../../syllabi/ProgrammingForEngineers.pdf" target = "_blank"> Programming for Engineers </a>
    - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
-   - Video Game Design
+   - <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
 
   #### Other Approved Electives:
    - AP Calculus AB
@@ -229,7 +228,7 @@ To view the full DDEM website please visit <a href="https://ddem.lsupathways.org
       - <a href ="../../syllabi/PrinciplesOfEngineering.pdf" target = "_blank"> Principles of Engineering </a>
 
    #### LSU Electives:
-   - Engineering Economy
+   - <a href= "../../syllabi/EngineeringEconomy.pdf" target = "_blank">Engineering Economy </a>
    - <a href ="../../syllabi/PrinciplesOfEngineering.pdf" target = "_blank"> Principles of Engineering </a>
    - <a href = "../../syllabi/EngineeringDesign.pdf" target = "_blank"> Engineering Design and Development </a>
    - <a href = "../../syllabi/ProgrammingForEngineers.pdf" target = "_blank"> Programming for Engineers </a>

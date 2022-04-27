@@ -49,6 +49,8 @@ Course Objectives:
 -	Use various forms of digital and emergent media to design their own products.
 -	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
 
+For a list of materials for this course please <a href="../../syllabi/IntroSTEMPathways.pdf" target="_blank">click here.</a>
+
 For a complete list of LDOE Jump Start universal courses please <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">click here.</a>
 
 <br>
@@ -71,6 +73,8 @@ Course Objectives:
 - Communicate computing ideas using appropriate terminology 
 - Collaborate with other students to develop computing artifacts, algorithms or protocols. 
 
+For a list of materials for this course please <a href="../../syllabi/SurveyOfComputing.pdf" target="_blank">click here.</a>
+
 {{< /spoiler >}}
  <br>
 
@@ -87,9 +91,10 @@ The Middle School STEM Pathways Program is pleased to announce we will be piloti
  </center>
  </div>
 </div>
-
+<br>
+For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
 <br>
 <br>
-
+<br>
 Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant.
 <br>
