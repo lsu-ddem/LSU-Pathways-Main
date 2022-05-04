@@ -14,7 +14,7 @@ design:
 
 ## **More about LSU Pathways** 
 
- ## The LSU STEM Pathways program provides access to over 24 project-based middle and high school STEM courses as well as STEM modules for the elementary grades. 
+ ## The LSU STEM Pathways program provides access to over 24 project-based middle and high school STEM courses as well as STEM modules for middle and elementary school grades. 
 
  <br>
 

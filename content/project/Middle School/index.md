@@ -78,7 +78,7 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 {{< /spoiler >}}
  <br>
 
-## LSU Pathways middle school credit courses are designed to prepare students for STEM Pathways.
+## LSU Pathways also offers middle school courses that are designed to prepare students for STEM Pathways.
 <br>
 <div style="background-color:#fdd023; padding: 35px ">
 
@@ -87,12 +87,12 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 
 The Middle School STEM Pathways Program is pleased to announce we will be piloting new 6th grade courses in summer of 2022. This will allow us to expand the number of quality course offerings at the middle school level that support STEM and PBL in the classrooms. 
  
- For more information on our newest pilots, please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
+ For more information on our newest pilots-- Aquaponics, Step into STEM, and Intro to Computing-- please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
  </center>
  </div>
 </div>
 <br>
-For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
+In addition to courses, LSU Pathways offers middle school STEM training during the summer. For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
 <br>
 <br>
 <br>
