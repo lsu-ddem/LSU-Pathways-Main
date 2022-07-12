@@ -53,7 +53,5 @@ labor/projects/STEM-micro-credentials.html" target="_blank"><button style= "back
 
 <br>
 
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant.
-<br>
-
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities.
 
