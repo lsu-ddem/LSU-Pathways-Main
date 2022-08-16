@@ -48,10 +48,11 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 ## Who Does LSU STEM Pathways?
 <br>
-Currently, the program serves over 6,400 students at 91 Louisiana schools: 11 elementary, 21 middle, and 59 high. To see current participating schools, click the dropdown below. 
+In 2021-22, the program serves over 6,400 students at 91 Louisiana schools: 11 elementary, 21 middle, and 59 high. To see current participating schools, click the dropdown below. 
 <br>
 <br>
-{{< spoiler text="View School List" >}}
+
+{{< spoiler text="View 2021-22 School List" >}}
 
 - Alfred M. Barbe High School
 - Amite High Magnet
@@ -132,6 +133,11 @@ Currently, the program serves over 6,400 students at 91 Louisiana schools: 11 el
 - Zachary High School
 
 {{< /spoiler >}}
+
+<img src="https://media.giphy.com/media/KIk6U9M3YdzhApnbYr/giphy.gif" alt="Pathways Growth Map" width="500" height="600">
+
+Follow us on <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >LinkedIn here</a> to see the STEM Pathways in action. 
+<br>
 <br>
 
  ## Why Be a Part of LSU STEM Pathways?

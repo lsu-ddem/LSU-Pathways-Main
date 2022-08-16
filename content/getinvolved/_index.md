@@ -57,6 +57,9 @@ Please click a link below to find out more about the Pathways curriculum at each
 In order to teach an LSU Pathway course or module, no prior STEM experience is assumed. A teacher simply needs STEM-curiosity, enthusiasm for project-based teaching, and willingness to attend a virtual summer training workshop. Throughout the school year, teachers receive continual assistance from, and access to, LSU STEM Pathways’ support staff.
 <br>
 <br>
+<a href="../../brochures/Slide-TeacherTestimonials.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Teacher Testimonials</button></a>
+<br>
+<br>
 To learn more about teaching with each pathway, click a link below to view the flyer.
 <br>
 <br>
@@ -75,10 +78,7 @@ To learn more about teaching with each pathway, click a link below to view the f
 <br>
 <center>
 
-The invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute is now available.
-<br>
-
-**Early bird registration deadline has been extended to May 1st.**
+The invitation to complete a memorandum of understanding to participate in the LSU STEM Pathways program is now closed. If you are interested in offering a pathway course for 2023-24, please email stempathways@lsu.edu to request more information. 
 <br>
 <br>
 <a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Information </button></a> 
