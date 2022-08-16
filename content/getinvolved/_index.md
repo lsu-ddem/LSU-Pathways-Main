@@ -81,8 +81,11 @@ To learn more about teaching with each pathway, click a link below to view the f
 The invitation to complete a memorandum of understanding to participate in the LSU STEM Pathways program is now closed. If you are interested in offering a pathway course for 2023-24, please email stempathways@lsu.edu to request more information. 
 <br>
 <br>
-<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Information </button></a> 
-<a href="../../brochures/CourseCatalog2022.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a>
+To see past information, click on the 2022-23 links below.
+<br>
+<br>
+<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022-23 Summer Institute Information </button></a> 
+<a href="../../brochures/CourseCatalog2022.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a>
 <br>
 
  </center>
