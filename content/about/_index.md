@@ -134,9 +134,21 @@ In 2021-22, the program serves over 6,400 students at 91 Louisiana schools: 11 e
 
 {{< /spoiler >}}
 
-<img src="https://media.giphy.com/media/KIk6U9M3YdzhApnbYr/giphy.gif" alt="Pathways Growth Map" width="500" height="600">
+<img src="https://media.giphy.com/media/rEBs3MvSPrAVPEjT5V/giphy.gif" alt="Pathways Growth Map" width="500" height="600">
+<table>
+  <tr>
+    <!-- <th></th>  -->
+     </tr>
+     <tr>     
+    <td bgcolor="#D6C9E3">Original District - EBR</td> 
+    <td bgcolor ="#FDF3C9">1 Participating School</td>  
+    <td bgcolor="#FFE891">2-3 Participating Schools</td> 
+    <td bgcolor="#FDD023">4+ Participating Schools</td>  
+  </tr>
+</table>
 
-Follow us on <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >LinkedIn here</a> to see the STEM Pathways in action. 
+<br>
+&#8594 Follow us on <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >LinkedIn here</a> to see the STEM Pathways in action. &#8592
 <br>
 <br>
 
