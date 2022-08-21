@@ -59,76 +59,70 @@ In 2021-22, we served 71 schools who offered high school credit LSU STEM pathway
 - Baker High School
 - Bastrop High School
 - Baton Rouge Magnet High School
-- Beau Chêne High School
+- Beau Chene High School
+- Belaire High School
 - Benjamin Franklin High School
 - Breaux Bridge High School
 - Broadmoor Senior High School
 - Capitol Middle School
 - Carencro High School
-- Catholic High School of Pointe Coupee
 - Central High School
 - Central Middle School
-- College and Career Center
 - Delhi Charter School
 - Denham Springs High School STEM and Robotics Center
 - Denham Springs Junior High School
 - Donaldsonville High School
 - Dutchtown High School
 - East Ascension High School
-- Einstein Charter High School
+- Einstein Charter High School at Sarah Towles Reed
 - Eunice High School
 - General Trass High School
 - Glasgow Middle School
 - Glen Oaks Senior High School
 - Grace King High School
-- Grand Isle High School
+- Hammond High Magnet School
 - Haynes Academy School for Advanced Studies
 - IDEA Bridge
-- Istrouma High School
 - Juban Parc Junior High School
+- Kentwood High Magnet School
+- LA School for Ag Science
 - Leesville High School
 - Liberty High School
-- Livingston Collegiate Academy
-- Livonia High School 
-- LSU Laboratory School
 - Madison High School
+- Madison Preparatory Academy
+- Mayfair Laboratory School
 - McKinley Middle Magnet School
 - McKinley Senior High School
 - Morehouse Magnet School
 - MSA East
-- MSA West
-- New Orleans Charter Science and Math High School
+- New Orleans Charter Science and Mathematics HS
 - New Orleans Military & Maritime Academy
 - North Central High School
-- Northdale Superintendent’s Academy
 - Northeast High School
-- Northside High School
 - Northwest High School
 - Park Forest Middle School
-- Park Ridge Academy Magnet School
-- Point Coupee SMA
+- Patrick F. Taylor Science & Technology Academy
+- Pine School
+- Pointe Coupee SMA
 - Ponchatoula High School
 - Port Barre High School
 - Rapides CTEP
 - Scotlandville Magnet High School
-- Scotlandville Pre-Engineering Academy
 - Sherwood Middle Academic Academy
 - Southeast Middle School
 - Southside Junior High School
-- Southwood High School
 - St. Amant High School
-- St. James SMA
+- St. James College and Careers Center
 - St. John the Baptist SMA
 - St. Martinville Junior High School
 - St. Martinville Senior High School
 - Sulphur High School
 - Tara High School
-- West Feliciana Middle School
 - West Feliciana High School
-- West St. John Elementary School (K-7)
+- West Feliciana Middle School
 - Westdale Middle School
-- Winnfield High School 
-- Woodlawn High School 
+- Winnfield High School
+- Woodlawn High School
 - Woodlawn Middle School
 - Zachary High School
 
