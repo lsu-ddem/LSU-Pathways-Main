@@ -48,7 +48,7 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 ## Who Does LSU STEM Pathways?
 <br>
-In 2021-22, the program serves over 6,400 students at 91 Louisiana schools: 11 elementary, 21 middle, and 59 high. To see current participating schools, click the dropdown below. 
+In 2021-22, we served 71 schools who offered high school credit LSU STEM pathway courses plus an additional 20 middle and elementary schools offering non-high school credit STEM electives. To see current participating schools, click the dropdown below. 
 <br>
 <br>
 
@@ -134,7 +134,7 @@ In 2021-22, the program serves over 6,400 students at 91 Louisiana schools: 11 e
 
 {{< /spoiler >}}
 
-<img src="https://media.giphy.com/media/rEBs3MvSPrAVPEjT5V/giphy.gif" alt="Pathways Growth Map" width="500" height="600">
+<img src="https://media.giphy.com/media/4acO5F99G3XQViUKcI/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow.  17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="500" height="600">
 <table>
   <tr>
     <!-- <th></th>  -->
