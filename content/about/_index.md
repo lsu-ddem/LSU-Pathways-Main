@@ -158,8 +158,4 @@ In 2021-22, we served 71 schools who offered high school credit LSU STEM pathway
 
 <br>
 
-<a href="../../brochures/STEMPathwaysPamphlet.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Pamphlet </button></a> 
-
-
-
-
+<a href="../../brochures/STEMPathwaysPamphlet.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Pamphlet </button></a>

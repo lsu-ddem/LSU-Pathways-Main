@@ -76,7 +76,16 @@ Course Objectives:
 For a list of materials for this course please <a href="../../syllabi/SurveyOfComputing.pdf" target="_blank">click here.</a>
 
 {{< /spoiler >}}
- <br>
+<br>
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jou2derURWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<br>
+Middle School students from East Baton Rouge Parish demonstrate electronic toys they designed as part of a project in the Intro to STEM Pathways and Careers class for high school credit. The project-based class incorporates engineering, digital design, bioscience, and computer science along with career education and is part of the STEM Pathways curriculum. For more information on bringing the course to your school, please contact Nicole Foster at nfoster1@lsu.edu
+<br>
+<br>
+<br>
 
 ## LSU Pathways also offers middle school courses that are designed to prepare students for STEM Pathways.
 <br>
@@ -96,6 +105,5 @@ In addition to courses, LSU Pathways offers middle school STEM training during t
 <br>
 <br>
 <br>
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities.
-
 <br>
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities.
