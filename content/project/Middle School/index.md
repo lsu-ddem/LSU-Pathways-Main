@@ -102,7 +102,6 @@ The Middle School STEM Pathways Program is pleased to announce we will be piloti
 </div>
 <br>
 <br>
-<br>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3STUGn69dmg" title="Step into STEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
@@ -110,11 +109,8 @@ The Middle School STEM Pathways Program is pleased to announce we will be piloti
 Sixth graders at Southside Junior High built pinball machines as part of the engineering unit in their STEP Into STEM course.  Over the course of the project, students learned about the engineering design process and safety, as well as concepts related to forces, kinetic and potential energy, friction and gravity, and basic circuits for bells, sounds, and lights. Students finished their projects by presenting them to other students as well as external stakeholders, the librarians, who would be housing the projects in the school's makerspace.  
 <br>
 <br>
-<br>
 
-In addition to courses, LSU Pathways offers middle school STEM training during the summer. For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
-<br>
-<br>
+## In addition to courses, LSU Pathways offers middle school STEM training during the summer. For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
 <br>
 <br>
 Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities.
