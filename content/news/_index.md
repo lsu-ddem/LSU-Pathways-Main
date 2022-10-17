@@ -105,6 +105,16 @@ This was a video created by a student at Delta Charter Storm High School as part
 
 <br>
 <br>
+<a id ="middleschool">
+
+## **Middle School Pathway**
+<br>
+<iframe width="450" height="250" src="https://www.youtube.com/embed/jou2derURWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/3STUGn69dmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</a>
+<br>
+
+<br>
+<br>
 <a id ="elementaryschool">
 
 ## **Elementary School Pathway**
