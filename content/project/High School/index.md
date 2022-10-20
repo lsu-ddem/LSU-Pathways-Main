@@ -66,10 +66,15 @@ Course Objectives:
 -	Use various forms of digital and emergent media to design their own products.
 -	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
 
+
 {{< /spoiler >}}
 <br>
-<b>Click on the dropdown to learn more about each pathway, including a syllabus for each class.</b>
 
+## STEM Pathways Options
+<br>
+Click a dropdown to learn more about each pathway, including a syllabus for each class.
+<br>
+<br>
 {{< spoiler text="Biomedical Sciences" >}}
 <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway Brief </a>
 <br>

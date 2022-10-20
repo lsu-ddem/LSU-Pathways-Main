@@ -77,15 +77,6 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 
 {{< /spoiler >}}
 <br>
-<br>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jou2derURWY" title="Intro to STEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-<br>
-Middle School students from East Baton Rouge Parish demonstrate electronic toys they designed as part of a project in the Intro to STEM Pathways and Careers class for high school credit. The project-based class incorporates engineering, digital design, bioscience, and computer science along with career education and is part of the STEM Pathways curriculum. For more information on bringing the course to your school, please contact Nicole Foster at nfoster1@lsu.edu
-<br>
-<br>
-<br>
 
 ## LSU Pathways also offers middle school courses that are designed to prepare students for STEM Pathways.
 <br>
@@ -100,14 +91,6 @@ The Middle School STEM Pathways Program is pleased to announce we will be piloti
  </center>
  </div>
 </div>
-<br>
-<br>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3STUGn69dmg" title="Step into STEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-<br>
-Sixth graders at Southside Junior High built pinball machines as part of the engineering unit in their STEP Into STEM course.  Over the course of the project, students learned about the engineering design process and safety, as well as concepts related to forces, kinetic and potential energy, friction and gravity, and basic circuits for bells, sounds, and lights. Students finished their projects by presenting them to other students as well as external stakeholders, the librarians, who would be housing the projects in the school's makerspace.  
-<br>
 <br>
 
 ## In addition to courses, LSU Pathways offers middle school STEM training during the summer. For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
