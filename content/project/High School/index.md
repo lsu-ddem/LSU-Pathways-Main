@@ -37,15 +37,24 @@ header:
 ## LSU Pathways for high school is a robust curriculum designed for in-depth study of one of four available STEM pathways. Students can choose to study biomedical sciences, computing, digital design and emergent media, or pre-engineering.
 <br>
 
+## Who Does LSU STEM High School Pathways?
+<img src = "../../../graphics/hsgraphic.png">
+<img src = "../../../graphics/hsmap.png">
+
+<br>
+
+## Course Information
+<br>
 <a href="../../brochures/CourseCatalog2022.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a>
 <br>
 <br>
 
 ## Basic Career Readiness Course (All Pathways)
-<br>
+{{< spoiler text="Introduction to STEM Pathways and Careers" >}}
 
 Introduction to STEM Pathways and Careers is a Jumpstart 2.0 Basic Career Readiness course that can be taken in either high school or in middle school for high school credit. It can be applied toward any of the four STEM Pathways or any of the Jumpstart 2.0 pathways. For a complete list of LDOE Jump Start universal courses please <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">click here.</a>
-{{< spoiler text="Introduction to STEM Pathways and Careers" >}}
+<br>
+<br>
 
 Introduction to STEM Pathways and Careers was developed for the Louisiana Department of Education through a partnership between Louisiana State University and the East Baton Rouge Parish School System, with partial funding from the National Science Foundation. This course is a high school credit basic career readiness course that counts on all STEM Pathways as well as towards traditional Jumpstart diplomas.  While the course is designed to be taken in high school, it is available to students as early as seventh grade. 
 
@@ -66,11 +75,13 @@ Course Objectives:
 -	Use various forms of digital and emergent media to design their own products.
 -	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
 
-
-{{< /spoiler >}}
 <br>
+{{< /spoiler >}}
+ <br>
 
 ## STEM Pathways Options
+{{< spoiler text="Biomedical, Computing, Digital Design and Emergent Media, and Pre-Engineering" >}}
+
 <br>
 Click a dropdown to learn more about each pathway, including a syllabus for each class.
 <br>
@@ -79,6 +90,7 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway Brief </a>
 <br>
 <a href="../../brochures/BiomedStudent.pdf" target="_blank">Biomedical Pathway Information for Students </a>
+
 
 
    #### Core Courses:
@@ -269,8 +281,9 @@ Pre-Engineering STEM Pathway Brief </a>
 
 <br>
 
+{{< /spoiler >}}
 
-
+<br>
 <br>
 
 Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities. 
