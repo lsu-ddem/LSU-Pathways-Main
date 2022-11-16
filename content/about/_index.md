@@ -128,7 +128,8 @@ In 2021-22, we served 71 schools who offered high school credit LSU STEM pathway
 
 {{< /spoiler >}}
 
-<img src="https://media.giphy.com/media/4acO5F99G3XQViUKcI/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow.  17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="500" height="600">
+<img src = "../../../graphics/allgraphic.png">
+<img src="https://media.giphy.com/media/4acO5F99G3XQViUKcI/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow.  17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="650" height="750">
 <table>
   <tr>
     <!-- <th></th>  -->
@@ -140,7 +141,9 @@ In 2021-22, we served 71 schools who offered high school credit LSU STEM pathway
     <td bgcolor="#FDD023">4+ Participating Schools</td>  
   </tr>
 </table>
+ 
 
+<br>
 <br>
 &#8594 Follow us on <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >LinkedIn here</a> to see the STEM Pathways in action. &#8592
 <br>
