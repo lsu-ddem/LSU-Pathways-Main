@@ -18,9 +18,9 @@ header:
 
 ## While the Louisiana Department of Education (LDOE) STEM Pathways are designed for students in 9th-12th grade, LSU recognizes the need to create a pipeline for success beginning elementary and middle school.  There are several opportunities for middle school students to get involved with the LSU STEM Pathways before 9th grade. 
 <br>
+
 <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer</button></a> 
 
-<br>
 <br>
 
 ## LSU Pathways provides high school credit STEM Pathways courses for middle school students.
@@ -78,22 +78,36 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 {{< /spoiler >}}
 <br>
 
+## Who Does Middle School LSU STEM Pathways for High School Credit?
+
+<img src = "../../../graphics/msgraphichsc.png">
+<img src = "../../../graphics/msmaphsc.png">
+<br>
+
 ## LSU Pathways also offers middle school courses that are designed to prepare students for STEM Pathways.
 <br>
-<div style="background-color:#fdd023; padding: 35px ">
-
-<div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 15px">
-<center>
 
 The Middle School STEM Pathways Program is pleased to announce we will be piloting new 6th grade courses in summer of 2022. This will allow us to expand the number of quality course offerings at the middle school level that support STEM and PBL in the classrooms. 
  
- For more information on our newest pilots-- Aquaponics, Step into STEM, and Intro to Computing-- please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
- </center>
- </div>
-</div>
+For more information on our newest pilots-- Aquaponics, Step into STEM, and Intro to Computing-- please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
+ <br>
+ <br>
+
+## Who Does LSU STEM Pathways for Middle School Credit?
+
+<img src = "../../../graphics/msgraphic.png">
+<img src = "../../../graphics/msmap.png">
 <br>
 
 ## In addition to courses, LSU Pathways offers middle school STEM training during the summer. For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
+ <br>
+
+
+## Who Does LSU STEM Pathways Middle School Training Modules?
+
+<img src = "../../../graphics/msgraphicmodule.png">
+<img src = "../../../graphics/msmapmodule.png">
+<br>
 <br>
 <br>
 Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities.
