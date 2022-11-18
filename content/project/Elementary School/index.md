@@ -16,7 +16,7 @@ header:
 #   focal_point: Smart
 ---
 
-LSU Pathways for elementary school consists of introductory courses designed to help students get excited about STEM subjects. LSU Pathways provides training modules to teachers and schools interested in providing these courses.
+LSU Pathways for elementary school consists of STEM modules designed to help students get excited about STEM subjects. LSU Pathways provides training modules to teachers and schools interested in providing these modules.
 
 <br>
 
