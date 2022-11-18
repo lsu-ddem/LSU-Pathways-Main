@@ -17,9 +17,6 @@ header:
 ---
 
 While the Louisiana Department of Education (LDOE) STEM Pathways are designed for students in 9th-12th grade, LSU recognizes the need to create a pipeline for success beginning elementary and middle school.  There are several opportunities for middle school students to get involved with the LSU STEM Pathways before 9th grade. 
-<br>
-<br>
-<a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Flyer</button></a> 
 
 <br>
 
@@ -30,6 +27,10 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 
 ## High School Credit Course Information
 <br>
+<a href="../../brochures/MiddleSchoolFlyerHS.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School Credit Flyer</button></a> 
+<br>
+<br>
+
 LSU STEM Pathways has two high school courses that can be taken in middle school for high school credit. These courses are designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four LSU STEM pathways. 
 <br>
 <br>
@@ -89,6 +90,9 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 <img src = "../../../graphics/msmap.png" width="550" height="650">
 
 ## Middle School Credit Course Information
+<br>
+<a href="../../brochures/MiddleSchoolFlyerMS.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Credit Flyer</button></a> 
+<br>
 <br>
 
 The Middle School STEM Pathways Program is pleased to announce we will be piloting new 6th grade courses in summer of 2022. This will allow us to expand the number of quality course offerings at the middle school level that support STEM and PBL in the classrooms. 
