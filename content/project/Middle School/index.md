@@ -23,7 +23,12 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 
 <br>
 
-## <b> High school credit STEM Pathways courses for middle school students </b>
+## <b> Who Does Middle School LSU STEM Pathways for High School Credit? </b>
+
+<img src = "../../../graphics/msgraphichsc.png" width="550" height="650">
+<img src = "../../../graphics/msmaphsc.png" width="550" height="650">
+
+## High School Credit Course Information
 <br>
 LSU STEM Pathways has two high school courses that can be taken in middle school for high school credit. These courses are designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four LSU STEM pathways. 
 <br>
@@ -78,38 +83,29 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 {{< /spoiler >}}
 <br>
 
+## <b> Who Does LSU STEM Pathways for Middle School Credit? </b> 
 
-## Who Does Middle School LSU STEM Pathways for High School Credit?
+<img src = "../../../graphics/msgraphic.png" width="550" height="650">
+<img src = "../../../graphics/msmap.png" width="550" height="650">
 
-<img src = "../../../graphics/msgraphichsc.png" width="550" height="650">
-<img src = "../../../graphics/msmaphsc.png" width="550" height="650">
-<br>
-
-
-## <b> Middle school STEM Pathways for middle school credit </b>
+## Middle School Credit Course Information
 <br>
 
 The Middle School STEM Pathways Program is pleased to announce we will be piloting new 6th grade courses in summer of 2022. This will allow us to expand the number of quality course offerings at the middle school level that support STEM and PBL in the classrooms. 
  
 For more information on our newest pilots-- Aquaponics, Step into STEM, and Intro to Computing-- please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
- <br>
- <br>
-
-## Who Does LSU STEM Pathways for Middle School Credit?
-
-<img src = "../../../graphics/msgraphic.png" width="550" height="650">
-<img src = "../../../graphics/msmap.png" width="550" height="650">
 <br>
-
-## <b> Middle School STEM Training Modules </b>
-For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
 <br>
 <br>
 
-## Who Does LSU STEM Pathways Middle School Training Modules?
+## <b> Who Does LSU STEM Pathways Middle School Training Modules? </b>
 
 <img src = "../../../graphics/msgraphicmodule.png" width="550" height="650">
 <img src = "../../../graphics/msmapmodule.png" width="550" height="650">
+
+## Training Modules Course Information
+<br>
+For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
 <br>
 <br>
 <br>

@@ -46,54 +46,77 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 <br>
 <br>
 
-## Who Does LSU STEM Pathways?
+## <b> Who Does LSU STEM Pathways? </b>
 <br>
-In 2022-23, we served 71 schools who offered high school credit LSU STEM pathway courses plus an additional 20 middle and elementary schools offering non-high school credit STEM electives. To see current participating schools, click the dropdown below. 
+In 2022-23, we are serving 103 schools who are offering high school and middle school LSU STEM Pathway courses. This does not include schools and districts who are offering courses in the Spring-only courses, as those students have not yet enrolled. Graphics will be updated in February 2023 to reflect the Spring student enrollment, which is anticipated to increase overall enrollment to more than 10,000 students. To see current participating schools, click the dropdown below. 
 <br>
 <br>
 
-{{< spoiler text="View 2021-22 School List" >}}
+{{< spoiler text="View 2022-23 School List" >}}
 
 - Alfred M. Barbe High School
 - Amite High Magnet
-- Baker High School
+- Baker Middle School
 - Bastrop High School
 - Baton Rouge Magnet High School
 - Beau Chene High School
 - Belaire High School
 - Benjamin Franklin High School
+- Bluff Middle School
+- Bonnabel Magnet Academy High School
+- Bossier PS for Technology & Innovative Learning
 - Breaux Bridge High School
 - Broadmoor Senior High School
 - Capitol Middle School
-- Carencro High School
 - Central High School
 - Central Middle School
+- College and Careers Center
 - Delhi Charter School
+- Delta Charter School MST
 - Denham Springs High School STEM and Robotics Center
 - Denham Springs Junior High School
-- Donaldsonville High School
 - Dutchtown High School
+- Dutchtown Middle School
 - East Ascension High School
+- East Feliciana High School
+- East Feliciana Middle School
+- East Iberville Elementary/High School
 - Einstein Charter High School at Sarah Towles Reed
 - Eunice High School
+- F. K. White Middle School
+- Franklinton High School
 - General Trass High School
 - Glasgow Middle School
 - Glen Oaks Senior High School
+- Gonzales Middle School
 - Grace King High School
 - Hammond High Magnet School
 - Haynes Academy School for Advanced Studies
+- Helix Mentorship STEAM Academy
 - IDEA Bridge
+- Independence High Magnet
+- Iowa High School
+- Istrouma High School
+- Jefferson Terrace Elementary School
 - Juban Parc Junior High School
-- Kentwood High Magnet School
+- Kenilworth Science and Technology Charter School
+- Kenner Discovery Health Sciences Academy
 - LA School for Ag Science
+- Lafayette Christian Academy
+- Lake Charles Boston Academy
+- Lake Elementary School
 - Leesville High School
 - Liberty High School
+- Linwood Public Charter School
+- Livingston Collegiate Academy
+- Lord Beaconsfield Landry High School
+- Louisiana Key Academy
+- Lowery Middle School
 - Madison High School
 - Madison Preparatory Academy
 - Mayfair Laboratory School
 - McKinley Middle Magnet School
 - McKinley Senior High School
-- Morehouse Magnet School
 - MSA East
 - New Orleans Charter Science and Mathematics HS
 - New Orleans Military & Maritime Academy
@@ -101,26 +124,35 @@ In 2022-23, we served 71 schools who offered high school credit LSU STEM pathway
 - Northeast High School
 - Northwest High School
 - Park Forest Middle School
+- Park Ridge Academic Magnet School
+- Parkview Baptist School
 - Patrick F. Taylor Science & Technology Academy
 - Pine School
 - Pointe Coupee SMA
 - Ponchatoula High School
 - Port Barre High School
-- Rapides CTEP
+- Prairieville Middle School
 - Scotlandville Magnet High School
 - Sherwood Middle Academic Academy
 - Southeast Middle School
 - Southside Junior High School
 - St. Amant High School
-- St. James College and Careers Center
+- St. Amant Middle School
 - St. John the Baptist SMA
 - St. Martinville Junior High School
 - St. Martinville Senior High School
+- St. Mary's Dominican High School
 - Sulphur High School
-- Tara High School
+- Thomas Jefferson High School for Advanced Studies
+- University Lab High
+- University Lab Middle
+- Vinton High School
+- Washington/Marion Magnet High School
 - West Feliciana High School
-- West Feliciana Middle School
+- West St. John Elementary School (K-7)
+- West St. John High School
 - Westdale Middle School
+- Westside Junior High School
 - Winnfield High School
 - Woodlawn High School
 - Woodlawn Middle School
@@ -129,7 +161,7 @@ In 2022-23, we served 71 schools who offered high school credit LSU STEM pathway
 {{< /spoiler >}}
 
 <img src = "../../../graphics/allgraphic.png" width="450" height="550" style ="float: left">
-<img src="https://media.giphy.com/media/4acO5F99G3XQViUKcI/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow.  17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
+<img src="https://media.giphy.com/media/vYwQ4q6Jyi1MUi8T0U/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow.  17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
 <center>
 <table>
   <tr>
@@ -147,8 +179,8 @@ Follow us on <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_b
 <br>
 <br>
  </center>
- 
- ## Why Be a Part of LSU STEM Pathways?
+
+ ## <b> Why Be a Part of LSU STEM Pathways? </b>
 <br>
 
  School districts, teachers, and students all benefit from participating in LSU Pathways.

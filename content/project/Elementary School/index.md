@@ -23,8 +23,6 @@ LSU Pathways for elementary school consists of introductory courses designed to 
 ## <b> Who Does LSU STEM Pathways for Elementary School? </b>
 <img src = "../../../graphics/esgraphic.png" width="550" height="650">
 <img src = "../../../graphics/esmap.png" width="550" height="650">
-<br>
-
 
 ## Course Information
 <br>
