@@ -22,8 +22,8 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 
 ## <b> Who Does Middle School LSU STEM Pathways for High School Credit? </b>
 
-<img src = "../../../graphics/msgraphichsc.png" width="550" height="650">
-<img src = "../../../graphics/msmaphsc.png" width="550" height="650">
+<img src = "../../../graphics/msgraphichsc.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 46 teachers, 34 schools, and 12 districts for this program. There were over 1750 students enrolled." width="550" height="650">
+<img src = "../../../graphics/msmaphsc.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 34 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
 
 ## High School Credit Course Information
 <br>
@@ -86,8 +86,8 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 
 ## <b> Who Does LSU STEM Pathways for Middle School Credit? </b> 
 
-<img src = "../../../graphics/msgraphic.png" width="550" height="650">
-<img src = "../../../graphics/msmap.png" width="550" height="650">
+<img src = "../../../graphics/msgraphic.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 9 teachers, 9 schools, and 7 districts for this program. There were over 400 students enrolled." width="550" height="650">
+<img src = "../../../graphics/msmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 9 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
 
 ## Middle School Credit Course Information
 <br>
@@ -95,19 +95,25 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 <br>
 <br>
 
-The Middle School STEM Pathways Program is pleased to announce we will be piloting new 6th grade courses in summer of 2022. This will allow us to expand the number of quality course offerings at the middle school level that support STEM and PBL in the classrooms. 
+The Middle School STEM Pathways Program is pleased to announce that we piloted two 6th graded courses -- Aquaponics and Step into STEM -- in the summer of 2022. This expansion of the LSU STEM Pathways program into 6th grade allows us to expand access to quality STEM courses through project-based learning experiences.  We look forward to continuing to offer these courses.
  
-For more information on our newest pilots-- Aquaponics, Step into STEM, and Intro to Computing-- please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
+For more information on our newest pilots -- Aquaponics, Step into STEM, and Intro to Computing -- please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
 <br>
 <br>
 <br>
 
 ## <b> Who Does LSU STEM Pathways Middle School Training Modules? </b>
 
-<img src = "../../../graphics/msgraphicmodule.png" width="550" height="650">
-<img src = "../../../graphics/msmapmodule.png" width="550" height="650">
+<img src = "../../../graphics/msgraphicmodule.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 7 teachers, 5 schools, and 2 districts for this program." width="550" height="650">
+<img src = "../../../graphics/msmapmodule.png" alt= "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 5 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
 
 ## Training Modules Course Information
+<br>
+The middle school STEM Pathways training  seeks to empower teachers with the tools and training they need to effectively engage all students in STEM-driven, project-based learning while also meeting their curricular needs. Participating teachers are not expected to have any STEM content specific knowledge. A strong work ethic and a desire to engage in project-based learning and STEM is entirely sufficient.
+<br>
+<br>
+Teachers are trained in project-based, STEM modular units that are aligned to curricular standards at the 6-8 grade levels. Modules can be used in class as stand-alone units, incorporated into current lessons and curriculum as supplementary materials, or in before and after school programs. The modules are great for schools who wish to bring STEM enrichment into any existing class at the middle school level. Each module encourages exploration of the STEM Pathways. Teacher training occurs through summer institutes or as requested by the parish in the school year. Additional support is provided throughout the school year from the institute trainers.
+<br>
 <br>
 For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
 <br>
