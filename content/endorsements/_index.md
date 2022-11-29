@@ -57,8 +57,8 @@ design:
 ## 2020-2021
 71 students graduated with STEM endorsements from LSU Pathways. 
 <br>
-This year, our students were asked to submit a portrait and short bio to be published. <a href = "https://endorsements.lsupathways.com/" target = "_blank">View 2021 Student Bios.</a> 
-<br>
+<!-- This year, our students were asked to submit a portrait and short bio to be published. <a href = "https://endorsements.lsupathways.com/" target = "_blank">View 2021 Student Bios.</a> 
+<br> -->
 {{< spoiler text="View School List" >}}
 
 - Central High School
@@ -73,8 +73,8 @@ This year, our students were asked to submit a portrait and short bio to be publ
 ## 2021-2022
 151 students graduated with STEM endorsements from LSU Pathways.
 <br>
-2022 List of Students Coming Soon
-<br>
+<!-- 2022 List of Students Coming Soon
+<br> -->
 {{< spoiler text="View School List" >}}
 
 - Benjamin Franklin High School
