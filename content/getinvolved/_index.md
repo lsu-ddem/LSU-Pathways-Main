@@ -78,7 +78,7 @@ To learn more about teaching with each pathway, click a link below to view the f
 <br>
 <center>
 
-The invitation to complete a memorandum of understanding to participate in the LSU STEM Pathways program is now closed. If you are interested in offering a pathway course for 2023-24, please email stempathways@lsu.edu to request more information. 
+The invitation to complete a memorandum of understanding to participate in the LSU STEM Pathways program for the 2022-23 school year is now closed. If you are interested in offering pathways courses for 2023-24, please email stempathways@lsu.edu. The new invitation to participate in our Summer Institute will be available on or around February 1st, 2023.
 <br>
 <br>
 To see past information, click on the 2022-23 links below.
