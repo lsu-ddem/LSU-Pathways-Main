@@ -19,7 +19,7 @@ design:
 <br>
 The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester. 
 <br>
-<b>Application window will open February 1, 2023. </b>
+<b>Application will open February 1, 2023. </b>
 
 <br>
 <br>
@@ -33,11 +33,13 @@ The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarsh
 
 ## LSU Engineering Freshman Scholarships
 <br>
-In addition to providing numerous scholarships to current LSU Engineering students each year, the College of Engineering has several competitive scholarships available to qualified first-year engineering students. 
-<br>
-<b>Application deadline is December 15th each year for the following school year. </b>
+In addition to providing numerous scholarships to current LSU Engineering students each year, the College of Engineering has several competitive scholarships available to qualified first-year engineering students such as:
 
-<br>
+- <b>General College of Engineering Scholarships</b>: Automatically considered for scholarship if application to attend LSU is completed by Dec 15th and the intended major is from the college of engineering
+- <b>PRISE Program</b>: Application deadline is February 28, 2023
+- <b>LSU College of Engineering FIRST Robotics Scholarship</b>: Application deadline is February 1, 2023
+- Coming Soon: <b>LSU College of Engineering VEX Robotics Scholarship</b>
+
 <br>
 <a href="https://www.lsu.edu/eng/future/engineer-experience/scholarships.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Engineering Freshman Scholarships </button></a> 
 <br>
@@ -48,6 +50,19 @@ In addition to providing numerous scholarships to current LSU Engineering studen
 <br>
 
 ## **National Scholarships** --------------------------------------------- 
+<br>
+
+## The Brown Foundation Emmy Noether Awards
+<br>
+
+The Emmy Noether Awards seek top aspiring female research scientists in any STEM (science, technology, engineering, or math) field to help realize their potential careers through financial and networking assistance. The Emmy Noether Awards will determine one gold medalist, two silver medalists, and up to 10 Emmy Noether Scholars. The gold medalist will be awarded up to $75,000, and the two silver medalists will be awarded $25,000 each for a qualified graduate level program. The Emmy Noether Scholars will join a network of young female aspiring research scientists and will be offered information on internship and networking opportunities.
+<br>
+<b>Application deadline is February 26, 2023 at 12 p.m. </b>
+
+<br>
+<a href="https://www.thebrownfoundation.org/emmy-noether-award.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Emmy Noether Awards </button></a> 
+<br>
+<br>
 <br>
 
 ## ITE Diversity Scholarship Program
@@ -70,7 +85,7 @@ Graduating high school students are the next generation of engineers!
 
 The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating high school seniors interested in pursuing engineering degrees.
 <br>
-<b>Application will open for the 2023-24 academic school year starting December 2022.</b>
+<b>Application deadline is March 15, 2023.</b>
 <br>
 <br>
 <a href="https://www.asme.org/asme-programs/students-and-faculty/scholarships/available-high-school-scholarships" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ASME Scholarship </button></a> 
@@ -94,7 +109,7 @@ Funded by the National Science Foundation, the LSU S-STEM Scholars program aims 
 <br>
 The intent of the GMiS Scholars Program is to increase the persistence to graduation among underrepresented and underserved STEM college students. The financial support helps these students focus on their coursework so they can graduate on time, enter a STEM profession, continue to serve as a role model for future generations, and secure the country's place as the finest technological leader in the world. Applicants must be of Hispanic descent and/or must demonstrate significant leadership or service within the underserved community.
 <br>
-<b>Applications are currently closed.</b>
+<b>Applications will open January 15, 2023 and will close April 30, 2023.</b>
 <br>
 <br>
-<a href="https://gmis-scholars.org/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">GMiS Scholars Program </button></a> 
+<a href="https://greatmindsinstem.org/gmis-scholarship-application/gmis-scholarships/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">GMiS Scholars Program </button></a> 
