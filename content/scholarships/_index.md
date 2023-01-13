@@ -20,15 +20,12 @@ design:
 The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester. 
 <br>
 <b>Application will open February 1, 2023. </b>
-
 <br>
 <br>
 <a href="https://lsu.qualtrics.com/jfe/form/SV_bJBgxK7X73flK50" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pre-Engineering Pathway Gold STEM Seal Scholarship Application </button></a> 
 
 <br>
 <br>
-
-
 <br>
 
 ## LSU Engineering Freshman Scholarships
@@ -52,13 +49,26 @@ In addition to providing numerous scholarships to current LSU Engineering studen
 ## **National Scholarships** --------------------------------------------- 
 <br>
 
+## Amazon Future Engineer Scholarship
+<br>
+Amazon Future Engineer Scholarship program provides underserved students with an opportunity to upgrade their careers with a $40,000 scholarship, plus a paid summer internship programming at Amazon.
+
+<br>
+<b>Application deadline is January 20, 2023. </b>
+<br>
+<br>
+<a href="https://www.amazonfutureengineer.com/scholarships?utm_campaign=RECFoundation&utm_medium=scholarship&utm_source=US&utm_source=2023+VRC%2FVIQC%2FVEXU+Teams+and+EPs&utm_campaign=70241f413c-EMAIL_CAMPAIGN_2022_10_11_05_49_COPY_01&utm_medium=email&utm_term=0_3efc727138-70241f413c-37686869" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Amazon Future Engineer Scholarship </button></a> 
+<br>
+<br>
+<br>
+
 ## The Brown Foundation Emmy Noether Awards
 <br>
 
 The Emmy Noether Awards seek top aspiring female research scientists in any STEM (science, technology, engineering, or math) field to help realize their potential careers through financial and networking assistance. The Emmy Noether Awards will determine one gold medalist, two silver medalists, and up to 10 Emmy Noether Scholars. The gold medalist will be awarded up to $75,000, and the two silver medalists will be awarded $25,000 each for a qualified graduate level program. The Emmy Noether Scholars will join a network of young female aspiring research scientists and will be offered information on internship and networking opportunities.
 <br>
 <b>Application deadline is February 26, 2023 at 12 p.m. </b>
-
+<br>
 <br>
 <a href="https://www.thebrownfoundation.org/emmy-noether-award.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Emmy Noether Awards </button></a> 
 <br>
@@ -71,7 +81,7 @@ The Emmy Noether Awards seek top aspiring female research scientists in any STEM
 The purpose of this program is to increase underrepresented populations participation in the transportation profession by supporting increased diversity at the undergraduate level.  Diversity in transportation is critical as practitioners seek to fully understand the transportation needs of communities in the development of equitable mobility improvements to many areas of our society. 
 <br>
 <b> Application deadline is March 15, 2023 for fall of 2023. </b>
-
+<br>
 <br>
 <a href="../../brochures/ITE.pdf" target="_blank">
 <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">View Flyer and Apply </button></a> 
