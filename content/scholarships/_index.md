@@ -62,6 +62,21 @@ Amazon Future Engineer Scholarship program provides underserved students with an
 <br>
 <br>
 
+## Society of Women Engineers Scholarship
+<br>
+The SWE Scholarship Program provides financial assistance to those who identify as a woman and are studying community college, baccalaureate, or graduate programs in preparation for careers in engineering, engineering technology and fields related to engineering.
+
+<br>
+<b>Application deadline is Februrary 1, 2023 for sophomores and above.
+<br> 
+Applications open February 1, 2023 and close March 20, 2023 for freshmen. </b>
+<br>
+<br>
+<a href="https://scholarships.swe.org/applications/login.asp" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Society of Women Engineers Scholarship </button></a> 
+<br>
+<br>
+<br>
+
 ## The Brown Foundation Emmy Noether Awards
 <br>
 
@@ -103,14 +118,14 @@ The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating
 <br>
 <br>
 
-## S-STEM Scholars Program
+## Lockheed Martin STEM Scholarship
 <br>
-Funded by the National Science Foundation, the LSU S-STEM Scholars program aims to increase the educational and career opportunities for academically talented, financially disadvantaged students who are pursuing degrees in basic sciences or mathematics. 
+Each year, the STEM Scholarship Program awards $10,000 to 200 recipients studying engineering or computer science at a 4-year college or university. Recipients may renew the scholarship up to three times for a total potential value of $40,000 per student. 
 <br>
-<b>Applications are currently closed. </b>
+<b>Applications deadline is March 31, 2023 at 3:00PM Central Time.</b>
 <br>
 <br>
-<a href="https://www.lsu.edu/osi/programs/s-stem-scholars-program/index.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> S-STEM Scholars Program </button></a> 
+<a href="https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Lockheed Martin STEM Scholarship </button></a> 
 <br>
 <br>
 <br>
@@ -123,3 +138,19 @@ The intent of the GMiS Scholars Program is to increase the persistence to gradua
 <br>
 <br>
 <a href="https://greatmindsinstem.org/gmis-scholarship-application/gmis-scholarships/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">GMiS Scholars Program </button></a> 
+<br>
+<br>
+<br>
+
+## S-STEM Scholars Program
+<br>
+Funded by the National Science Foundation, the LSU S-STEM Scholars program aims to increase the educational and career opportunities for academically talented, financially disadvantaged students who are pursuing degrees in basic sciences or mathematics. 
+<br>
+<b>Applications are currently closed. </b>
+<br>
+<br>
+<a href="https://www.lsu.edu/osi/programs/s-stem-scholars-program/index.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> S-STEM Scholars Program </button></a> 
+<br>
+<br>
+<br>
+
