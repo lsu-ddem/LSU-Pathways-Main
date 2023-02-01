@@ -17,16 +17,30 @@ design:
 
 ## LSU Pre-Engineering Pathway Gold STEM Seal Scholarship
 <br>
-The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester. 
+The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship sponsored by the College of Engineering and the Gordon A. Cain center.  It is awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester. To learn more, click below. 
 <br>
-<b>Application will open February 1, 2023. </b>
+<b>Application deadline is April 14th, 2023. </b>
 <br>
 <br>
-<a href="https://lsu.qualtrics.com/jfe/form/SV_bJBgxK7X73flK50" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pre-Engineering Pathway Gold STEM Seal Scholarship Application </button></a> 
+<a href="https://lsu.qualtrics.com/jfe/form/SV_8p7m7jaM9PGPEI6" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pre-Engineering Pathway Gold STEM Seal Scholarship Application </button></a> 
 
 <br>
 <br>
 <br>
+
+## VEX Robotics Scholarship
+<br>
+The LSU VEX Robotics Scholarship is a $1,000/year scholarship sponsored by the College of Engineering, the Gordon A. Cain Center, and the Capital Area STEM Network Center.  It is awarded to one outstanding VEX alumnus/alumnae entering the LSU College of Engineering each fall. Recipients can receive the award for up to four years if they remain in good academic (2.5 GPA) and disciplinary standing and demonstrate progress towards a degree from the College of Engineering each semester. The award will be disbursed in $500 installments each semester for up to eight semesters for a total of up to $4,000. 
+<br>
+<br>
+Application criteria and additional information regarding eligibility will be available Feb 6th.  
+<br>
+<b>Application deadline will be April 14th, 2023.</b>
+
+<br>
+<br>
+<br>
+
 
 ## LSU Engineering Freshman Scholarships
 <br>
@@ -35,7 +49,6 @@ In addition to providing numerous scholarships to current LSU Engineering studen
 - <b>General College of Engineering Scholarships</b>: Automatically considered for scholarship if application to attend LSU is completed by Dec 15th and the intended major is from the college of engineering
 - <b>PRISE Program</b>: Application deadline is February 28, 2023
 - <b>LSU College of Engineering FIRST Robotics Scholarship</b>: Application deadline is February 1, 2023
-- Coming Soon: <b>LSU College of Engineering VEX Robotics Scholarship</b>
 
 <br>
 <a href="https://www.lsu.edu/eng/future/engineer-experience/scholarships.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Engineering Freshman Scholarships </button></a> 
