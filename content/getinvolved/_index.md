@@ -78,14 +78,12 @@ To learn more about teaching with each pathway, click a link below to view the f
 <br>
 <center>
 
-The invitation to complete a memorandum of understanding to participate in the LSU STEM Pathways program for the 2022-23 school year is now closed. If you are interested in offering pathways courses for 2023-24, please email stempathways@lsu.edu. The new invitation to participate in our Summer Institute will be available on or around February 1st, 2023.
+The invitation to participate in the LSU STEM pathways program for the 2023-24 school year is now available! Please review this information along with our updated course catalog to determine which courses you would like to offer in the upcoming school year. The Memorandum of Understanding portal will open on March 15th for you to formally commit to offering one or more LSU STEM pathway course in 2023-24. 
+<br>
+For any questions, please email <a href="mailto:stempathways@lsu.edu">stempathways@lsu.edu</a>.
 <br>
 <br>
-To see past information, click on the 2022-23 links below.
-<br>
-<br>
-<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022-23 Summer Institute Information </button></a> 
-<a href="../../brochures/CourseCatalog2022.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a>
+<a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Invitation </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a> <a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a>
 <br>
 
  </center>

@@ -273,7 +273,7 @@ Pre-Engineering STEM Pathway Brief </a>
 
 {{< /spoiler >}}
 <br>
-<a href="../../brochures/CourseCatalog2022.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2022-23 Course Catalog </button></a>
+<a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Pathways Course Catalog </button></a>
 
 
 <br>

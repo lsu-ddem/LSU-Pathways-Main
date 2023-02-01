@@ -22,21 +22,21 @@ The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarsh
 <b>Application deadline is April 14th, 2023. </b>
 <br>
 <br>
-<a href="https://lsu.qualtrics.com/jfe/form/SV_8p7m7jaM9PGPEI6" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pre-Engineering Pathway Gold STEM Seal Scholarship Application </button></a> 
+<a href="https://lsu.qualtrics.com/jfe/form/SV_8p7m7jaM9PGPEI6" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pre-Engineering Pathway Gold STEM Seal Scholarship </button></a> 
 
 <br>
 <br>
 <br>
 
-## VEX Robotics Scholarship
+## LSU VEX Robotics Scholarship
 <br>
 The LSU VEX Robotics Scholarship is a $1,000/year scholarship sponsored by the College of Engineering, the Gordon A. Cain Center, and the Capital Area STEM Network Center.  It is awarded to one outstanding VEX alumnus/alumnae entering the LSU College of Engineering each fall. Recipients can receive the award for up to four years if they remain in good academic (2.5 GPA) and disciplinary standing and demonstrate progress towards a degree from the College of Engineering each semester. The award will be disbursed in $500 installments each semester for up to eight semesters for a total of up to $4,000. 
-<br>
-<br>
-Application criteria and additional information regarding eligibility will be available Feb 6th.  
+ 
 <br>
 <b>Application deadline will be April 14th, 2023.</b>
-
+<br>
+<br>
+<a href="https://lsu.qualtrics.com/jfe/form/SV_byIDgMemObpO6IC" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU VEX Robotics Scholarship </button></a> 
 <br>
 <br>
 <br>
@@ -103,6 +103,18 @@ The Emmy Noether Awards seek top aspiring female research scientists in any STEM
 <br>
 <br>
 
+## American Society of Mechanical Engineers High School Scholarship
+<br>
+Graduating high school students are the next generation of engineers! The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating high school seniors interested in pursuing engineering degrees.
+<br>
+<b>Application deadline is March 15, 2023.</b>
+<br>
+<br>
+<a href="https://www.asme.org/asme-programs/students-and-faculty/scholarships/available-high-school-scholarships" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ASME Scholarship </button></a> 
+<br>
+<br>
+<br>
+
 ## ITE Diversity Scholarship Program
 <br>
 
@@ -117,16 +129,16 @@ The purpose of this program is to increase underrepresented populations particip
 <br>
 <br>
 
-## The American Society of Mechanical Engineers High School Scholarship
+## Shell Company Technical Scholarship
 <br>
-Graduating high school students are the next generation of engineers!
 
-The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating high school seniors interested in pursuing engineering degrees.
+The Shell Company Technical Scholarship and Shell Incentive Fund Scholarship have been created to provide financial and career assistance to graduating high school seniors who have expressed an interest in the energy industry and demonstrated an aptitude in mathematics and science.
 <br>
-<b>Application deadline is March 15, 2023.</b>
+<b>Application deadline is March 15, 2023. </b>
 <br>
 <br>
-<a href="https://www.asme.org/asme-programs/students-and-faculty/scholarships/available-high-school-scholarships" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ASME Scholarship </button></a> 
+<a href="https://www.shell.us/careers/about-careers-at-shell/shell-graduate-program/scholarships.html" target="_blank">
+<button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Shell Company Technical Scholarship</button></a> 
 <br>
 <br>
 <br>

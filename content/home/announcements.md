@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 17  # Order that this section will appear.
 
  # title = "**Invitation to Participate"
@@ -77,13 +77,12 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 ## **MoUs Now Available for School Administration**
 <br>
 
-The invitation to complete a Memorandum of Understanding to participate in the LSU STEM Pathways program and virtual summer training institute is now available. If you are ready to commit to offering an LSU STEM pathways course at your school next year, please submit a request for a Memorandum of Understanding at the link below. 
+The invitation to participate in the LSU STEM pathways program for the 2023-24 school year is now available! Please review this information along with our updated course catalog to determine which courses you would like to offer in the upcoming school year. The Memorandum of Understanding portal will open on March 15th for you to formally commit to offering one or more LSU STEM pathway course in 2023-24. 
 <br>
-
-**Early bird registration deadline has been extended to May 1st.**
+For any questions, please email <a href="mailto:stempathways@lsu.edu">stempathways@lsu.edu</a>.
 <br>
 <br>
-<a href="../../brochures/HSInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Summer Institute Training and Course Catalog </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a>
+<a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Invitation </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a> <a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a>
 <br>
 </center>
 </div>
