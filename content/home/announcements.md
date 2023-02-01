@@ -74,7 +74,7 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 <div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 25px">
 <center>
 
-## **MoUs Now Available for School Administration**
+## **2023-24 Pathways Information for School Administrators Now Available**
 <br>
 
 The invitation to participate in the LSU STEM pathways program for the 2023-24 school year is now available! Please review this information along with our updated course catalog to determine which courses you would like to offer in the upcoming school year. The Memorandum of Understanding portal will open on March 15th for you to formally commit to offering one or more LSU STEM pathway course in 2023-24. 
@@ -82,7 +82,7 @@ The invitation to participate in the LSU STEM pathways program for the 2023-24 s
 For any questions, please email <a href="mailto:stempathways@lsu.edu">stempathways@lsu.edu</a>.
 <br>
 <br>
-<a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Invitation </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a> <a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a>
+<a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Invitation </button></a> <a href=" https://college-readiness.lsu.edu/pathways/mou/request" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a> <a href="https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a>
 <br>
 <br>
 
