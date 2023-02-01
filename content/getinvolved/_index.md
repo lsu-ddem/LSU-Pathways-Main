@@ -60,6 +60,10 @@ In order to teach an LSU Pathway course or module, no prior STEM experience is a
 <a href="../../brochures/Testimonials.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Teacher Testimonials</button></a> <a href="../../brochures/Spotlights.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Faculty Spolights</button></a>
 <br>
 <br>
+Faculty Spotlights accessible version can be found <a href="https://docs.google.com/document/d/1xSkhScopz61YqVoay-tMOYEr7fFw2thKiQI7TkGqB6Q"> here</a>.
+<br>
+<br>
+<br>
 To learn more about teaching with each pathway, click a link below to view the flyer.
 <br>
 <br>
@@ -85,6 +89,11 @@ For any questions, please email <a href="mailto:stempathways@lsu.edu">stempathwa
 <br>
 <a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Invitation </button></a> <a href=" https://college-readiness.lsu.edu/pathways/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a> <a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a>
 <br>
+<br>
+
+LSU Pathways Invitation accessible version can be found <a href= "https://docs.google.com/document/d/1Z8_nO-yOT3vCmhjUWEI2_6lAQZ2_c4i8sbxVfDDzmys"> here</a>. 
+<br>
+2023-24 Course Catalog accessible version can be found<a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0"> here.</a>
 
  </center>
  </div>
