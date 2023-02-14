@@ -42,11 +42,9 @@ design:
 <a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Endorsement Overview</button></a> <a href="../../brochures/Slide-StudentSuccess.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Student Testimonials </button></a> 
 <br>
 <br>
-
-- STEM endorsement overview accessible version can be found <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ"> here</a>. 
+STEM endorsement overview accessible version can be found <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ"> here</a>. 
 <br>
-
-- Student testimonials accessible version can be found <a href= "https://docs.google.com/document/d/1nPAGbyEaz5yWh-BcBaJWiCmCeD6sZx68KlNpdRuEON4"> here</a>. 
+Student testimonials accessible version can be found <a href= "https://docs.google.com/document/d/1nPAGbyEaz5yWh-BcBaJWiCmCeD6sZx68KlNpdRuEON4"> here</a>. 
 <br>
 <br>
 
