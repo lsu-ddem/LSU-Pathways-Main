@@ -24,7 +24,7 @@ This is an Early-Phase research project to study a course developed by LSU, Intr
 If successful, this study will inform development of future courses nationwide that integrate the two subjects. This is a high-stakes study with possible long term benefits.
 
 <br>
-<a href="https://www.brbytes.org/schools.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> BRBytes Grant Information </button></a> 
+<a href="https://www.brbytes.org/schools.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> BRBytes Grant Information at brbytes.org</button></a> 
 
 <br>
 <br>
