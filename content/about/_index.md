@@ -49,8 +49,6 @@ Students taking these courses can attain industry-promulgated credentials, unive
 <br>
 
 The statewide rollout of the LSU STEM Certification Pathways is a joint effort of the Louisiana Department of Education, Liberty Magnet High School, and faculty from Louisiana State University’s Gordon A. Cain Center for STEM Literacy, College of Engineering, College of Science, School of Art, School of Music, and the LSU Center for Computation & Technology.
-
-
 <br>
 <br>
 
