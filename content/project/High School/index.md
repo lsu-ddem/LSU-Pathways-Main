@@ -141,6 +141,7 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 - <a href ="../../syllabi/ProgrammingDigitalMedia.pdf" Target ="_blank">Programming for Digital Media (DE) </a>
 - <a href = "../../syllabi/ProgrammingForEngineers.pdf" Target ="_blank"> Programming for Engineers </a>
 - <a href = "../../syllabi/IntroToRobotics.pdf" target = "_blank"> Robotics </a>
+- <a href = "../../syllabi/AdvancedRobotics.pdf" target="_blank">Robotics: Advanced </a>
 - <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
 
 For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway Brief</a>.
@@ -208,7 +209,7 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 - <a href = "../../syllabi/ProgrammingForEngineers.pdf" target = "_blank"> Programming for Engineers </a>
 - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
 - Statistical Reasoning
-- Robotics: Advanced </a>
+- <a href = "../../syllabi/AdvancedRobotics.pdf" target="_blank">Robotics: Advanced </a>
   
 For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank"> 
 Pre-Engineering STEM Pathway Brief</a>.

@@ -41,10 +41,9 @@ Students taking these courses can attain industry-promulgated credentials, unive
 <br>
 <br>
 
-- STEM endorsement overview accessible version can be found <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ"> here</a>. 
+STEM endorsement overview accessible version can be found <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ"> here</a>. 
 <br>
-
-- Dual enrollment brochure accessible version can be found <a href= "https://docs.google.com/document/d/1KlhaDtdZk6VU5TndtUQDuqMTcqK83c75fufr7qZzsyQ"> here</a>. 
+Dual enrollment brochure accessible version can be found <a href= "https://docs.google.com/document/d/1KlhaDtdZk6VU5TndtUQDuqMTcqK83c75fufr7qZzsyQ"> here</a>. 
 <br>
 <br>
 
