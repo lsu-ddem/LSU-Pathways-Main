@@ -48,8 +48,6 @@ Please click a link below to find out more about the Pathways curriculum at each
 <a href="../../project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School </button></a> <a href="../../project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../project/elementary-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School </button></a>
 <br>
 <br>
-
-
 <br>
 
 ## For Teachers
@@ -61,6 +59,7 @@ In order to teach an LSU Pathway course or module, no prior STEM experience is a
 <br>
 <br>
 Teacher testimonials accessible version can be found <a href="https://docs.google.com/document/d/1xSkhScopz61YqVoay-tMOYEr7fFw2thKiQI7TkGqB6Q"> here</a>.
+<br>
 <br>
 <br>
 To learn more about teaching with each pathway, click a link below to view the flyer.
@@ -76,7 +75,7 @@ Middle school flyer accessible version can be found <a href= "https://docs.googl
 Elementary school flyer accessible version can be found <a href= "https://docs.google.com/document/d/1Js2pbHcEEfbH70zmD8ItHugH1TmboWNpKEF8EibzMic"> here</a>. 
 <br>
 <br>
-
+<br>
 
 ## For School Administrators
 <br>
@@ -104,13 +103,10 @@ LSU Pathways Invitation accessible version can be found <a href= "https://docs.g
 </div>
 <br>
 <br>
-Learn how to start or expand an LSU STEM Pathway at your school at the link below.
+
+Learn how to start or expand an LSU STEM Pathway at your school <a href="../../brochures/Slide-School.pdf" target="_blank">here.</a>
 <br>
-<br>
-<a href="../../brochures/Slide-School.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Learn More</button></a>
-<br>
-<br>
-Learn How to Start or Expand accessible version can be found <a href= "https://docs.google.com/document/d/1GFIg5CG1nDJ2-fc7lhlaSS4cUeR1LXuFDNjbh1sBU_U"> here</a>. 
+Learn how to start or expand an LSU STEM Pathway accessible version can be found <a href= "https://docs.google.com/document/d/1GFIg5CG1nDJ2-fc7lhlaSS4cUeR1LXuFDNjbh1sBU_U"> here</a>. 
 <br>
 <br>
 <br>
