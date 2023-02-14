@@ -63,7 +63,6 @@ In order to teach an LSU Pathway course or module, no prior STEM experience is a
 Teacher testimonials accessible version can be found <a href="https://docs.google.com/document/d/1xSkhScopz61YqVoay-tMOYEr7fFw2thKiQI7TkGqB6Q"> here</a>.
 <br>
 <br>
-<br>
 To learn more about teaching with each pathway, click a link below to view the flyer.
 <br>
 <br>
@@ -81,7 +80,6 @@ To learn more about teaching with each pathway, click a link below to view the f
 <br>
 <br>
 
-<br>
 
 ## For School Administrators
 <br>
