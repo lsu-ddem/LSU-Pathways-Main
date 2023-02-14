@@ -60,7 +60,7 @@ In order to teach an LSU Pathway course or module, no prior STEM experience is a
 <a href="../../brochures/Testimonials.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Teacher Testimonials</button></a> <a href="../../brochures/Spotlights.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Faculty Spolights</button></a>
 <br>
 <br>
-Faculty Spotlights accessible version can be found <a href="https://docs.google.com/document/d/1xSkhScopz61YqVoay-tMOYEr7fFw2thKiQI7TkGqB6Q"> here</a>.
+Teacher testimonials accessible version can be found <a href="https://docs.google.com/document/d/1xSkhScopz61YqVoay-tMOYEr7fFw2thKiQI7TkGqB6Q"> here</a>.
 <br>
 <br>
 <br>
