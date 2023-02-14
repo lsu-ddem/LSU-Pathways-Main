@@ -83,7 +83,7 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 {{< spoiler text="Biomedical Sciences" >}}
 <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway Brief </a>
 <br>
-<a href="../../brochures/BiomedStudent.pdf" target="_blank">Biomedical Pathway Information for Students </a>
+<a href="../../brochures/BiomedStudent.pdf" target="_blank">Biomedical Pathway Information for Students </a> (Accessible version <a href= "https://docs.google.com/document/d/1s4miFmYo8xDOMLvUn8dhHxeYVlfp6vq7SYnzJabJ1FA"> here</a>.)
 
 
 
@@ -113,7 +113,7 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
      - Chemistry I DE
   
    #### Other Approved Electives:
-   - Environmental Science or AP Environmental Science
+   - AP Environmental Science
    - Statistical Reasoning or AP Statistics
    - Nurse Assistant
    - Introduction to Health Occupation
@@ -131,7 +131,7 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 {{< spoiler text="Computing" >}}
 <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway Brief </a>
 <br>
-<a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing Pathway Information for Students </a>
+<a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing Pathway Information for Students </a> (Accessible version <a href= "https://docs.google.com/document/d/1JJTSyKoPFsedH1rCPsFWwTcm299nJUHNEkONB6gNbs0"> here</a>.)
 <br>
 <a href="https://lsupathways.org/news/#computing"> Computing Pathway Curriculum Videos </a>
 <br>
@@ -199,6 +199,7 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank"> DDEM STEM Pathway Brief </a>
 <br>
 <a href="../../brochures/DDEMStudent.pdf" target="_blank"> DDEM Pathway Information for Students </a>
+ (Accessible version <a href= "https://docs.google.com/document/d/1ZycCYXWj1-HFS1SAPVMmBKaWInfwMWdRLgUjf6sr5EA"> here</a>.)
 <br>
 <a href="https://lsupathways.org/news/#DDEM"> DDEM Pathway Curriculum Videos </a>
 <br>
@@ -240,7 +241,7 @@ To view the full DDEM website please visit <a href="https://ddem.lsupathways.org
 <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank"> 
 Pre-Engineering STEM Pathway Brief </a>
 <br>
-<a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"> Pre-Engineering Pathway Information for Students </a>
+<a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"> Pre-Engineering Pathway Information for Students </a> (Accessible version <a href= "https://docs.google.com/document/d/1IgbFbgY1c5KAlxDeaXhPDCM23ikVvVuUeuCUDDlWgsg"> here</a>.)
 <br>
 <a href="https://lsupathways.org/news/#PreEngineering"> Pre-Engineering Pathway Curriculum Videos </a>
 
@@ -274,6 +275,9 @@ Pre-Engineering STEM Pathway Brief </a>
 {{< /spoiler >}}
 <br>
 <a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Pathways Course Catalog </button></a>
+<br>
+<br>
+STEM Pathways course catalog accessible version can be found <a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0"> here</a>. 
 
 
 <br>

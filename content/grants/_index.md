@@ -44,13 +44,19 @@ This project involves the development and testing of a set of micro-credentials 
 - RAND Corporation
 
 <br>
-<a href="../../brochures/MicrocredentialFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Micro-Credential Flyer </button></a> <a href="../../brochures/MicroCredentialGrant.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pamphlet </button></a> <a href="https://www.rand.org/education-and-
+<!-- <a href="../../brochures/MicrocredentialFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Micro-Credential Flyer </button></a>  -->
+<a href="../../brochures/MicroCredentialGrant.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Micro-Credential Pamphlet </button></a> <a href="https://www.rand.org/education-and-
 labor/projects/STEM-micro-credentials.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Learn more at rand.org </button></a> 
 <br>
 <br>
+<!-- 
+- Micro-Credential flyer accessible version can be found <a href= "https://docs.google.com/document/d/1tZdQkrQUtRuddFwHSADBPSi_gFzULcYwwuYn2sRq1tE"> here</a>. 
+<br> -->
+
+Micro-Credential pamphlet accessible version can be found <a href= "https://docs.google.com/document/d/16Q5nD-VMH2bLAOE7cZ-AEARtQXJe7NWMd3GbucEEXRY"> here</a>. 
 
 
-
+<br>
 <br>
 
 Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities.

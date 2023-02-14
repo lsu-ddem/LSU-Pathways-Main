@@ -71,6 +71,15 @@ To learn more about teaching with each pathway, click a link below to view the f
 <br>
 <br>
 
+- High school flyer accessible version can be found <a href= "https://docs.google.com/document/d/1IMYCa6P8DXuFtnofiAM4iIiO-RQLMtvonZaawV3beqA"> here</a>. 
+<br>
+
+- Middle school flyer accessible version can be found <a href= "https://docs.google.com/document/d/1OY13kOd3rVUH-l4U4T5Eg498KSkuOxCGKkoyNNDeS8Q"> here</a>. 
+<br>
+
+- Elementary school flyer accessible version can be found <a href= "https://docs.google.com/document/d/1Js2pbHcEEfbH70zmD8ItHugH1TmboWNpKEF8EibzMic"> here</a>. 
+<br>
+<br>
 
 <br>
 
@@ -104,6 +113,10 @@ Learn how to start or expand an LSU STEM Pathway at your school at the link belo
 <br>
 <br>
 <a href="../../brochures/Slide-School.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Learn More</button></a>
+<br>
+<br>
+"Start or Expand" accessible version can be found <a href= "https://docs.google.com/document/d/1GFIg5CG1nDJ2-fc7lhlaSS4cUeR1LXuFDNjbh1sBU_U"> here</a>. 
+<br>
 <br>
 <br>
 To learn more about becoming an administrator for each pathway, click a link below to view the flyer.

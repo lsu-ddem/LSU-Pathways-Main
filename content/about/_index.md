@@ -37,9 +37,17 @@ All Pathways contain common themes, thus allowing students to transfer between P
 Students taking these courses can attain industry-promulgated credentials, university-issued certificates of course completion, and/or dual enrollment credit. Students who successfully complete 4 of the required courses in one Pathway will earn a Silver STEM Diploma Seal. Students will earn a Gold STEM Diploma Seal by satisfying the requirements for a Silver STEM Diploma Seal plus 4 additional Elective Gold Courses from the Qualifying Course List. Completion of a Pathway, which consists of 8 courses in a single subject area, will earn student either a career-tech diploma or an enhanced university prep-diploma.
 <br>
 <br>
-<a href="https://www.louisianabelieves.com/courses/louisiana-stem-initiative" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Louisiana Believes STEM Initiative </button></a> <a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Endorsement Overview</button></a> <a href="../../brochures/Slide-DE.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Dual Enrollment</button></a> 
+<a href="https://www.louisianabelieves.com/courses/louisiana-stem-initiative" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Louisiana Believes STEM Initiative Website</button></a> <a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Endorsement Overview Brochure</button></a> <a href="../../brochures/Slide-DE.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Dual Enrollment Brochure</button></a> 
 <br>
 <br>
+
+- STEM endorsement overview accessible version can be found <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ"> here</a>. 
+<br>
+
+- Dual enrollment brochure accessible version can be found <a href= "https://docs.google.com/document/d/1KlhaDtdZk6VU5TndtUQDuqMTcqK83c75fufr7qZzsyQ"> here</a>. 
+<br>
+<br>
+
 The statewide rollout of the LSU STEM Certification Pathways is a joint effort of the Louisiana Department of Education, Liberty Magnet High School, and faculty from Louisiana State University’s Gordon A. Cain Center for STEM Literacy, College of Engineering, College of Science, School of Art, School of Music, and the LSU Center for Computation & Technology.
 
 
@@ -193,3 +201,6 @@ Follow us on <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_b
 <br>
 
 <a href="../../brochures/STEMPathwaysPamphlet.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Pamphlet </button></a>
+<br>
+<br>
+LSU Pathways pamphlet accessible version can be found <a href= "https://docs.google.com/document/d/1OE_Wn5QfeR_lLngpwDHc2gzq1MoM341Mwpq_rsb1YQM"> here</a>. 

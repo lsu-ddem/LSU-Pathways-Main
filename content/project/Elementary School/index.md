@@ -39,8 +39,13 @@ Teachers then are able to adapt the lessons for use in their existing curriculum
 <br>
 <br>
 <a href="../../brochures/ElementaryModules.pdf" target ="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School STEM Pathways Module Descriptions </button></a>
-
 <br>
+<br>
+
+-  Elementary school flyer accessible version can be found <a href= "https://docs.google.com/document/d/1Js2pbHcEEfbH70zmD8ItHugH1TmboWNpKEF8EibzMic"> here</a>. 
+<br>
+
+- Elementary school module descriptions accessible version can be found <a href= "https://docs.google.com/document/d/1bmV27o2GBW7zXttkxj7amkjgDHassTyT_pmIctEwQNE"> here</a>. 
 
 
 
