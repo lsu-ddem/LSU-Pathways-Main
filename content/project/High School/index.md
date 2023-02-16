@@ -34,7 +34,7 @@ header:
 # slides: example
 ---
 
-LSU Pathways for high school is a robust curriculum designed for in-depth study of one of four available STEM pathways. Students can choose to study biomedical sciences, computing, digital design and emergent media, or pre-engineering.
+LSU Pathways for high school is a robust curriculum designed for in-depth study of one of four available STEM pathways. Students can choose to study biomedical, computing, digital design, or pre-engineering.
 <br>
 <br>
 
@@ -87,6 +87,7 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 - <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway brief </a>
 - <a href="../../brochures/BiomedStudent.pdf" target="_blank">Biomedical student information flyer</a>
 - <a href= "https://docs.google.com/document/d/1s4miFmYo8xDOMLvUn8dhHxeYVlfp6vq7SYnzJabJ1FA">Accessible version of Biomedical student information flyer</a>
+- <a href= "../../media-biomedical" target="_blank">Biomedical curriculum videos</a>
 
 #### Core Courses:
 - <a href="../../syllabi/IntroToBiomed.pdf" Target ="_blank">Intro to Biomedical Sciences </a>
@@ -118,13 +119,9 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
  <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">recommended order of courses flyer.</a>
  
 - <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway brief </a>
-<br>
-
 - <a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing student information flyer</a>
 - <a href= "https://docs.google.com/document/d/1JJTSyKoPFsedH1rCPsFWwTcm299nJUHNEkONB6gNbs0">Accessible version of Computing student information flyer</a>
-<br>
-
-- <a href="https://lsupathways.org/news/#computing"> Computing curriculum videos </a>
+- <a href="../../media-computing" Target = "_blank"> Computing curriculum videos </a>
  
 #### Core Courses:
 - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
@@ -162,7 +159,7 @@ To view the full DDEM website please visit <a href="https://ddem.lsupathways.org
 - <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank">DDEM STEM Pathway brief </a>
 - <a href="../../brochures/DDEMStudent.pdf" target="_blank">DDEM student information flyer</a>
 - <a href= "https://docs.google.com/document/d/1ZycCYXWj1-HFS1SAPVMmBKaWInfwMWdRLgUjf6sr5EA">Accessible version of DDEM student information flyer</a>
-- <a href="https://lsupathways.org/news/#DDEM"> DDEM curriculum videos </a>
+- <a href="../../media-ddem" target = "_blank"> DDEM curriculum videos </a>
 
 #### Core Courses:
 - <a href = "../../syllabi/DigitalStorytelling.pdf" target = "_blank"> Digital Storytelling </a>
@@ -194,7 +191,7 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 - <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank">Pre-Engineering STEM Pathway brief</a>
 - <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"> Pre-Engineering student information flyer</a> 
 - <a href= "https://docs.google.com/document/d/1IgbFbgY1c5KAlxDeaXhPDCM23ikVvVuUeuCUDDlWgsg">Accessible version of Pre-Engineering student information flyer</a>
-- <a href="https://lsupathways.org/news/#PreEngineering"> Pre-Engineering curriculum videos </a>
+- <a href="../../media-pre-engineering" target = "_blank"> Pre-Engineering curriculum videos </a>
 
 
 #### Core Courses:
