@@ -13,7 +13,7 @@ design:
   
 ---
 
-## **Middle School STEM Pathways**
+## **Middle School STEM Pathway**
 
 <br>
 
