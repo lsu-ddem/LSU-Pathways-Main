@@ -27,7 +27,7 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 
 ## High School Credit Course Information
 <br>
-<a href="../../brochures/MiddleSchoolFlyerHS.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School Credit Flyer</button></a> 
+<a href="../../brochures/MiddleSchoolFlyerHS.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High school credit flyer</button></a> 
 <br>
 <br>
 
@@ -91,7 +91,7 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 
 ## Middle School Credit Course Information
 <br>
-<a href="../../brochures/MiddleSchoolFlyerMS.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School Credit Flyer</button></a> 
+<a href="../../brochures/MiddleSchoolFlyerMS.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle school credit flyer</button></a> 
 <br>
 <br>
 

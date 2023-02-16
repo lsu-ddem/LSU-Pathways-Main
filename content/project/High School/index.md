@@ -84,10 +84,9 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 
 #### Overview:
 
-- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway Brief </a>
-<br>
-
-- <a href="../../brochures/BiomedStudent.pdf" target="_blank">Biomedical Pathway Information for Students </a> (Accessible version <a href= "https://docs.google.com/document/d/1s4miFmYo8xDOMLvUn8dhHxeYVlfp6vq7SYnzJabJ1FA"> here</a>.)
+- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway brief </a>
+- <a href="../../brochures/BiomedStudent.pdf" target="_blank">Biomedical student information flyer</a>
+- <a href= "https://docs.google.com/document/d/1s4miFmYo8xDOMLvUn8dhHxeYVlfp6vq7SYnzJabJ1FA">Accessible version of Biomedical student information flyer</a>
 
 #### Core Courses:
 - <a href="../../syllabi/IntroToBiomed.pdf" Target ="_blank">Intro to Biomedical Sciences </a>
@@ -104,7 +103,7 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 - <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Biomedical Capstone </a>
   
 
-For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway Brief</a>.
+For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway brief</a>.
  <br>
  <br>  
 
@@ -116,15 +115,16 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 #### Overview:
 
  This pathway is currently a key part of two major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">brbytes.org.</a> For an outline of recommended courses in the computing pathway, please see the
- <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">Recommended Order of Courses Flyer.</a>
+ <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">recommended order of courses flyer.</a>
  
-- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway Brief </a>
+- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway brief </a>
 <br>
 
-- <a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing Pathway Information for Students </a> (Accessible version <a href= "https://docs.google.com/document/d/1JJTSyKoPFsedH1rCPsFWwTcm299nJUHNEkONB6gNbs0"> here</a>.)
+- <a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing student information flyer</a>
+- <a href= "https://docs.google.com/document/d/1JJTSyKoPFsedH1rCPsFWwTcm299nJUHNEkONB6gNbs0">Accessible version of Computing student information flyer</a>
 <br>
 
-- <a href="https://lsupathways.org/news/#computing"> Computing Pathway Curriculum Videos </a>
+- <a href="https://lsupathways.org/news/#computing"> Computing curriculum videos </a>
  
 #### Core Courses:
 - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
@@ -144,7 +144,7 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 - <a href = "../../syllabi/AdvancedRobotics.pdf" target="_blank">Robotics: Advanced </a>
 - <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
 
-For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway Brief</a>.
+For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway brief</a>.
  <br>
  <br> 
 
@@ -159,10 +159,10 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 
 To view the full DDEM website please visit <a href="https://ddem.lsupathways.org" Target ="_blank">ddem.lsupathways.org. </a>
 
-- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank"> DDEM STEM Pathway Brief </a>
-- <a href="../../brochures/DDEMStudent.pdf" target="_blank"> DDEM Pathway Information for Students </a>
- (Accessible version <a href= "https://docs.google.com/document/d/1ZycCYXWj1-HFS1SAPVMmBKaWInfwMWdRLgUjf6sr5EA"> here</a>.)
-- <a href="https://lsupathways.org/news/#DDEM"> DDEM Pathway Curriculum Videos </a>
+- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank">DDEM STEM Pathway brief </a>
+- <a href="../../brochures/DDEMStudent.pdf" target="_blank">DDEM student information flyer</a>
+- <a href= "https://docs.google.com/document/d/1ZycCYXWj1-HFS1SAPVMmBKaWInfwMWdRLgUjf6sr5EA">Accessible version of DDEM student information flyer</a>
+- <a href="https://lsupathways.org/news/#DDEM"> DDEM curriculum videos </a>
 
 #### Core Courses:
 - <a href = "../../syllabi/DigitalStorytelling.pdf" target = "_blank"> Digital Storytelling </a>
@@ -179,7 +179,7 @@ To view the full DDEM website please visit <a href="https://ddem.lsupathways.org
 - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
 - <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
 
-For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank"> DDEM STEM Pathway Brief</a>.
+For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank"> DDEM STEM Pathway brief</a>.
  <br>
  <br> 
 
@@ -191,9 +191,10 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 {{< spoiler text="Pre-Engineering" >}}
 
 #### Overview:
-- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank">Pre-Engineering STEM Pathway Brief</a>
-- <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"> Pre-Engineering Pathway Information for Students </a> (Accessible version <a href= "https://docs.google.com/document/d/1IgbFbgY1c5KAlxDeaXhPDCM23ikVvVuUeuCUDDlWgsg"> here</a>.)
-- <a href="https://lsupathways.org/news/#PreEngineering"> Pre-Engineering Pathway Curriculum Videos </a>
+- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank">Pre-Engineering STEM Pathway brief</a>
+- <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"> Pre-Engineering student information flyer</a> 
+- <a href= "https://docs.google.com/document/d/1IgbFbgY1c5KAlxDeaXhPDCM23ikVvVuUeuCUDDlWgsg">Accessible version of Pre-Engineering student information flyer</a>
+- <a href="https://lsupathways.org/news/#PreEngineering"> Pre-Engineering curriculum videos </a>
 
 
 #### Core Courses:
@@ -212,13 +213,13 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 - <a href = "../../syllabi/AdvancedRobotics.pdf" target="_blank">Robotics: Advanced </a>
   
 For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank"> 
-Pre-Engineering STEM Pathway Brief</a>.
+Pre-Engineering STEM Pathway brief</a>.
  <br>
  <br> 
 
 {{< /spoiler >}}
 <br>
-<a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Pathways Course Catalog </button></a>
+<a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Pathways course catalog </button></a>
 <br>
 <br>
 STEM Pathways course catalog accessible version can be found <a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0"> here</a>. 

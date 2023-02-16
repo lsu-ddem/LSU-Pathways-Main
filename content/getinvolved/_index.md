@@ -39,30 +39,22 @@ design:
 ## **Interested in getting involved?**
 ## If you are a student, parent, teacher, or school administrator and are interested in getting involved with the LSU Pathways, please see below for more information.
 <br>
+<br>
 
 ## For Students and Parents
 <br>
-Please click a link below to find out more about the Pathways curriculum at each level.
+Please click a link to find out more about the Pathways curriculum at each level.
 <br>
 <br>
 <a href="../../project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School </button></a> <a href="../../project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../project/elementary-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School </button></a>
 <br>
 <br>
 <br>
+<br>
 
 ## For Teachers
 <br>
-In order to teach an LSU Pathway course or module, no prior STEM experience is assumed. A teacher simply needs STEM-curiosity, enthusiasm for project-based teaching, and willingness to attend a virtual summer training workshop. Throughout the school year, teachers receive continual assistance from, and access to, LSU STEM Pathways’ support staff.
-<br>
-<br>
-<a href="../../brochures/Testimonials.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Teacher Testimonials</button></a> <a href="../../brochures/Spotlights.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Faculty Spolights</button></a>
-<br>
-<br>
-Teacher testimonials accessible version can be found <a href="https://docs.google.com/document/d/1xSkhScopz61YqVoay-tMOYEr7fFw2thKiQI7TkGqB6Q"> here</a>.
-<br>
-<br>
-<br>
-To learn more about teaching with each pathway, click a link below to view the flyer.
+In order to teach an LSU Pathway course or module, no prior STEM experience is assumed. A teacher simply needs STEM-curiosity, enthusiasm for project-based teaching, and willingness to attend a virtual summer training workshop. Throughout the school year, teachers receive continual assistance from, and access to, LSU STEM Pathways’ support staff. To learn more about teaching with each pathway, click a link to view the flyer.
 <br>
 <br>
 <a href="../../brochures/TeacherFlyers.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a>
@@ -73,6 +65,12 @@ High school flyer accessible version can be found <a href= "https://docs.google.
 Middle school flyer accessible version can be found <a href= "https://docs.google.com/document/d/1OY13kOd3rVUH-l4U4T5Eg498KSkuOxCGKkoyNNDeS8Q"> here</a>. 
 <br>
 Elementary school flyer accessible version can be found <a href= "https://docs.google.com/document/d/1Js2pbHcEEfbH70zmD8ItHugH1TmboWNpKEF8EibzMic"> here</a>. 
+<br>
+<br>
+<a href="../../brochures/Testimonials.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Teacher Testimonials</button></a> <a href="../../brochures/Spotlights.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Faculty Spolights</button></a>
+<br>
+<br>
+Teacher testimonials accessible version can be found <a href="https://docs.google.com/document/d/1xSkhScopz61YqVoay-tMOYEr7fFw2thKiQI7TkGqB6Q"> here</a>.
 <br>
 <br>
 <br>
@@ -103,16 +101,15 @@ LSU Pathways Invitation accessible version can be found <a href= "https://docs.g
 </div>
 <br>
 <br>
-
-Learn how to start or expand an LSU STEM Pathway at your school <a href="../../brochures/Slide-School.pdf" target="_blank">here.</a>
-<br>
-Learn how to start or expand an LSU STEM Pathway accessible version can be found <a href= "https://docs.google.com/document/d/1GFIg5CG1nDJ2-fc7lhlaSS4cUeR1LXuFDNjbh1sBU_U"> here</a>. 
-<br>
-<br>
-<br>
-To learn more about becoming an administrator for each pathway, click a link below to view the flyer.
+To learn more about becoming an administrator for each pathway, click a link to view the flyer.
 <br>
 <br>
 <a href="../../brochures/AdminFlyers.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a> 
+<br>
+<br>
+Learn how to start or expand an LSU STEM Pathway at your school <a href="../../brochures/Slide-School.pdf" target="_blank">here.</a>
+<br>
+Learn how to start or expand an LSU STEM Pathway accessible version can be found <a href= "https://docs.google.com/document/d/1GFIg5CG1nDJ2-fc7lhlaSS4cUeR1LXuFDNjbh1sBU_U"> here</a>. 
+
 <br></br>
  

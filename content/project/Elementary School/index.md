@@ -35,10 +35,10 @@ Teachers then are able to adapt the lessons for use in their existing curriculum
 <br>
 <br>
 
-<a href="../..//news/#elementaryschool" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Video </button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School Flyer </button></a>
+<a href="../..//news/#elementaryschool" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary school video </button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary school flyer </button></a>
 <br>
 <br>
-<a href="../../brochures/ElementaryModules.pdf" target ="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School STEM Pathways Module Descriptions </button></a>
+<a href="../../brochures/ElementaryModules.pdf" target ="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary school STEM Pathways module descriptions </button></a>
 <br>
 <br>
 
