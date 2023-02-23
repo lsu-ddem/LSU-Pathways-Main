@@ -33,7 +33,7 @@ design:
   <tr>
     <td>LSU VEX Robotics Scholarship</td>
     <td>April 14, 2023</td>
-    <td>The LSU VEX Robotics Scholarship is a $1,000/year scholarship sponsored by the College of Engineering, the Gordon A. Cain Center, and the Capital Area STEM Network Center.  It is awarded to one outstanding VEX alumnus/alumnae entering the LSU College of Engineering each fall. Recipients can receive the award for up to four years if they remain in good academic (2.5 GPA) and disciplinary standing and demonstrate progress towards a degree from the College of Engineering each semester. The award will be disbursed in $500 installments each semester for up to eight semesters for a total of up to $4,000.</td>
+    <td>The LSU Pre-Engineering VEX is a $1,000 scholarship awarded to one outstanding LSU freshman student entering the College of Engineering each fall. The scholarship is awarded $500 for the fall semester and $500 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester.</td>
     <td> <a href="https://lsu.qualtrics.com/jfe/form/SV_byIDgMemObpO6IC" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> More Information </button></a> </td>
   </tr>
   <tr>
