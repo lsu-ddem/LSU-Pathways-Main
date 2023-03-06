@@ -48,6 +48,16 @@ Student testimonials accessible version can be found <a href= "https://docs.goog
 <br>
 <br>
 
+## Where are they now?
+Check out this article which follows up on two students who earned the Gold STEM Endorsement and were awarded the LSU Pre-Engineering Gold STEM Seal scholarship to pursue a degree in engineering.
+<br>
+<br>
+<a href="https://www.lsu.edu/eng/news/2023/02/pathwaysgoldscholarship.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">LSU Pathways Offers Students Gold Scholarship</button></a>
+<br>
+<br>
+<br>
+<br>
+
 ## 2019-2020
 23 students graduated with STEM endorsements from LSU Pathways. 
 <br>
