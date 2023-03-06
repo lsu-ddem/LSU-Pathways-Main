@@ -24,6 +24,14 @@ design:
 <br>
 <br>
 
+Check out this article which follows up on two students who earned the Gold STEM Endorsement and were awarded the LSU Pre-Engineering Gold STEM Seal scholarship to pursue a degree in engineering.
+<br>
+<br>
+<a href="https://www.lsu.edu/eng/news/2023/02/pathwaysgoldscholarship.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">LSU Pathways Offers Students Gold Scholarship</button></a>
+<br>
+<br>
+<br>
+<br>
 
 ## **LSU STEM Pathways Curriculum Media**
 
