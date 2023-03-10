@@ -92,7 +92,7 @@ Check out this article which follows up on two students who earned the Gold STEM
 151 students graduated with STEM endorsements from LSU Pathways.
 <br>
 <br>
-<a href="https://endorsements.lsupathways.com/#2022-endorsements" ><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a>
+<a href="https://endorsements.lsupathways.com/#2022-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a>
 {{< spoiler text="View school list" >}}
 
 - Benjamin Franklin High School
