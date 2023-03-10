@@ -61,7 +61,8 @@ Check out this article which follows up on two students who earned the Gold STEM
 ## 2019-2020
 23 students graduated with STEM endorsements from LSU Pathways. 
 <br>
-<a href = "https://www.louisianabelieves.com/docs/default-source/academics/2020-stem-endorsement-graduates.pdf?sfvrsn=85e9981f_2" target = "_blank">2020 list of students </a> </td>
+<br>
+<a href="https://www.louisianabelieves.com/docs/default-source/academics/2020-stem-endorsement-graduates.pdf?sfvrsn=85e9981f_2" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2020 Graduates</button></a>
 <br>
 {{< spoiler text="View school list" >}}
 
@@ -73,8 +74,9 @@ Check out this article which follows up on two students who earned the Gold STEM
 ## 2020-2021
 71 students graduated with STEM endorsements from LSU Pathways. 
 <br>
-<!-- This year, our students were asked to submit a portrait and short bio to be published. <a href = "https://endorsements.lsupathways.com/" target = "_blank">View 2021 Student Bios.</a> 
-<br> -->
+<br>
+<a href="https://endorsements.lsupathways.com/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2021 Graduates</button></a>
+
 {{< spoiler text="View school list" >}}
 
 - Central High School
@@ -89,8 +91,8 @@ Check out this article which follows up on two students who earned the Gold STEM
 ## 2021-2022
 151 students graduated with STEM endorsements from LSU Pathways.
 <br>
-<!-- 2022 List of Students Coming Soon
-<br> -->
+<br>
+<a href="https://endorsements.lsupathways.com/#2022-endorsements" ><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a>
 {{< spoiler text="View school list" >}}
 
 - Benjamin Franklin High School
