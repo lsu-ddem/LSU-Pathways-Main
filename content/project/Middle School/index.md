@@ -97,6 +97,7 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 
 The Middle School STEM Pathways Program is pleased to announce that we now offer three middle school electives to serve as a pipeline to prepare students for the High School STEM Pathways-- Aquaponics, Step into STEm, and Intro to Computing. These courses provide middle school students with the opportunity to access quality STEM courses through project-based learning experiences without the pressure of high school credit. 
 <br>
+<br>
 <a href="../../syllabi/Aquaponics.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Aquaponics Syllabus</button></a> <a href="../../syllabi/IntroToComputing.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Intro to Computing Syllabus</button></a> 
 <br>
 <br>
