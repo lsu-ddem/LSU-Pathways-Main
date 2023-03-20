@@ -95,10 +95,9 @@ For a list of materials for this course please <a href="../../syllabi/SurveyOfCo
 <br>
 <br>
 
-The Middle School STEM Pathways Program is pleased to announce that we piloted two 6th graded courses -- Aquaponics and Step into STEM -- in the summer of 2022. This expansion of the LSU STEM Pathways program into 6th grade allows us to expand access to quality STEM courses through project-based learning experiences.  We look forward to continuing to offer these courses.
- 
-For more information on our newest pilots -- Aquaponics, Step into STEM, and Intro to Computing -- please contact Nicole Foster at nfoster1@lsu.edu or Dr. Frank Neubrander at fneub1@lsu.edu
+The Middle School STEM Pathways Program is pleased to announce that we now offer three middle school electives to serve as a pipeline to prepare students for the High School STEM Pathways-- Aquaponics, Step into STEm, and Intro to Computing. These courses provide middle school students with the opportunity to access quality STEM courses through project-based learning experiences without the pressure of high school credit. 
 <br>
+<a href="../../syllabi/Aquaponics.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Aquaponics Syllabus</button></a> <a href="../../syllabi/IntroToComputing.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Intro to Computing Syllabus</button></a> 
 <br>
 <br>
 
