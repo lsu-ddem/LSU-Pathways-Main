@@ -16,7 +16,7 @@ header:
 #   focal_point: Smart
 ---
 
-While the Louisiana Department of Education (LDOE) STEM Pathways are designed for students in 9th-12th grade, LSU recognizes the need to create a pipeline for success beginning elementary and middle school.  There are several opportunities for middle school students to get involved with the LSU STEM Pathways before 9th grade. 
+While the Louisiana Department of Education (LDOE) STEM Pathways are designed for students in 9th-12th grade, LSU recognizes the need to create a pipeline for success beginning elementary and middle school. There are several opportunities for middle school students to get involved with the LSU STEM Pathways before 9th grade: middle school courses for high school credit, middle school courses for middle school credit, and middle school STEM modules. Each of the middle school offerings seeks to empower teachers with the tools and training they need to effectively engage all students in STEM-driven, project-based learning while also meeting their curricular needs.
 
 <br>
 
@@ -107,10 +107,7 @@ The Middle School STEM Pathways Program is pleased to announce that we now offer
 <img src = "../../../graphics/msgraphicmodule.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 7 teachers, 5 schools, and 2 districts for this program." width="550" height="650">
 <img src = "../../../graphics/msmapmodule.png" alt= "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 5 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
 
-## Training Modules Course Information
-<br>
-The middle school STEM Pathways training  seeks to empower teachers with the tools and training they need to effectively engage all students in STEM-driven, project-based learning while also meeting their curricular needs. Participating teachers are not expected to have any STEM content specific knowledge. A strong work ethic and a desire to engage in project-based learning and STEM is entirely sufficient.
-<br>
+## Training Modules Information
 <br>
 Teachers are trained in project-based, STEM modular units that are aligned to curricular standards at the 6-8 grade levels. Modules can be used in class as stand-alone units, incorporated into current lessons and curriculum as supplementary materials, or in before and after school programs. The modules are great for schools who wish to bring STEM enrichment into any existing class at the middle school level. Each module encourages exploration of the STEM Pathways. Teacher training occurs through summer institutes or as requested by the parish in the school year. Additional support is provided throughout the school year from the institute trainers.
 <br>
