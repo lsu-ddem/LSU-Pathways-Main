@@ -108,6 +108,24 @@ Check out this article which follows up on two students who earned the Gold STEM
 
 <br>
 
+## 2022-2023
+366 students graduated with STEM endorsements from LSU Pathways.
+<br>
+<br>
+<a href="https://endorsements.lsupathways.com/#2023-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2023 Graduates</button></a>
+{{< spoiler text="View school list" >}}
 
+- Central High School
+- College and Careers Center
+- Delhi Charter School
+- Denham Springs High School STEM and Robotics Center
+- Liberty High School
+- MSA East
+- Pointe Coupee SMA
+- St. John the Baptist SMA
+- Woodlawn High School
+{{< /spoiler >}}
+
+<br>
 
  
