@@ -83,18 +83,16 @@ Teacher testimonials accessible version can be found <a href="https://docs.googl
 <br>
 <center>
 
-The invitation to participate in the LSU STEM pathways program for the 2023-24 school year is now available! Please review this information along with our updated course catalog to determine which courses you would like to offer in the upcoming school year. The Memorandum of Understanding portal will open on March 15th for you to formally commit to offering one or more LSU STEM pathway course in 2023-24. 
-<br>
-For any questions, please email <a href="mailto:stempathways@lsu.edu">stempathways@lsu.edu</a>.
+Formal registration to participate in the LSU STEM pathways for the 2024-25 school year will be available in March. In the meantime, please review our current course catalog.  If you are interested in participating next year and would like to receive more information, please complete the request for information button. For any questions, please email <a href="mailto:stempathways@lsu.edu">stempathways@lsu.edu</a>.
 <br>
 <br>
-<a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Pathways Invitation </button></a> <a href=" https://college-readiness.lsu.edu/pathways/mou/request" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> MoU Request </button></a> <a href="https://docs.google.com/document/d/17UMraBfdxq1d85gddYo6lVdi27QJQEY0xPp_gZklPQo" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Returning Teachers </button></a> <a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a>
+<a href=" https://college-readiness.lsu.edu/pathways/mou/request" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Request Information </button></a> <a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o/edit" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a> <a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 LSU Pathways Invitation </button></a>
 <br>
-<br>
-
-LSU Pathways Invitation accessible version can be found <a href= "https://docs.google.com/document/d/1Z8_nO-yOT3vCmhjUWEI2_6lAQZ2_c4i8sbxVfDDzmys"> here</a>. 
 <br>
 2023-24 Course Catalog accessible version can be found<a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0"> here.</a>
+<br>
+2023-24 LSU Pathways Invitation accessible version can be found <a href= "https://docs.google.com/document/d/1Z8_nO-yOT3vCmhjUWEI2_6lAQZ2_c4i8sbxVfDDzmys"> here</a>. 
+
 
  </center>
  </div>

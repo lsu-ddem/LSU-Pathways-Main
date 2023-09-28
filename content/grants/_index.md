@@ -35,13 +35,8 @@ If successful, this study will inform development of future courses nationwide t
 ## Micro-Credential Grant
 <br>
 
-What is the Louisiana STEM Micro-Credential Project?
-This project involves the development and testing of a set of micro-credentials intended to allow teachers to apply what they have learned through their STEM Pathway training to the classes they teach. The partners involved in this project include:
+What is the Louisiana STEM Micro-Credential Project? This project involves the development and testing of a set of micro-credentials intended to allow teachers to apply what they have learned through their STEM Pathway training to the classes they teach. The micro-credential grant is no longer actively recruiting, but check back here for the results of the study which will be available in 2025!
 
-- Louisiana Department of Education (LDOE)
-- Louisiana State University (LSU) 
-- BloomBoard
-- RAND Corporation
 
 <br>
 <!-- <a href="../../brochures/MicrocredentialFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Micro-Credential Flyer </button></a>  -->

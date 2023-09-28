@@ -22,7 +22,7 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 
 ## <b> Who Does Middle School LSU STEM Pathways for High School Credit in 2022-23? </b>
 
-<img src = "../../../graphics/msgraphichsc.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 46 teachers, 34 schools, and 12 districts for this program. There were over 1750 students enrolled." width="550" height="650">
+<img src = "../../../graphics/msgraphichsc.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 47 teachers, 35 schools, and 13 districts for this program. There were over 1750 students enrolled." width="550" height="650">
 <img src = "../../../graphics/msmaphsc.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 34 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
 
 ## High School Credit Course Information

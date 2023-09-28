@@ -165,7 +165,7 @@ In 2022-23, we are serving 103 schools who are offering high school and middle s
 
 {{< /spoiler >}}
 
-<img src = "../../../graphics/allgraphic.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 204 teachers, 103 schools, 41 districts, and offered 28 courses. There were over 9300 students enrolled." width="425" height="525" style ="float: left">
+<img src = "../../../graphics/allgraphic.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 209 teachers, 104 schools, 43 districts, and offered 28 courses. There were over 10,000 students enrolled." width="425" height="525" style ="float: left">
 <img src="https://media.giphy.com/media/vYwQ4q6Jyi1MUi8T0U/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow. 17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
 <center>
 <table>
