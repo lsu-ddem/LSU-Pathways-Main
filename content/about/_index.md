@@ -41,9 +41,9 @@ Students taking these courses can attain industry-promulgated credentials, unive
 <br>
 <br>
 
-STEM endorsement brochure accessible version can be found <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ"> here</a>. 
+ <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ">STEM endorsement brochure accessible version</a> 
 <br>
-LSU Dual Enrollment brochure accessible version can be found <a href= "https://docs.google.com/document/d/1KlhaDtdZk6VU5TndtUQDuqMTcqK83c75fufr7qZzsyQ"> here</a>. 
+ <a href= "https://docs.google.com/document/d/1KlhaDtdZk6VU5TndtUQDuqMTcqK83c75fufr7qZzsyQ">LSU Dual Enrollment brochure accessible version</a>
 <br>
 <br>
 
@@ -53,7 +53,7 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 ## <b> Who Does LSU STEM Pathways? </b>
 <br>
-In 2022-23, we are serving 103 schools who are offering high school and middle school LSU STEM Pathway courses. This does not include schools and districts who are offering courses in the Spring-only courses, as those students have not yet enrolled. Graphics will be updated in February 2023 to reflect the Spring student enrollment, which is anticipated to increase overall enrollment to more than 10,000 students. To see current participating schools, click the dropdown below. 
+In 2022-23, we are serving 104 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
 <br>
 <br>
 
@@ -166,7 +166,7 @@ In 2022-23, we are serving 103 schools who are offering high school and middle s
 {{< /spoiler >}}
 
 <img src = "../../../graphics/allgraphic.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 209 teachers, 104 schools, 43 districts, and offered 28 courses. There were over 10,000 students enrolled." width="425" height="525" style ="float: left">
-<img src="https://media.giphy.com/media/vYwQ4q6Jyi1MUi8T0U/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow. 17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
+<img src="https://media.giphy.com/media/r0oxTAkYzSvzcIXVWw/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow. 17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
 <center>
 <table>
   <tr>
@@ -180,7 +180,7 @@ In 2022-23, we are serving 103 schools who are offering high school and middle s
   </tr>
 </table>
 
-Follow us on <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >LinkedIn here</a> to see the STEM Pathways in action.
+<a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >Follow us on LinkedIn</a> to see the STEM Pathways in action.
 <br>
 <br>
  </center>
@@ -200,4 +200,4 @@ Follow us on <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_b
 <a href="../../brochures/STEMPathwaysPamphlet.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU STEM Pathways pamphlet </button></a>
 <br>
 <br>
-LSU STEM Pathways pamphlet accessible version can be found <a href= "https://docs.google.com/document/d/1OE_Wn5QfeR_lLngpwDHc2gzq1MoM341Mwpq_rsb1YQM"> here</a>. 
+<a href= "https://docs.google.com/document/d/1OE_Wn5QfeR_lLngpwDHc2gzq1MoM341Mwpq_rsb1YQM">LSU STEM Pathways pamphlet accessible version</a>

@@ -70,7 +70,7 @@ Course Objectives:
 -	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
 
 <br>
-For a complete list of LDOE Jump Start universal courses please <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">click here.</a>
+<a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">Complete list of LDOE Jump Start universal courses</a>
 <br>
 {{< /spoiler >}}
  <br>
@@ -216,14 +216,14 @@ Pre-Engineering STEM Pathway brief</a>.
 
 {{< /spoiler >}}
 <br>
-<a href="../../brochures/CourseCatalog.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Pathways course catalog </button></a>
+<a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o/edit?usp=sharing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Pathways course catalog </button></a>
 <br>
 <br>
-STEM Pathways course catalog accessible version can be found <a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0"> here</a>. 
+<a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0">STEM Pathways course catalog accessible version</a> 
 
 
 <br>
 <br>
 
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities. 
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities.  
 <br>

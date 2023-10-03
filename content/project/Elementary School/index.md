@@ -42,14 +42,14 @@ Teachers then are able to adapt the lessons for use in their existing curriculum
 <br>
 <br>
 
-Elementary school flyer accessible version can be found <a href= "https://docs.google.com/document/d/1Js2pbHcEEfbH70zmD8ItHugH1TmboWNpKEF8EibzMic"> here</a>. 
+<a href= "https://docs.google.com/document/d/1Js2pbHcEEfbH70zmD8ItHugH1TmboWNpKEF8EibzMic">Elementary school flyer accessible version</a>
 <br>
-Elementary school module descriptions accessible version can be found <a href= "https://docs.google.com/document/d/1bmV27o2GBW7zXttkxj7amkjgDHassTyT_pmIctEwQNE"> here</a>. 
+<a href= "https://docs.google.com/document/d/1bmV27o2GBW7zXttkxj7amkjgDHassTyT_pmIctEwQNE">Elementary school module descriptions accessible version </a> 
 
 
 
 <br>
 <br>
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities.  
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities.  
 
 <br>

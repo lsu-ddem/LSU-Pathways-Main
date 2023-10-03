@@ -55,9 +55,9 @@ Course Objectives:
 -	Use various forms of digital and emergent media to design their own products.
 -	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
 
-For a list of materials for this course please <a href="../../syllabi/IntroSTEMPathways.pdf" target="_blank">click here.</a>
+<a href="../../syllabi/IntroSTEMPathways.pdf" target="_blank">Intro to STEM Pathways course materials list</a>
 
-For a complete list of LDOE Jump Start universal courses please <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">click here.</a>
+<a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">Complete list of LDOE Jump Start universal courses</a>
 
 <br>
 {{< /spoiler >}}
@@ -79,7 +79,7 @@ Course Objectives:
 - Communicate computing ideas using appropriate terminology 
 - Collaborate with other students to develop computing artifacts, algorithms or protocols. 
 
-For a list of materials for this course please <a href="../../syllabi/SurveyOfComputing.pdf" target="_blank">click here.</a>
+<a href="../../syllabi/SurveyOfComputing.pdf" target="_blank">Survey of Computing course materials list</a>
 
 {{< /spoiler >}}
 <br>
@@ -112,8 +112,8 @@ The Middle School STEM Pathways Program is pleased to announce that we now offer
 Teachers are trained in project-based, STEM modular units that are aligned to curricular standards at the 6-8 grade levels. Modules can be used in class as stand-alone units, incorporated into current lessons and curriculum as supplementary materials, or in before and after school programs. The modules are great for schools who wish to bring STEM enrichment into any existing class at the middle school level. Each module encourages exploration of the STEM Pathways. Teacher training occurs through summer institutes or as requested by the parish in the school year. Additional support is provided throughout the school year from the institute trainers.
 <br>
 <br>
-For a list of materials for the Middle School STEM Modules please <a href="../../syllabi/MSModules.pdf" target="_blank">click here.</a>
+<a href="../../syllabi/MSModules.pdf" target="_blank">Middle school STEM modules materials list </a>
 <br>
 <br>
 <br>
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> link here </a> for the QSM Grant. Want more tips and tricks for writing classroom grants?  Please watch <a href="https://youtu.be/1CnIutnGtTE" target="_blank">this video</a> to learn about other classroom supply grant opportunities.
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities.  

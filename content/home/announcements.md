@@ -83,9 +83,9 @@ Formal registration to participate in the LSU STEM pathways for the 2024-25 scho
 <a href=" https://college-readiness.lsu.edu/pathways/mou/request" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Request Information </button></a> <a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o/edit" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a> <a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 LSU Pathways Invitation </button></a>
 <br>
 <br>
-2023-24 Course Catalog accessible version can be found<a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0"> here.</a>
+<a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0"> 2023-24 course catalog accessible version</a>
 <br>
-2023-24 LSU Pathways Invitation accessible version can be found <a href= "https://docs.google.com/document/d/1Z8_nO-yOT3vCmhjUWEI2_6lAQZ2_c4i8sbxVfDDzmys"> here</a>. 
+<a href= "https://docs.google.com/document/d/1Z8_nO-yOT3vCmhjUWEI2_6lAQZ2_c4i8sbxVfDDzmys">2023-24 LSU Pathways invitation accessible version</a>
 
 
 </center>

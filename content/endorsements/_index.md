@@ -42,9 +42,9 @@ design:
 <a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM endorsement brochure</button></a> <a href="../../brochures/Slide-StudentSuccess.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Student testimonials </button></a> 
 <br>
 <br>
-STEM endorsement brochure accessible version can be found <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ"> here</a>. 
+ <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ">STEM endorsement brochure accessible version</a> 
 <br>
-Student testimonials accessible version can be found <a href= "https://docs.google.com/document/d/1nPAGbyEaz5yWh-BcBaJWiCmCeD6sZx68KlNpdRuEON4"> here</a>. 
+<a href= "https://docs.google.com/document/d/1nPAGbyEaz5yWh-BcBaJWiCmCeD6sZx68KlNpdRuEON4">Student testimonials accessible version</a> 
 <br>
 <br>
 
@@ -64,7 +64,7 @@ Check out this article which follows up on two students who earned the Gold STEM
 <br>
 <a href="https://www.louisianabelieves.com/docs/default-source/academics/2020-stem-endorsement-graduates.pdf?sfvrsn=85e9981f_2" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2020 Graduates</button></a>
 <br>
-{{< spoiler text="View school list" >}}
+{{< spoiler text="View 2019-20 school list" >}}
 
 - Liberty Magnet High School
 - STEM Magnet Academy of Point Coupee
@@ -77,7 +77,7 @@ Check out this article which follows up on two students who earned the Gold STEM
 <br>
 <a href="https://endorsements.lsupathways.com/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2021 Graduates</button></a>
 
-{{< spoiler text="View school list" >}}
+{{< spoiler text="View 2020-21 school list" >}}
 
 - Central High School
 - Denham Springs High School STEM and Robotics Center
@@ -93,7 +93,7 @@ Check out this article which follows up on two students who earned the Gold STEM
 <br>
 <br>
 <a href="https://endorsements.lsupathways.com/#2022-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a>
-{{< spoiler text="View school list" >}}
+{{< spoiler text="View 2021-22 school list" >}}
 
 - Benjamin Franklin High School
 - Central High School
@@ -109,16 +109,18 @@ Check out this article which follows up on two students who earned the Gold STEM
 <br>
 
 ## 2022-2023
-366 students graduated with STEM endorsements from LSU Pathways.
+418 students graduated with STEM endorsements from LSU Pathways.
 <br>
 <br>
 <a href="https://endorsements.lsupathways.com/#2023-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2023 Graduates</button></a>
-{{< spoiler text="View school list" >}}
+{{< spoiler text="View 2022-23 school list" >}}
 
+- Benjamin Franklin High School
 - Central High School
 - College and Careers Center
 - Delhi Charter School
 - Denham Springs High School STEM and Robotics Center
+- Haynes Academy School for Advanced Study
 - Liberty High School
 - MSA East
 - Pointe Coupee SMA
