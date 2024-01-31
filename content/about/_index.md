@@ -20,10 +20,11 @@ design:
 
  Students who participate in the LSU Pathways curriculum can choose to take courses in one or more of the following subject areas:
 
-  - Biomedical Sciences
-  - Computing
+  - Pre-Healthcare and Pre-Veterinary
+  - Computing and Cybersecurity
   - Digital Design and Emergent Media
   - Pre-Engineering
+  - Environmental Protection and Sustainability
 
 <br>
 

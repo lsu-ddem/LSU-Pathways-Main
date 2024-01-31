@@ -30,6 +30,11 @@ Check out this article which follows up on two students who earned the Gold STEM
 <a href="https://www.lsu.edu/eng/news/2023/02/pathwaysgoldscholarship.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">LSU Pathways Offers Students Gold Scholarship</button></a>
 <br>
 <br>
+The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM Seal Scholarships, valued at $1500 each, and 3 Silver scholarships, valued at $750 each, to incoming LSU freshmen in the class of 2023. 
+<br>
+<br>
+<a href="https://capitalareastem.org/news/blog.html/article/2023/11/08/celebrating-excellence-lsu-stem-pathways-gold-and-silver-stem-seal-scholarship-recipients" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Gold and Silver STEM Seal Scholarship Recipients</button></a>
+<br>
 <br>
 <br>
 
@@ -43,4 +48,6 @@ Check out this article which follows up on two students who earned the Gold STEM
 
 ## High School Pathways Curriculum Videos
 <br>
-<a href="../media-biomedical" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Biomedical Pathway</button></a> <a href="../media-computing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing Pathway</button></a> <a href="../media-ddem" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> DDEM Pathway </button></a> <a href="../media-pre-engineering" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Pathway</button></a> 
+<a href="../media-biomedical" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Healthcare & Pre-Veterinary Pathway</button></a> <a href="../media-computing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing & Cybersecurity Pathway</button></a><br><br>
+
+<a href="../media-ddem" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design & Emergent Media Pathway </button></a> <a href="../media-pre-engineering" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Pathway</button></a> 

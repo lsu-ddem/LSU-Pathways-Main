@@ -55,57 +55,12 @@ Check out this article which follows up on two students who earned the Gold STEM
 <a href="https://www.lsu.edu/eng/news/2023/02/pathwaysgoldscholarship.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">LSU Pathways Offers Students Gold Scholarship</button></a>
 <br>
 <br>
+The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM Seal Scholarships, valued at $1500 each, and 3 Silver scholarships, valued at $750 each, to incoming LSU freshmen in the class of 2023. 
 <br>
 <br>
-
-## 2019-2020
-23 students graduated with STEM endorsements from LSU Pathways. 
+<a href="https://capitalareastem.org/news/blog.html/article/2023/11/08/celebrating-excellence-lsu-stem-pathways-gold-and-silver-stem-seal-scholarship-recipients" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Gold and Silver STEM Seal Scholarship Recipients</button></a>
 <br>
 <br>
-<a href="https://www.louisianabelieves.com/docs/default-source/academics/2020-stem-endorsement-graduates.pdf?sfvrsn=85e9981f_2" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2020 Graduates</button></a>
-<br>
-{{< spoiler text="View 2019-20 school list" >}}
-
-- Liberty Magnet High School
-- STEM Magnet Academy of Point Coupee
-{{< /spoiler >}}
-<br>
-
-## 2020-2021
-71 students graduated with STEM endorsements from LSU Pathways. 
-<br>
-<br>
-<a href="https://endorsements.lsupathways.com/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2021 Graduates</button></a>
-
-{{< spoiler text="View 2020-21 school list" >}}
-
-- Central High School
-- Denham Springs High School STEM and Robotics Center
-- Liberty Magnet High School
-- Peabody Magnet High School
-- STEM Magnet Academy of Point Coupee
-- St. John the Baptist SMA
-{{< /spoiler >}}
-<br>
-
-## 2021-2022
-151 students graduated with STEM endorsements from LSU Pathways.
-<br>
-<br>
-<a href="https://endorsements.lsupathways.com/#2022-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a>
-{{< spoiler text="View 2021-22 school list" >}}
-
-- Benjamin Franklin High School
-- Central High School
-- Denham Springs High School STEM and Robotics Center
-- Haynes Academy School for Advanced Studies
-- Liberty Magnet High School
-- Rapides Career and Technical Education Program
-- STEM Magnet Academy of Point Coupee 
-- St. James College and Career Readiness
-- St. Martinville Senior High School
-{{< /spoiler >}}
-
 <br>
 
 ## 2022-2023
@@ -130,4 +85,33 @@ Check out this article which follows up on two students who earned the Gold STEM
 
 <br>
 
- 
+## 2021-2022
+151 students graduated with STEM endorsements from LSU Pathways.
+<br>
+<br>
+<a href="https://endorsements.lsupathways.com/#2022-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a>
+{{< spoiler text="View 2021-22 school list" >}}
+
+- Benjamin Franklin High School
+- Central High School
+- Denham Springs High School STEM and Robotics Center
+- Haynes Academy School for Advanced Studies
+- Liberty Magnet High School
+- Rapides Career and Technical Education Program
+- STEM Magnet Academy of Point Coupee 
+- St. James College and Career Readiness
+- St. Martinville Senior High School
+{{< /spoiler >}}
+<br>
+
+## 2019-2020
+23 students graduated with STEM endorsements from LSU Pathways. 
+<br>
+<br>
+<a href="https://www.louisianabelieves.com/docs/default-source/academics/2020-stem-endorsement-graduates.pdf?sfvrsn=85e9981f_2" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2020 Graduates</button></a>
+<br>
+{{< spoiler text="View 2019-20 school list" >}}
+
+- Liberty Magnet High School
+- STEM Magnet Academy of Point Coupee
+{{< /spoiler >}}

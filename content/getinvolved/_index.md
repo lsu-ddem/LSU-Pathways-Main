@@ -83,10 +83,10 @@ In order to teach an LSU Pathway course or module, no prior STEM experience is a
 <br>
 <center>
 
-Formal registration to participate in the LSU STEM pathways for the 2024-25 school year will be available in March. In the meantime, please review our current course catalog.  If you are interested in participating next year and would like to receive more information, please complete the request for information button. For any questions, please email <a href="mailto:stempathways@lsu.edu">stempathways@lsu.edu</a>.
+Formal registration and course specific training dates for the 2024-25 LSU STEM pathways will be available mid-March. In the meantime, please review our current course catalog and our invitation to participate.  If you are interested in participating next year and would like to receive more information, please complete the request for information below. For any questions, please email <a href="mailto:stempathways@lsu.edu">stempathways@lsu.edu</a>.
 <br>
 <br>
-<a href=" https://college-readiness.lsu.edu/pathways/mou/request" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Request Information </button></a> <a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o/edit" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 Course Catalog </button></a> <a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2023-24 LSU Pathways Invitation </button></a>
+<a href=" https://college-readiness.lsu.edu/pathways/mou/request" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Request Information </button></a> <a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o/edit" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2024-25 Course Catalog </button></a> <a href="../../brochures/PathwaysInvitation.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> 2024-25 LSU Pathways Invitation </button></a>
 <br>
 <br>
 <a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0">2023-24 course catalog accessible version </a>

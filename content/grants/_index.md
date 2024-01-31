@@ -12,6 +12,13 @@ design:
   columns: '1'
 ---
 
+
+## **Classroom Grant Opportunities**
+<br>
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities. 
+<br><br><br>
+
+
 ## **Research Grant Opportunities** 
 <br>
 
@@ -51,8 +58,5 @@ labor/projects/STEM-micro-credentials.html" target="_blank"><button style= "back
  <a href= "https://docs.google.com/document/d/16Q5nD-VMH2bLAOE7cZ-AEARtQXJe7NWMd3GbucEEXRY">Micro-credential pamphlet accessible version</a> 
 
 
-<br>
-<br>
-
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities.  
+ 
 

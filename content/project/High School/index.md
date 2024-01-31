@@ -80,20 +80,20 @@ Course Objectives:
 Click a dropdown to learn more about each pathway, including a syllabus for each class.
 <br>
 <br>
-{{< spoiler text="Biomedical Sciences" >}}
+{{< spoiler text="Pre-Healthcare and Pre-Veterinary" >}}
 
 #### Overview:
-
-- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway brief </a>
-- <a href="../../brochures/BiomedStudent.pdf" target="_blank">Biomedical student information flyer</a>
-- <a href= "https://docs.google.com/document/d/1s4miFmYo8xDOMLvUn8dhHxeYVlfp6vq7SYnzJabJ1FA">Accessible version of Biomedical student information flyer</a>
-- <a href= "../../media-biomedical" target="_blank">Biomedical curriculum videos</a>
+- <a href="../../brochures/PreHealthcareBrief2024.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary Brief (Incoming freshmen for 2024-25) </a>
+- <a href="../../brochures/PreHealthcareBrief2023.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary Brief (Incoming Freshmen for 2023-24 or earlier) </a>
+- <a href="../../brochures/BiomedStudent.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary student information flyer</a>
+- <a href= "https://docs.google.com/document/d/1s4miFmYo8xDOMLvUn8dhHxeYVlfp6vq7SYnzJabJ1FA">Accessible version of Pre-Healthcare and Pre-Veterinary student information flyer</a>
+- <a href= "../../media-biomedical" target="_blank">Pre-Healthcare and Pre-Veterinary curriculum videos</a>
 
 #### Core Courses:
-- <a href="../../syllabi/IntroToBiomed.pdf" Target ="_blank">Intro to Biomedical Sciences </a>
+- <a href="../../syllabi/IntroToBiomed.pdf" Target ="_blank">Intro to Pre-Healthcare and Pre-Veterinary Sciences </a>
 - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
 - <a href="../../syllabi/ComparativeAnatomy.pdf" Target ="_blank">Comparative Anatomy & Physiology </a>
-- <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Biomedical Capstone </a> or <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
+- <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Pre-Healthcare and Pre-Veterinary Capstone </a> or <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
 
 #### LSU Electives:
 - <a href="../../syllabi/Forensics.pdf" Target ="_blank">Forensic Science </a>
@@ -101,10 +101,10 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 - Bioinformatics
 - Conservation Biology
 - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
-- <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Biomedical Capstone </a>
+- <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Pre-Healthcare and Pre-Veterinary Capstone </a>
   
 
-For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---biomedical-sciences.pdf?sfvrsn=d8b76718_2" target="_blank">Biomedical STEM Pathway brief</a>.
+For additional courses, please see <a href="../../brochures/PreHealthcareBrief2024.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary STEM Pathway brief</a>.
  <br>
  <br>  
 
@@ -112,13 +112,14 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 
 {{< /spoiler >}}
 
-{{< spoiler text="Computing" >}}
+{{< spoiler text="Computing and Cybersecurity" >}}
 #### Overview:
 
  This pathway is currently a key part of two major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">brbytes.org.</a> For an outline of recommended courses in the computing pathway, please see the
  <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">recommended order of courses flyer.</a>
  
-- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway brief </a>
+- <a href="../../brochures/ComputingBrief2024.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2024-25) </a>
+- <a href="../../brochures/ComputingBrief2023.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2023-24 or earlier) </a>
 - <a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing student information flyer</a>
 - <a href= "https://docs.google.com/document/d/1JJTSyKoPFsedH1rCPsFWwTcm299nJUHNEkONB6gNbs0">Accessible version of Computing student information flyer</a>
 - <a href="../../media-computing" Target = "_blank"> Computing curriculum videos </a>
@@ -141,7 +142,7 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 - <a href = "../../syllabi/AdvancedRobotics.pdf" target="_blank">Robotics: Advanced </a>
 - <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
 
-For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---computing.pdf?sfvrsn=dfb76718_2" target="_blank"> Computing STEM Pathway brief</a>.
+For additional courses, please see <a href="../../brochures/ComputingBrief2024.pdf" target="_blank"> Computing and Cybersecurity STEM Pathway brief</a>.
  <br>
  <br> 
 
@@ -156,7 +157,8 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 
 To view the full DDEM website please visit <a href="https://ddem.lsupathways.org" Target ="_blank">ddem.lsupathways.org. </a>
 
-- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank">DDEM STEM Pathway brief </a>
+- <a href="../../brochures/DDEMBrief2024.pdf" target="_blank">DDEM brief (Incoming freshmen 2024-25) </a>
+-  <a href="../../brochures/DDEMBrief2023.pdf" target="_blank">DDEM brief (Incoming freshmen 2023-24 or earlier) </a>
 - <a href="../../brochures/DDEMStudent.pdf" target="_blank">DDEM student information flyer</a>
 - <a href= "https://docs.google.com/document/d/1ZycCYXWj1-HFS1SAPVMmBKaWInfwMWdRLgUjf6sr5EA">Accessible version of DDEM student information flyer</a>
 - <a href="../../media-ddem" target = "_blank"> DDEM curriculum videos </a>
@@ -176,7 +178,7 @@ To view the full DDEM website please visit <a href="https://ddem.lsupathways.org
 - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
 - <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
 
-For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---lsu-digital-design-and-emergent-media.pdf?sfvrsn=5f63931f_16" target="_blank"> DDEM STEM Pathway brief</a>.
+For additional courses, please see <a href="../../brochures/DDEMBrief2024.pdf" target="_blank">DDEM STEM Pathway brief</a>.
  <br>
  <br> 
 
@@ -188,7 +190,8 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 {{< spoiler text="Pre-Engineering" >}}
 
 #### Overview:
-- <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank">Pre-Engineering STEM Pathway brief</a>
+- <a href="../../brochures/PreEngineeringBrief2024.pdf" target="_blank">Pre-Engineering brief (Incoming freshmen 2024-25)</a>
+- <a href="../../brochures/PreEngineeringBrief2023.pdf" target="_blank">Pre-Engineering brief (Incoming freshmen 2023-24 or earlier)</a>
 - <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"> Pre-Engineering student information flyer</a> 
 - <a href= "https://docs.google.com/document/d/1IgbFbgY1c5KAlxDeaXhPDCM23ikVvVuUeuCUDDlWgsg">Accessible version of Pre-Engineering student information flyer</a>
 - <a href="../../media-pre-engineering" target = "_blank"> Pre-Engineering curriculum videos </a>
@@ -209,13 +212,34 @@ For additional courses, please see <a href="https://www.louisianabelieves.com/do
 - Statistical Reasoning
 - <a href = "../../syllabi/AdvancedRobotics.pdf" target="_blank">Robotics: Advanced </a>
   
-For additional courses, please see <a href="https://www.louisianabelieves.com/docs/default-source/js-graduation-pathways/stem-pathway-brief---pre-engineering.pdf?sfvrsn=deb76718_4" target="_blank"> 
+For additional courses, please see <a href="../../brochures/PreEngineeringBrief2024.pdf" target="_blank"> 
 Pre-Engineering STEM Pathway brief</a>.
  <br>
  <br> 
 
+------
+
 {{< /spoiler >}}
+
+{{< spoiler text="Environmental Protection and Sustainability" >}}
+
+#### Overview:
+- <a href="../../brochures/EnvironmentalBrief2024.pdf" target="_blank"> Environmental Protection and Sustainability brief (Incoming freshmen for 2024-25) </a>
+
+
+#### Core Courses:
+- Conservation Biology
+  
+#### LSU Electives:
+- <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a> or <a href = "../../syllabi/IntroToEngineering.pdf" target = "_blank"> Intro to Engineering</a>
+
 <br>
+<br>
+
+{{< /spoiler >}}
+
+<br>
+
 <a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o/edit?usp=sharing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM Pathways course catalog </button></a>
 <br>
 <br>

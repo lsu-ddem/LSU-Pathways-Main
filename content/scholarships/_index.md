@@ -63,30 +63,24 @@ design:
     <th>More Information</th>
     <th>Link</th>
   </tr>
-  <tr>
-    <td>Amazon Future Engineer Scholarship</td>
-    <td>Dec. 15, 2023</td>
-    <td>Amazon Future Engineer Scholarship program provides underserved students with an opportunity to upgrade their careers with a $40,000 scholarship, plus a paid summer internship programming at Amazon.</td>
-    <td><a href="https://www.amazonfutureengineer.com/scholarships?utm_campaign=RECFoundation&utm_medium=scholarship&utm_source=US&utm_source=2023+VRC%2FVIQC%2FVEXU+Teams+and+EPs&utm_campaign=70241f413c-EMAIL_CAMPAIGN_2022_10_11_05_49_COPY_01&utm_medium=email&utm_term=0_3efc727138-70241f413c-37686869" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Amazon Future Engineer Scholarship</button></a> </td>
- </tr>
  <tr>
     <td>Society of Women Engineers Scholarship</td>
-    <td>Sophomores & above: Opens Dec. 2023
+    <td>Sophomores & above: Jan 31, 2024
     <br>
-     Freshmen: Opens Feb. 2024
+     Freshmen: March 31, 2024
     </td>
     <td>The SWE Scholarship Program provides financial assistance to those who identify as a woman and are studying community college, baccalaureate, or graduate programs in preparation for careers in engineering, engineering technology and fields related to engineering.</td>
-    <td><a href="https://scholarships.swe.org/applications/login.asp" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> SWE Scholarship </button></a> </td>
+    <td><a href="https://swe.org/scholarships/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> SWE Scholarship </button></a> </td>
  </tr>
   <tr>
     <td>The Brown Foundation Emmy Noether Awards</td>
-    <td>Opens Jan. 2024</td>
+    <td>Feb. 26, 2024</td>
     <td>The Emmy Noether Awards seek top aspiring female research scientists in any STEM (science, technology, engineering, or math) field to help realize their potential careers through financial and networking assistance. The Emmy Noether Awards will determine one gold medalist, two silver medalists, and up to 10 Emmy Noether Scholars.</td>
     <td><a href="https://www.thebrownfoundation.org/emmy-noether-award.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> The Emmy Noether Awards </button></a> </td>
  </tr>
   <tr>
     <td>American Society of Mechanical Engineers High School Scholarship</td>
-    <td>Dec. 2023</td>
+    <td>March 15, 2024</td>
     <td>Graduating high school students are the next generation of engineers! The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating high school seniors interested in pursuing engineering degrees.</td>
     <td><a href="https://www.asme.org/asme-programs/students-and-faculty/scholarships/available-high-school-scholarships" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ASME Scholarship </button></a> </td>
  </tr>
@@ -94,7 +88,7 @@ design:
     <td>ITE Diversity Scholarship Program</td>
     <td>March 15, 2024</td>
     <td>The purpose of this program is to increase underrepresented populations participation in the transportation profession by supporting increased diversity at the undergraduate level.  Diversity in transportation is critical as practitioners seek to fully understand the transportation needs of communities in the development of equitable mobility improvements to many areas of our society. </td>
-    <td><a href="../../brochures/ITE.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ITE Diversity Scholarship </button></a> </td>
+    <td><a href="https://www.ite.org/membership/diversity-scholars-program/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ITE Diversity Scholarship </button></a> </td>
  </tr>
  <tr>
     <td>Shell Company Technical Scholarship</td>
@@ -104,9 +98,9 @@ design:
  </tr>
  <tr>
     <td>Lockheed Martin STEM Scholarship</td>
-    <td>Opens early 2024</td>
+    <td>April 1, 2024</td>
     <td>Each year, the STEM Scholarship Program awards $10,000 to 200 recipients studying engineering or computer science at a 4-year college or university. Recipients may renew the scholarship up to three times for a total potential value of $40,000 per student.  </td>
-    <td><a href="https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Lockheed Martin STEM Scholarship </button></a> </td>
+    <td><a href="https://learnmore.scholarsapply.org/lockheedmartin/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Lockheed Martin STEM Scholarship </button></a> </td>
  </tr>
   <tr>
     <td>Great Minds in STEM Scholars Program</td>
@@ -119,6 +113,12 @@ design:
     <td>Currently Closed</td>
     <td>Funded by the National Science Foundation, the LSU S-STEM Scholars program aims to increase the educational and career opportunities for academically talented, financially disadvantaged students who are pursuing degrees in basic sciences or mathematics. </td>
     <td><a href="https://www.lsu.edu/osi/programs/s-stem-scholars-program/index.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> S-STEM Scholars Program </button></a> </td>
+ </tr>
+  <tr>
+    <td>Amazon Future Engineer Scholarship</td>
+    <td>Currently Closed</td>
+    <td>Amazon Future Engineer Scholarship program provides underserved students with an opportunity to upgrade their careers with a $40,000 scholarship, plus a paid summer internship programming at Amazon.</td>
+    <td><a href="https://www.amazonfutureengineer.com/scholarships?utm_campaign=RECFoundation&utm_medium=scholarship&utm_source=US&utm_source=2023+VRC%2FVIQC%2FVEXU+Teams+and+EPs&utm_campaign=70241f413c-EMAIL_CAMPAIGN_2022_10_11_05_49_COPY_01&utm_medium=email&utm_term=0_3efc727138-70241f413c-37686869" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Amazon Future Engineer Scholarship</button></a> </td>
  </tr>
   
 </table>
