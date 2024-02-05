@@ -54,11 +54,11 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 ## <b> Who Does LSU STEM Pathways? </b>
 <br>
-In 2022-23, we are serving 104 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
+In 2023-24, we are serving 101 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
 <br>
 <br>
 
-{{< spoiler text="View 2022-23 school list" >}}
+{{< spoiler text="View 2023-24 school list" >}}
 
 - Alfred M. Barbe High School
 - Amite High Magnet
