@@ -20,9 +20,10 @@ LSU Pathways for elementary school consists of STEM modules designed to help stu
 
 <br>
 
-## <b> Who Does LSU STEM Pathways for Elementary School in 2022-23? </b>
-<img src = "../../../graphics/esgraphic.png" alt = "This image shows that in 2022-23, LSU STEM Pathways enrolled 34 teachers, 16 schools, and 6 districts for this program." width="550" height="650">
+## <b> Who Does LSU STEM Pathways for Elementary School in 2023-24? </b>
+<img src = "../../../graphics/esgraphic.png" alt = "This image shows that in 2023-24, LSU STEM Pathways enrolled 34 teachers, 16 schools, and 6 districts for this program." width="550" height="650">
 <img src = "../../../graphics/esmap.png" alt = " This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 16 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
+<center> <a href = "../../../graphics/esgraphic23.png" target = "blank_"> 2022-2023 elementary school STEM Pathways enrollment data graphic</a> </center> <br>
 
 ## Elementary STEM Pathways Training Information
 <br>

@@ -180,7 +180,7 @@ In 2022-23, we are serving 104 schools who are offering high school and middle s
     <td bgcolor="#FDD023">4+ Participating Schools</td>  
   </tr>
 </table>
-
+<a href = "../../../graphics/allgraphic23.png" target = "blank_"> 2022-2023 STEM Pathways enrollment data graphic</a> <br>
 <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >Follow us on LinkedIn</a> to see the STEM Pathways in action.
 <br>
 <br>

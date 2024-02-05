@@ -24,29 +24,29 @@ design:
     <th>More Information</th>
     <th>Link</th>
   </tr>
+   <tr>
+    <td>LSU PRISE Program</td>
+    <td>Feb. 29, 2024</td>
+    <td>The PRISE (Preparing Resilient Individuals for Success in Engineering) Program is an NSF-funded scholarship that is designed to help high-achieving, high potential engineering students with financial hardships persist through graduation. This program provides a need-based scholarship to entering freshmen engineering students for up to eight semesters and offers academic and professional development programs to help our students succeed in engineering.</td>
+    <td> <a href="https://form.jotform.com/lsucoediversity/lsu-s-stem-application-2024" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU PRISE Program </button></a> </td>
+  </tr>
   <tr>
     <td>LSU Pre-Engineering Pathway Gold STEM Seal Scholarship</td>
-    <td>Opens March 1, 2024</td>
+    <td>April 5, 2024</td>
     <td>The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship sponsored by the College of Engineering and the Gordon A. Cain center.  It is awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester.</td>
-    <td><a href="https://lsu.qualtrics.com/jfe/form/SV_8p7m7jaM9PGPEI6" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Gold STEM Seal Scholarship </button></a> </td>
+    <td><a href="https://lsu.qualtrics.com/jfe/form/SV_etGHO7H5XGA1xHM" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU Gold STEM Seal Scholarship </button></a> </td>
   </tr>
   <tr>
     <td>LSU VEX Robotics Scholarship</td>
-    <td>Opens March 1, 2024</td>
+    <td>April 5, 2024</td>
     <td>The LSU Pre-Engineering VEX is a $1,000 scholarship awarded to one outstanding LSU freshman student entering the College of Engineering each fall. The scholarship is awarded $500 for the fall semester and $500 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester.</td>
-    <td> <a href="https://lsu.qualtrics.com/jfe/form/SV_byIDgMemObpO6IC" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU VEX Robotics Scholarship</button></a> </td>
+    <td> <a href="https://lsu.qualtrics.com/jfe/form/SV_72iu70dtl13GxdI" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU VEX Robotics Scholarship</button></a> </td>
   </tr>
   <tr>
     <td>LSU College of Engineering Scholarship</td>
     <td>Dec. 15, 2024</td>
     <td>Automatically considered for scholarship if application to attend LSU is completed by December 15th and the intended major is from the College of Engineering.</td>
     <td> <a href="https://www.lsu.edu/eng/future/engineer-experience/scholarships.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU College of Engineering Scholarship </button></a> </td>
-  </tr>
-  <tr>
-    <td>LSU PRISE Program</td>
-    <td>Currently Closed</td>
-    <td>The PRISE (Preparing Resilient Individuals for Success in Engineering) Program is an NSF-funded scholarship that is designed to help high-achieving, high potential engineering students with financial hardships persist through graduation. This program provides a need-based scholarship to entering freshmen engineering students for up to eight semesters and offers academic and professional development programs to help our students succeed in engineering.</td>
-    <td> <a href="https://www.lsu.edu/eng/future/engineer-experience/scholarships.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU PRISE Program </button></a> </td>
   </tr>
 </table> 
 
