@@ -53,6 +53,26 @@ design:
 <br>
 <br>
 
+## Local Industry-Sponsored Scholarships
+<br>
+ <table>
+  <tr>
+    <th>Scholarship</th>
+    <th>Deadline</th>
+    <th>More Information</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Baton Rouge Area Foundation</td>
+    <td>Varies by scholarship</td>
+    <td>The Baton Rouge Area Foundation works with industry partners to provide scholarships to local students. Each scholarship has different eligibility criteria and submission deadlines. To apply for any of the scholarships, you must first complete the pre-qualifying questions which will provide you with a list of all of the scholarships to which you are eligible to apply. We encourage you to apply for all of the scholarships to which you are eligible. </td>
+    <td> <a href="https://www.brafscholarships.org/directory" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> BRAF Scholarship Directory </button></a> </td>
+  </tr>
+</table> 
+
+<br>
+<br>
+
 ## National Scholarships
 <br>
 
