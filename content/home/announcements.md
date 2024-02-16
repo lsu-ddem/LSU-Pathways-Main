@@ -31,7 +31,7 @@ weight = 17  # Order that this section will appear.
    # gradient_end = "white"
   
   # Background image.
-   image = "tiger-stripes-yellow.png"  
+   image = "tiger-stripes-yellow.jpg"  
    # Name of image in `static/media/`.
    image_darken = 1
    
