@@ -14,6 +14,9 @@ design:
 
 ## **Student Scholarship Opportunities** 
 <br>
+LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
+<a href="https://www.lsu.edu/eng/news/2023/02/pathwaysgoldscholarship.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">LSU Pathways Offers Students Gold Scholarship</button></a> <a href="https://capitalareastem.org/news/blog.html/article/2023/11/08/celebrating-excellence-lsu-stem-pathways-gold-and-silver-stem-seal-scholarship-recipients" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Gold and Silver STEM Seal Scholarship Recipients</button></a>
+<br><br>
 
 ## LSU Scholarships
 <br>

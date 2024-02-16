@@ -20,11 +20,13 @@ design:
 
  Students who participate in the LSU Pathways curriculum can choose to take courses in one or more of the following subject areas:
 
-  - Pre-Healthcare and Pre-Veterinary
+ 
   - Computing and Cybersecurity
   - Digital Design and Emergent Media
-  - Pre-Engineering
   - Environmental Protection and Sustainability
+  - Pre-Engineering
+  - Pre-Healthcare and Pre-Veterinary
+  
 
 <br>
 
@@ -166,8 +168,8 @@ In 2023-24, we are serving 101 schools who are offering high school and middle s
 
 {{< /spoiler >}}
 
-<img src = "../../../graphics/allgraphic.png" alt= "This image shows that in 2022-23, LSU STEM Pathways enrolled 209 teachers, 104 schools, 43 districts, and offered 28 courses. There were over 10,000 students enrolled." width="425" height="525" style ="float: left">
-<img src="https://media.giphy.com/media/r0oxTAkYzSvzcIXVWw/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow. 17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
+<img src = "../../../graphics/allgraphic.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 204 teachers, 101 schools, 40 districts, and offered 30 courses. There were over 9,900 students enrolled." width="425" height="525" style ="float: left">
+<img src="https://media.giphy.com/media/2mRpbOaxEpF2SVhDgO/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow. 17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
 <center>
 <table>
   <tr>
