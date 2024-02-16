@@ -169,9 +169,9 @@ For additional courses, please see <a href="../../brochures/DDEMBrief2024.pdf" t
   
 #### LSU Electives:
 - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a> or <a href = "../../syllabi/IntroToEngineering.pdf" target = "_blank"> Intro to Engineering</a>
+<br>
+<br>
 
-<br>
-<br>
 ------
 
 {{< /spoiler >}}
