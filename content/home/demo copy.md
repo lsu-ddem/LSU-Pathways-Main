@@ -24,7 +24,7 @@ weight = 16  # Order that this section will appear.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
- color = "#461D7C"
+ color = "#582c84"
   
   # Background gradient.
   # gradient_start = "dark_purple"
@@ -72,7 +72,7 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
 <center>
 
-## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and pre-engineering. 
+## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in healthcare and veterinary sciences, computing and cybersecurity, digital design and emergent media, pre-engineering, and environmental sciences. 
 
 
 ## LSU partners with schools across the state to prepare teachers, students, and administrative staff for the curriculum.

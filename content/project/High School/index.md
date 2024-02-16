@@ -85,9 +85,6 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 {{< spoiler text="Computing and Cybersecurity" >}}
 #### Overview:
 
- This pathway is currently a key part of two major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">brbytes.org.</a> For an outline of recommended courses in the computing pathway, please see the
- <a href="../../brochures/ComputingFlowChart.pdf" Target="_blank">recommended order of courses flyer.</a>
- 
 - <a href="../../brochures/ComputingBrief2024.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2024-25) </a>
 - <a href="../../brochures/ComputingBrief2023.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2023-24 or earlier) </a>
 - <a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing student information flyer</a>
@@ -138,17 +135,17 @@ To view the full DDEM website please visit <a href="https://ddem.lsupathways.org
 #### Core Courses:
 - <a href = "../../syllabi/DigitalStorytelling.pdf" target = "_blank"> Digital Storytelling </a>
 - <a href ="../../syllabi/ProgrammingDigitalMedia.pdf" Target ="_blank">Programming for Digital Media (DE) </a>
- - <a href = "../../syllabi/CodingForTheWeb.pdf" target = "_blank"> Coding for the Web </a>
- - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
+- <a href = "../../syllabi/CodingForTheWeb.pdf" target = "_blank"> Coding for the Web </a>
+- <a href = "../../syllabi/DigitalImage.pdf" target = "_blank"> Digital Image & Motion Graphics (AP Art) </a>
+- <a href= "../../syllabi/FilmAndTV.pdf" target = "_blank">Basic/Advanced Film and TV </a>
+- <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
+
 
 #### LSU Electives:
-- <a href = "../../syllabi/InteractiveDigitalMediaCapstone.pdf" target = "_blank"> Interactive Digital Media Capstone </a>
- - <a href = "../../syllabi/SoundDesign.pdf" target = "_blank">Sound Design (DE)</a>
- - <a href = "../../syllabi/DigitalImage.pdf" target = "_blank"> Digital Image & Motion Graphics (AP Art) </a>
-- <a href= "../../syllabi/FilmAndTV.pdf" target = "_blank">Basic/Advanced Film and TV </a>
-- <a href = "../../syllabi/ProgrammingForEngineers.pdf" target = "_blank"> Programming for Engineers </a>
 - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
-- <a href = "../../syllabi/VideoGameDesign.pdf" target = "_blank">Video Game Design </a>
+- <a href = "../../syllabi/InteractiveDigitalMediaCapstone.pdf" target = "_blank"> Interactive Digital Media Capstone </a>
+- <a href = "../../syllabi/SoundDesign.pdf" target = "_blank">Sound Design (DE)</a>
+
 
 For additional courses, please see <a href="../../brochures/DDEMBrief2024.pdf" target="_blank">DDEM STEM Pathway brief</a>.
  <br>
@@ -188,17 +185,17 @@ For additional courses, please see <a href="../../brochures/DDEMBrief2024.pdf" t
 
 #### Core Courses:
 - <a href = "../../syllabi/IntroToEngineering.pdf" target = "_blank"> Intro to Engineering Design (DE) </a>
+- <a href ="../../syllabi/PrinciplesOfEngineering.pdf" target = "_blank"> Principles of Engineering </a>
 - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
 - <a href = "../../syllabi/IntroToRobotics.pdf" target = "_blank"> Robotics </a>
-- <a href = "../../syllabi/EngineeringDesign.pdf" target = "_blank"> Engineering Design and Development </a> or <a href ="../../syllabi/PrinciplesOfEngineering.pdf" target = "_blank"> Principles of Engineering </a>
+- <a href = "../../syllabi/EngineeringDesign.pdf" target = "_blank"> Engineering Design and Development </a> or 
+- <a href= "../../syllabi/EngineeringEconomy.pdf" target = "_blank">Engineering Economy </a>
+- <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
 
 #### LSU Electives:
-- <a href= "../../syllabi/EngineeringEconomy.pdf" target = "_blank">Engineering Economy </a>
-- <a href ="../../syllabi/PrinciplesOfEngineering.pdf" target = "_blank"> Principles of Engineering </a>
-- <a href = "../../syllabi/EngineeringDesign.pdf" target = "_blank"> Engineering Design and Development </a>
+- <a href = "../../syllabi/Cybersecurity.pdf" Target = "_blank"> Cybersecurity </a> 
 - <a href = "../../syllabi/ProgrammingForEngineers.pdf" target = "_blank"> Programming for Engineers </a>
-- <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
-- Statistical Reasoning
+- <a a href = "../../syllabi/InteractiveComputing.pdf" target = "_blank"> Interactive Computing </a>
 - <a href = "../../syllabi/AdvancedRobotics.pdf" target="_blank">Robotics: Advanced </a>
   
 For additional courses, please see <a href="../../brochures/PreEngineeringBrief2024.pdf" target="_blank"> 
@@ -220,18 +217,13 @@ Pre-Engineering STEM Pathway brief</a>.
 - <a href= "../../media-biomedical" target="_blank">Pre-Healthcare and Pre-Veterinary curriculum videos</a>
 
 #### Core Courses:
-- <a href="../../syllabi/IntroToBiomed.pdf" Target ="_blank">Intro to Pre-Healthcare and Pre-Veterinary Sciences </a>
-- <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
-- <a href="../../syllabi/ComparativeAnatomy.pdf" Target ="_blank">Comparative Anatomy & Physiology </a>
-- <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Pre-Healthcare and Pre-Veterinary Capstone </a> or <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
-
-#### LSU Electives:
-- <a href="../../syllabi/Forensics.pdf" Target ="_blank">Forensic Science </a>
-- Genetics
 - Bioinformatics
-- Conservation Biology
+- <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Biomedical Capstone </a>
+- <a href="../../syllabi/Forensics.pdf" Target ="_blank">Forensic Science </a>
 - <a href = "../../syllabi/DataManipulation.pdf" target="_blank"> Data Manipulation and Analysis </a>
-- <a href="../../syllabi/BioMedCapstone.pdf" Target ="_blank">Pre-Healthcare and Pre-Veterinary Capstone </a>
+- <a href="../../syllabi/IntroToBiomed.pdf" Target ="_blank">Intro to Pre-Healthcare and Pre-Veterinary Sciences </a>
+- <a href="../../syllabi/ComparativeAnatomy.pdf" Target ="_blank">Comparative Anatomy & Physiology </a>
+
   
 
 For additional courses, please see <a href="../../brochures/PreHealthcareBrief2024.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary STEM Pathway brief</a>.

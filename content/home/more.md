@@ -25,15 +25,16 @@ title = "**Interested in getting involved?**"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#461D7C"
+  color = "#582c84"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
   
   # Background image.
- # image = "yellow stripes copy.jpg"  # Name of image in `static/media/`.
-   # image_darken = 1
+#  image = "routing_brush.png"  
+ # Name of image in `static/media/`.
+  # image_darken = 1
 
    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.

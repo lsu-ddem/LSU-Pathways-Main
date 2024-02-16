@@ -31,8 +31,9 @@ weight = 17  # Order that this section will appear.
    # gradient_end = "white"
   
   # Background image.
-   # image = "Pathways Purple T.png"  # Name of image in `static/media/`.
-   # image_darken = 1
+   image = "tiger-stripes-yellow.png"  
+   # Name of image in `static/media/`.
+   image_darken = 1
    
 
    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -71,7 +72,7 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
 
-<div style="background-color:#ffffff90; font-color: #000000; border-style: double; padding: 25px">
+<div style="background-color:#ffecac; font-color: #000000; border-style: double; padding: 25px">
 <center>
 
 ## **Pathways Information for School Administrators**
