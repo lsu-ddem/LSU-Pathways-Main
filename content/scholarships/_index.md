@@ -34,6 +34,12 @@ LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
     <td> <a href="https://form.jotform.com/lsucoediversity/lsu-s-stem-application-2024" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU PRISE Program </button></a> </td>
   </tr>
   <tr>
+    <td> 	LSU College of Engineering FIRST Robotics Scholarship</td>
+    <td>March 1, 2024</td>
+    <td>First-year undergraduate students at LSU pursuing a degree in the College of Engineering with a minimum high school GPA of 3.0 who were involved in FIRST Robotics for at least one year during high school.</td>
+    <td> <a href="https://lsu.academicworks.com/opportunities?utf8=%E2%9C%93&term=Robotics" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> FIRST Robotics Scholarship </button></a> </td>
+  </tr>
+  <tr>
     <td>LSU Pre-Engineering Pathway Gold STEM Seal Scholarship</td>
     <td>April 5, 2024</td>
     <td>The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship sponsored by the College of Engineering and the Gordon A. Cain center.  It is awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester.</td>
