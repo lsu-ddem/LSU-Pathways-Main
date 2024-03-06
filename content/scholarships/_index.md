@@ -47,9 +47,15 @@ LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
   </tr>
   <tr>
     <td> 	LSU College of Engineering FIRST Robotics Scholarship</td>
-    <td>March 1, 2024</td>
+    <td>March 15, 2024</td>
     <td>First-year undergraduate students at LSU pursuing a degree in the College of Engineering with a minimum high school GPA of 3.0 who were involved in FIRST Robotics for at least one year during high school.</td>
     <td> <a href="https://lsu.academicworks.com/opportunities?utf8=%E2%9C%93&term=Robotics" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> FIRST Robotics Scholarship </button></a> </td>
+  </tr>
+   <tr>
+    <td> 	PRISE Program</td>
+    <td>March 20, 2024</td>
+    <td>The PRISE (Preparing Resilient Individuals for Success in Engineering) Program is an NSF-funded scholarship that is designed to help high-achieving, high potential engineering students with financial hardships persist through graduation. This program provides a need-based scholarship to entering freshmen engineering students for up to eight semesters and offers academic and professional development programs to help our students succeed in engineering.</td>
+    <td> <a href="https://lsu.edu/eng/prise_program.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> PRISE Program </button></a> </td>
   </tr>
 
   <tr>
