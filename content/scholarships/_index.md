@@ -52,12 +52,11 @@ LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
     <td> <a href="https://lsu.academicworks.com/opportunities?utf8=%E2%9C%93&term=Robotics" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> FIRST Robotics Scholarship </button></a> </td>
   </tr>
    <tr>
-    <td> 	PRISE Program</td>
+    <td>PRISE Program</td>
     <td>March 20, 2024</td>
     <td>The PRISE (Preparing Resilient Individuals for Success in Engineering) Program is an NSF-funded scholarship that is designed to help high-achieving, high potential engineering students with financial hardships persist through graduation. This program provides a need-based scholarship to entering freshmen engineering students for up to eight semesters and offers academic and professional development programs to help our students succeed in engineering.</td>
     <td> <a href="https://lsu.edu/eng/prise_program.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> PRISE Program </button></a> </td>
   </tr>
-
   <tr>
     <td>LSU College of Engineering Scholarship</td>
     <td>Dec. 15, 2024</td>
@@ -109,12 +108,6 @@ LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
     <td><a href="https://swe.org/scholarships/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> SWE Scholarship </button></a> </td>
  </tr>
   <tr>
-    <td>The Brown Foundation Emmy Noether Awards</td>
-    <td>Feb. 26, 2024</td>
-    <td>The Emmy Noether Awards seek top aspiring female research scientists in any STEM (science, technology, engineering, or math) field to help realize their potential careers through financial and networking assistance. The Emmy Noether Awards will determine one gold medalist, two silver medalists, and up to 10 Emmy Noether Scholars.</td>
-    <td><a href="https://www.thebrownfoundation.org/emmy-noether-award.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> The Emmy Noether Awards </button></a> </td>
- </tr>
-  <tr>
     <td>American Society of Mechanical Engineers High School Scholarship</td>
     <td>March 15, 2024</td>
     <td>Graduating high school students are the next generation of engineers! The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating high school seniors interested in pursuing engineering degrees.</td>
@@ -132,6 +125,12 @@ LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
     <td>The Shell Company Technical Scholarship and Shell Incentive Fund Scholarship have been created to provide financial and career assistance to graduating high school seniors who have expressed an interest in the energy industry and demonstrated an aptitude in mathematics and science.</td>
     <td><a href="https://www.shell.us/careers/about-careers-at-shell/shell-graduate-program/scholarships.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Shell Company Technical Scholarship </button></a> </td>
  </tr>
+  <tr>
+    <td>The Brown Foundation Emmy Noether Awards</td>
+    <td>March 27, 2024</td>
+    <td>The Emmy Noether Awards seek top aspiring female research scientists in any STEM (science, technology, engineering, or math) field to help realize their potential careers through financial and networking assistance. The Emmy Noether Awards will determine one gold medalist, two silver medalists, and up to 10 Emmy Noether Scholars.</td>
+    <td><a href="https://www.thebrownfoundation.org/emmy-noether-award.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> The Emmy Noether Awards </button></a> </td>
+ </tr>
  <tr>
     <td>Lockheed Martin STEM Scholarship</td>
     <td>April 1, 2024</td>
@@ -144,6 +143,12 @@ LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
     <td>The intent of the GMiS Scholars Program is to increase the persistence to graduation among underrepresented and underserved STEM college students. The financial support helps these students focus on their coursework so they can graduate on time, enter a STEM profession, continue to serve as a role model for future generations, and secure the country's place as the finest technological leader in the world. Applicants must be of Hispanic descent and/or must demonstrate significant leadership or service within the underserved community. </td>
     <td><a href="https://greatmindsinstem.org/gmis-scholarship-application/gmis-scholarships/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> GMiS Scholars Program </button></a> </td>
  </tr>
+  <tr>
+    <td>CodeWizardsHQ Educational Scholarship</td>
+    <td>May 1, 2024</td>
+    <td>CodeWizardsHQ offers live, online coding classes for kids that are taught by developers with tech industry experience who use structured, comprehensive curriculums to help kids master programming skills in a fun, exploratory environment. The CodeWizardsHQ team pairs real-world coding tools with their proprietary coding platform and experienced teachers to make it enjoyable for ages 8-18 to learn.</td>
+    <td> <a href="https://www.codewizardshq.com/scholarship/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> CodeWizardsHQ Educational Scholarship </button></a> </td>
+  </tr>
  <tr>
     <td>S-STEM Scholars Program</td>
     <td>Currently Closed</td>
