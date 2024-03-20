@@ -88,9 +88,15 @@ Formal registration and course specific training dates for the 2024-25 LSU STEM 
 <br>
 <a href= "https://docs.google.com/document/d/1Z8_nO-yOT3vCmhjUWEI2_6lAQZ2_c4i8sbxVfDDzmys">2023-24 LSU Pathways invitation accessible version</a>
 
-
 </center>
 </div>
+
+<center>
 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BtUjV6w8g8Q?si=mM2TleVWr0OM3-m6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 
 
