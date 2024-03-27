@@ -94,7 +94,7 @@ Formal registration and course specific training dates for the 2024-25 LSU STEM 
 <center>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BtUjV6w8g8Q?si=mM2TleVWr0OM3-m6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/BtUjV6w8g8Q?si=mM2TleVWr0OM3-m6&amp;autoplay=1&mute=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
