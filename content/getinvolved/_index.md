@@ -38,7 +38,7 @@ design:
 
 ## **Interested in getting involved?**
 ## If you are a student, parent, teacher, or school administrator and are interested in getting involved with the LSU Pathways, please see below for more information.
-<br>
+<img src="https://media.giphy.com/media/VGp3QI57aOj8sH6P8G/giphy.gif" alt="The Cain Center offers four programs: STEM Pathways, College Credit, Middle School, and Elementary School. For more information please email us at caincenter@lsu.edu. " width="650" height="550">
 <br>
 
 ## For Students and Parents
