@@ -87,10 +87,9 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 
 - <a href="../../brochures/ComputingBrief2024.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2024-25) </a>
 - <a href="../../brochures/ComputingBrief2023.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2023-24 or earlier) </a>
-- <a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing student information flyer</a>
-- <a href= "https://docs.google.com/document/d/1JJTSyKoPFsedH1rCPsFWwTcm299nJUHNEkONB6gNbs0">Accessible version of Computing student information flyer</a>
 - <a href="../../media-computing" Target = "_blank"> Computing curriculum videos </a>
- 
+ <!-- - <a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing student information flyer</a> -->
+<!-- - <a href= "https://docs.google.com/document/d/1JJTSyKoPFsedH1rCPsFWwTcm299nJUHNEkONB6gNbs0">Accessible version of Computing student information flyer</a> -->
 #### Core Courses:
 - <a href = "../../syllabi/SurveyOfComputing.pdf" Target = "_blank"> Survey of Computer Science </a> 
 - <a href ="../../syllabi/ICT.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>

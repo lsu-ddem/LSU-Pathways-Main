@@ -38,30 +38,22 @@ design:
 
 ## **Interested in getting involved?**
 ## If you are a student, parent, teacher, or school administrator and are interested in getting involved with the LSU Pathways, please see below for more information.
-<br>
+<center>
+<img src = "../graphics/pathways-info.png"alt="LSU Pathways offers 5 tracks: Computing and Cybersecurity, Digital Design and Emergent Media, Environmental Protection and Sustainability, Pre-Engineering, and Pre-Healthcare and Pre-Veterinary" width="560" height="660">
+</center>
 <center>
 <iframe src="https://www.youtube.com/embed/BtUjV6w8g8Q?si=mM2TleVWr0OM3-m6&amp;autoplay=1&mute=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 </center>
-<br>
+
 <br>
 
-## For Students and Parents
-<br>
-Please click a link to find out more about the Pathways curriculum at each level.
-<br>
-<br>
-<a href="../../project/high-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School </button></a> <a href="../../project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../project/elementary-school/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School </button></a>
-<br>
-<br>
-<br>
-<br>
 
 ## For Teachers
 <br>
 In order to teach an LSU Pathway course or module, no prior STEM experience is assumed. A teacher simply needs STEM-curiosity, enthusiasm for project-based teaching, and willingness to attend a virtual summer training workshop. Throughout the school year, teachers receive continual assistance from, and access to, LSU STEM Pathways’ support staff. To learn more about teaching with each pathway, click a link to view the flyer.
 <br>
 <br>
-<a href="../../brochures/TeacherFlyers.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a>
+<a href="../../brochures/pathways-infographic.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a>
 <br>
 <br>
  <a href= "https://docs.google.com/document/d/1IMYCa6P8DXuFtnofiAM4iIiO-RQLMtvonZaawV3beqA">High school flyer accessible version</a> 
@@ -102,16 +94,12 @@ Formal registration and course specific training dates for the 2024-25 LSU STEM 
  </div>
 </div>
 <br>
-<br>
-To learn more about becoming an administrator for each pathway, click a link to view the flyer.
-<br>
-<br>
-<a href="../../brochures/AdminFlyers.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a> 
-<br>
-<br>
-<a href="../../brochures/Slide-School.pdf" target="_blank">Learn how to start or expand an LSU STEM Pathway at your school.</a>
-<br>
- <a href= "https://docs.google.com/document/d/1GFIg5CG1nDJ2-fc7lhlaSS4cUeR1LXuFDNjbh1sBU_U">Learn how to start or expand an LSU STEM Pathway accessible version</a> 
 
-<br></br>
+### How to start or expand an LSU STEM Pathway at your school:
+1. Get district and school administrative buy-in
+2. Consider developing a K-12 district-wide framework to support your high school STEM Pathway
+3. School completes the LSU STEM Pathways Memorandum of Understanding (MOU)
+4. Teachers attend virtual LSU Pathways training in June/July
+5. Students earn certifications during the school year with ongoing support from LSU
+
  

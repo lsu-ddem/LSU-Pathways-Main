@@ -100,7 +100,7 @@ Course Objectives:
 The Middle School STEM Pathways Program is pleased to announce that we now offer three middle school electives to serve as a pipeline to prepare students for the High School STEM Pathways-- Aquaponics, Step into STEM, and Intro to Computing. These courses provide middle school students with the opportunity to access quality STEM courses through project-based learning experiences without the pressure of high school credit. 
 <br>
 <br>
-<a href="../../syllabi/Aquaponics.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Aquaponics Syllabus</button></a> <a href="../../syllabi/step.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Step into STEM Syllabus</button></a> <a href="../../syllabi/IntroToComputing.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Intro to Computing Syllabus</button></a> 
+<a href="../../syllabi/Aquaponics.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Aquaponics</button></a> <a href="../../syllabi/StepintoSTEM.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Step into STEM</button></a> <a href="../../syllabi/StepintoCS.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Step into Computer Science</button></a> 
 <br>
 <br>
 
