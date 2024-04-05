@@ -53,21 +53,22 @@ design:
 In order to teach an LSU Pathway course or module, no prior STEM experience is assumed. A teacher simply needs STEM-curiosity, enthusiasm for project-based teaching, and willingness to attend a virtual summer training workshop. Throughout the school year, teachers receive continual assistance from, and access to, LSU STEM Pathways’ support staff. To learn more about teaching with each pathway, click a link to view the flyer.
 <br>
 <br>
-<a href="../../brochures/pathways-infographic.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a>
+<center>
+<a href="../../brochures/pathways-infographic.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School</button></a> <a href="../../brochures/MiddleSchoolFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../../brochures/ElementaryBrochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a> <a href="../../brochures/Testimonials.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Teacher Testimonials</button></a> <a href="../../brochures/Spotlights.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Faculty Spolights</button></a>
 <br>
 <br>
- <a href= "https://docs.google.com/document/d/1IMYCa6P8DXuFtnofiAM4iIiO-RQLMtvonZaawV3beqA">High school flyer accessible version</a> 
+<br>
+<iframe src="https://www.youtube.com/embed/mOPWnP5QDjw?si=iGeg1gMNfNGXB1bz&amp;autoplay=1&mute=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</center>
+<br>
+<br>
+<a href= "https://docs.google.com/document/d/1IMYCa6P8DXuFtnofiAM4iIiO-RQLMtvonZaawV3beqA">High school flyer accessible version</a> 
 <br>
 <a href= "https://docs.google.com/document/d/1OY13kOd3rVUH-l4U4T5Eg498KSkuOxCGKkoyNNDeS8Q">Middle school flyer accessible version</a> 
 <br>
  <a href= "https://docs.google.com/document/d/1Js2pbHcEEfbH70zmD8ItHugH1TmboWNpKEF8EibzMic">Elementary school flyer accessible version</a> 
 <br>
-<br>
-<a href="../../brochures/Testimonials.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Teacher Testimonials</button></a> <a href="../../brochures/Spotlights.pdf" target="_blank"> <button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Faculty Spolights</button></a>
-<br>
-<br>
  <a href="https://docs.google.com/document/d/1xSkhScopz61YqVoay-tMOYEr7fFw2thKiQI7TkGqB6Q">Teacher testimonials accessible version</a>
-<br>
 <br>
 <br>
 
