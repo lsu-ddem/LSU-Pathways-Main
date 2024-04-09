@@ -200,7 +200,7 @@ In 2023-24, we are serving 101 schools who are offering high school and middle s
 
 <br>
 
-<a href="../../brochures/STEMPathwaysPamphlet.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU STEM Pathways pamphlet </button></a>
+<a href="../../brochures/pathways-infographic.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU STEM Pathways pamphlet </button></a>
 <br>
 <br>
 <a href= "https://docs.google.com/document/d/1OE_Wn5QfeR_lLngpwDHc2gzq1MoM341Mwpq_rsb1YQM">LSU STEM Pathways pamphlet accessible version</a>

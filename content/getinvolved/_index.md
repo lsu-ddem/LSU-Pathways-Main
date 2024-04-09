@@ -61,7 +61,6 @@ In order to teach an LSU Pathway course or module, no prior STEM experience is a
 <iframe src="https://www.youtube.com/embed/mOPWnP5QDjw?si=iGeg1gMNfNGXB1bz&amp;autoplay=1&mute=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 </center>
 <br>
-<br>
 <a href= "https://docs.google.com/document/d/1IMYCa6P8DXuFtnofiAM4iIiO-RQLMtvonZaawV3beqA">High school flyer accessible version</a> 
 <br>
 <a href= "https://docs.google.com/document/d/1OY13kOd3rVUH-l4U4T5Eg498KSkuOxCGKkoyNNDeS8Q">Middle school flyer accessible version</a> 
