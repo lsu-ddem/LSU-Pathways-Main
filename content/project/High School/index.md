@@ -71,6 +71,7 @@ Course Objectives:
 -	Explore and analyze medical scenarios in the areas of forensics, comparative anatomy, ecology studies, biochemistry, microbiology, and bioinformatics.
 
 <br>
+<a href="../../syllabi/IntroSTEMPathways.pdf" target="_blank">Intro to STEM Pathways course materials list</a> <br>
 <a href="https://www.louisianabelieves.com/docs/default-source/jumpstart/draft-j-s-2-0-universal-courses.pdf" target="_blank">Complete list of LDOE Jump Start universal courses</a>
 <br>
 {{< /spoiler >}}
