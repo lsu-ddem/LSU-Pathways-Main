@@ -13,6 +13,7 @@ design:
   
 ---
 
+
 ## **LSU STEM Pathways in the News**
 
 <br>
@@ -38,6 +39,7 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 <br>
 <br>
 
+
 ## **LSU STEM Pathways Curriculum Media**
 
 ## Overview and Highlights
@@ -48,5 +50,20 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 
 ## High School Pathways Curriculum Videos
 <br>
-<a href="../media-computing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing & Cybersecurity Pathway</button></a> <a href="../media-ddem" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design & Emergent Media Pathway </button></a> <br><br> 
-<a href="../media-pre-engineering" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Pathway</button></a> <a href="../media-biomedical" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Healthcare & Pre-Veterinary Pathway</button></a>
+ <table>
+  <tr>
+    <td><a href="../media-computing" target="_blank"><img src = "icons/4.png" alt = "Computing & Cybersecurity Pathway videos" width="300" height="300"></a></td>
+    <td><a href="../media-ddem" target="_blank"><img src = "icons/1.png" alt = "Digital Design and Emergent Media Pathway videos" width="300" height="300"></a></td>
+    <td><a href="../media-pre-engineering" target="_blank"><img src = "icons/3.png" alt = "Pre-Engineering Pathway videos" width="300" height="300"></a> </td>
+    <td><a href="../media-biomedical" target="_blank"><img src = "icons/2.png" alt = "Pre-Healthcare and Pre-Veterinary Pathway videos" width="300" height="300"></a></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+<!-- <a href="../media-computing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing & Cybersecurity Pathway</button></a> <a href="../media-ddem" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design & Emergent Media Pathway </button></a> <br><br> 
+<a href="../media-pre-engineering" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Pathway</button></a> <a href="../media-biomedical" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Healthcare & Pre-Veterinary Pathway</button></a> -->

@@ -21,9 +21,17 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 <br>
 
 ## <b> Who Does Middle School LSU STEM Pathways for High School Credit in 2023-24? </b>
+<br>
+<table>
+  <tr>
+    <td><a href ="../../../graphics/msgraphichsc.png"> <img src = "../../../graphics/msgraphichsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 47 teachers, 35 schools, and 13 districts for this program. There were over 1750 students enrolled." width="550" height="650"></a></td>
+    <td><a href= "../../../graphics/msmaphsc.png"><img src = "../../../graphics/msmaphsc.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 34 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    
+  </tr>
+</table>
 
-<img src = "../../../graphics/msgraphichsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 47 teachers, 35 schools, and 13 districts for this program. There were over 1750 students enrolled." width="550" height="650">
-<img src = "../../../graphics/msmaphsc.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 34 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
+
+
 <center> <a href = "../../../graphics/msgraphichsc23.png" target = "blank_"> 2022-2023 middle school STEM Pathways for high school credit enrollment data graphic</a> </center> <br>
 
 ## High School Credit Course Information
@@ -86,9 +94,17 @@ Course Objectives:
 <br>
 
 ## <b> Who Does LSU STEM Pathways for Middle School Credit in 2023-24? </b> 
+<br>
+<table>
+  <tr>
+    <td><a href ="../../../graphics/msgraphicmsc.png"> <img src = "../../../graphics/msgraphicmsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 9 teachers, 9 schools, and 7 districts for this program. There were over 400 students enrolled." width="550" height="650"></a></td>
+    <td><a href= "./../../graphics/msmap.png"><img src = "../../../graphics/msmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 9 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    
+  </tr>
+</table>
 
-<img src = "../../../graphics/msgraphicmsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 9 teachers, 9 schools, and 7 districts for this program. There were over 400 students enrolled." width="550" height="650">
-<img src = "../../../graphics/msmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 9 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
+
+
 <center> <a href = "../../../graphics/msgraphicmsc23.png" target = "blank_"> 2022-2023 middle school STEM Pathways non-high school credit enrollment data graphic</a> </center> <br>
 
 ## Middle School Credit Course Information
@@ -105,9 +121,15 @@ The Middle School STEM Pathways Program is pleased to announce that we now offer
 <br>
 
 ## <b> Who Does LSU STEM Pathways Middle School Training Modules in 2023-24? </b>
+<br>
+<table>
+  <tr>
+    <td><a href ="../../../graphics/msgraphicmodule.png"> <img src = "../../../graphics/msgraphicmodule.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 7 teachers, 5 schools, and 2 districts for this program." width="550" height="650"></a></td>
+    <td><a href= "../../../graphics/msmapmodule.png"><img src = "../../../graphics/msmapmodule.png" alt= "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 5 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    
+  </tr>
+</table>
 
-<img src = "../../../graphics/msgraphicmodule.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 7 teachers, 5 schools, and 2 districts for this program." width="550" height="650">
-<img src = "../../../graphics/msmapmodule.png" alt= "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 5 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650">
 <center> <a href = "../../../graphics/msgraphicmodule23.png" target = "blank_"> 2022-2023 middle school STEM Pathways training module enrollment data graphic</a> </center> <br>
 
 ## Training Modules Information

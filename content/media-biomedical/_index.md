@@ -12,8 +12,9 @@ design:
   columns: '1'
   
 ---
+<center>
 
-## **Biomedical STEM Pathway**
+## **Pre-Healthcare & Pre-Veterinary STEM Pathway**
 
 <br>
 This was a video created by a student at Delta Charter Storm High School as part of their unit on DNA.
@@ -21,5 +22,5 @@ This was a video created by a student at Delta Charter Storm High School as part
 <br>
 <iframe width="320" height="506" src="https://www.youtube.com/embed/jSmLvTGSbbk" title="DNA Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br>
-
+</center>
 

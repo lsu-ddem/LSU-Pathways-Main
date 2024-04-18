@@ -12,6 +12,7 @@ design:
   columns: '1'
   
 ---
+<center>
 
 ## **Elementary School STEM Pathway**
 
@@ -21,3 +22,4 @@ design:
 <br>
 
 
+</center>
