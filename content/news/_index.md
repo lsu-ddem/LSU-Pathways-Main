@@ -49,6 +49,7 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 <br>
 
 ## High School Pathways Curriculum Videos
+<br>
  <table>
   <tr> 
     <td style="border: 0;"><a href="../media-computing" target="_blank"><img src = "icons/4.png" alt = "Computing & Cybersecurity Pathway videos" width="250" height="250"></a></td>
