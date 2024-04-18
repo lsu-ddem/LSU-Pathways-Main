@@ -57,12 +57,3 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
     <td style="border: 0;"><a href="../media-biomedical" target="_blank"><img src = "icons/2.png" alt = "Pre-Healthcare and Pre-Veterinary Pathway videos" width="250" height="250"></a></td>
   </tr>
 </table>
-
-
-
-
-
-
-
-<!-- <a href="../media-computing" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Computing & Cybersecurity Pathway</button></a> <a href="../media-ddem" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Digital Design & Emergent Media Pathway </button></a> <br><br> 
-<a href="../media-pre-engineering" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Pathway</button></a> <a href="../media-biomedical" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Healthcare & Pre-Veterinary Pathway</button></a> -->
