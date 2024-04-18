@@ -24,8 +24,8 @@ LSU Pathways for elementary school consists of STEM modules designed to help stu
 <br>
 <table>
   <tr>
-    <td><a href ="../../../graphics/esgraphic.png"> <img src = "../../../graphics/esgraphic.png" alt = "This image shows that in 2023-24, LSU STEM Pathways enrolled 34 teachers, 16 schools, and 6 districts for this program." width="550" height="650"></a></td>
-    <td><a href= "../../../graphics/esmap.png"><img src = "../../../graphics/esmap.png" alt = " This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 16 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/esgraphic.png"> <img src = "../../../graphics/esgraphic.png" alt = "This image shows that in 2023-24, LSU STEM Pathways enrolled 34 teachers, 16 schools, and 6 districts for this program." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../../../graphics/esmap.png"><img src = "../../../graphics/esmap.png" alt = " This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 16 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
 </table>

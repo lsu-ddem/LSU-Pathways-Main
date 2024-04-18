@@ -24,8 +24,8 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 <br>
 <table>
   <tr>
-    <td><a href ="../../../graphics/msgraphichsc.png"> <img src = "../../../graphics/msgraphichsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 47 teachers, 35 schools, and 13 districts for this program. There were over 1750 students enrolled." width="550" height="650"></a></td>
-    <td><a href= "../../../graphics/msmaphsc.png"><img src = "../../../graphics/msmaphsc.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 34 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/msgraphichsc.png"> <img src = "../../../graphics/msgraphichsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 47 teachers, 35 schools, and 13 districts for this program. There were over 1750 students enrolled." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../../../graphics/msmaphsc.png"><img src = "../../../graphics/msmaphsc.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 34 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
 </table>
@@ -97,8 +97,8 @@ Course Objectives:
 <br>
 <table>
   <tr>
-    <td><a href ="../../../graphics/msgraphicmsc.png"> <img src = "../../../graphics/msgraphicmsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 9 teachers, 9 schools, and 7 districts for this program. There were over 400 students enrolled." width="550" height="650"></a></td>
-    <td><a href= "./../../graphics/msmap.png"><img src = "../../../graphics/msmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 9 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/msgraphicmsc.png"> <img src = "../../../graphics/msgraphicmsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 9 teachers, 9 schools, and 7 districts for this program. There were over 400 students enrolled." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "./../../graphics/msmap.png"><img src = "../../../graphics/msmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 9 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
 </table>
@@ -124,8 +124,8 @@ The Middle School STEM Pathways Program is pleased to announce that we now offer
 <br>
 <table>
   <tr>
-    <td><a href ="../../../graphics/msgraphicmodule.png"> <img src = "../../../graphics/msgraphicmodule.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 7 teachers, 5 schools, and 2 districts for this program." width="550" height="650"></a></td>
-    <td><a href= "../../../graphics/msmapmodule.png"><img src = "../../../graphics/msmapmodule.png" alt= "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 5 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/msgraphicmodule.png"> <img src = "../../../graphics/msgraphicmodule.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 7 teachers, 5 schools, and 2 districts for this program." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../../../graphics/msmapmodule.png"><img src = "../../../graphics/msmapmodule.png" alt= "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 5 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
 </table>

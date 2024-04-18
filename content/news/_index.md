@@ -49,13 +49,12 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 <br>
 
 ## High School Pathways Curriculum Videos
-<br>
  <table>
-  <tr>
-    <td><a href="../media-computing" target="_blank"><img src = "icons/4.png" alt = "Computing & Cybersecurity Pathway videos" width="300" height="300"></a></td>
-    <td><a href="../media-ddem" target="_blank"><img src = "icons/1.png" alt = "Digital Design and Emergent Media Pathway videos" width="300" height="300"></a></td>
-    <td><a href="../media-pre-engineering" target="_blank"><img src = "icons/3.png" alt = "Pre-Engineering Pathway videos" width="300" height="300"></a> </td>
-    <td><a href="../media-biomedical" target="_blank"><img src = "icons/2.png" alt = "Pre-Healthcare and Pre-Veterinary Pathway videos" width="300" height="300"></a></td>
+  <tr> 
+    <td style="border: 0;"><a href="../media-computing" target="_blank"><img src = "icons/4.png" alt = "Computing & Cybersecurity Pathway videos" width="250" height="250"></a></td>
+    <td style="border: 0;"><a href="../media-ddem" target="_blank"><img src = "icons/1.png" alt = "Digital Design and Emergent Media Pathway videos" width="250" height="250"></a></td>
+    <td style="border: 0;"><a href="../media-pre-engineering" target="_blank"><img src = "icons/3.png" alt = "Pre-Engineering Pathway videos" width="250" height="250"></a> </td>
+    <td style="border: 0;"><a href="../media-biomedical" target="_blank"><img src = "icons/2.png" alt = "Pre-Healthcare and Pre-Veterinary Pathway videos" width="250" height="250"></a></td>
   </tr>
 </table>
 

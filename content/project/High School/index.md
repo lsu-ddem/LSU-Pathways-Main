@@ -42,8 +42,8 @@ LSU Pathways for high school is a robust curriculum designed for in-depth study 
 <br>
 <table>
   <tr>
-    <td><a href ="../../../graphics/hsgraphic.png"> <img src = "../../../graphics/hsgraphic.png" alt = "This image shows that in 2023-24, LSU STEM Pathways enrolled 166 teachers, 76 schools, 39 districts, and offered 26 courses for this program. There were over 7800 students enrolled." width="550" height="650"></a></td>
-    <td><a href= "../../../graphics/hsmap.png"> <img src = "../../../graphics/hsmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 70 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/hsgraphic.png"> <img src = "../../../graphics/hsgraphic.png" alt = "This image shows that in 2023-24, LSU STEM Pathways enrolled 166 teachers, 76 schools, 39 districts, and offered 26 courses for this program. There were over 7800 students enrolled." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../../../graphics/hsmap.png"> <img src = "../../../graphics/hsmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 70 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
 </table>
