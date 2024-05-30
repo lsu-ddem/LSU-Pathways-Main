@@ -29,7 +29,7 @@ LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
   </tr>
     <tr>
     <td>Cain Center STEM Pathway Silver and Gold STEM Seal Scholarship </td>
-    <td>April 5, 2024</td>
+    <td>June 30, 2024</td>
     <td>The LSU STEM Pathways Silver STEM Seal Scholarship, worth $750, is awarded to up to 20 students each year.  The LSU STEM Pathways Gold STEM Seal Scholarship, worth $1500, is awarded to up to 10 students each year. The scholarship is awarded $375/$750 for the fall semester and $375/$750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester. This scholarship is open to students pursuing any major at LSU.  If you are pursuing an engineering degree and earned the gold pre-engineering STEM diploma in high school, you may apply to both this scholarship and the pre-engineering gold scholarship; however, you cannot be awarded both scholarships. </td>
     <td><a href="https://lsu.qualtrics.com/jfe/form/SV_5nfcZE0Od4SB8hw" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Cain Center STEM Pathway Silver and Gold STEM Seal Scholarship </button></a> </td>
   </tr>
