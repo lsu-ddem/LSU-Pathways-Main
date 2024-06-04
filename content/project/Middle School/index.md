@@ -138,7 +138,3 @@ Teachers are trained in project-based, STEM modular units that are aligned to cu
 <br>
 <br>
 <a href="../../syllabi/MSModules.pdf" target="_blank">Middle school STEM modules materials list </a>
-<br>
-<br>
-<br>
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities.  

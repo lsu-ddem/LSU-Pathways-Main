@@ -15,7 +15,7 @@ design:
 
 ## **Classroom Grant Opportunities**
 <br>
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities. 
+Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm-grants/index.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities. 
 <br><br><br>
 
 
@@ -31,7 +31,7 @@ This is an Early-Phase research project to study a course developed by LSU, Intr
 If successful, this study will inform development of future courses nationwide that integrate the two subjects. This is a high-stakes study with possible long term benefits.
 
 <br>
-<a href="https://www.brbytes.org/schools.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> BRBytes grant information at brbytes.org</button></a> 
+<a href="https://www.brbytes.org" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> BRBytes grant information at brbytes.org</button></a> 
 
 <br>
 <br>

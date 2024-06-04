@@ -248,10 +248,3 @@ For additional courses, please see <a href="../../brochures/PreHealthcareBrief20
 <br>
 <br>
 <a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0">STEM Pathways course catalog accessible version</a> 
-
-
-<br>
-<br>
-
-Looking for a grant for supplies for your classroom? Follow the <a href ="https://www.lsu.edu/caincenter/programs/qsm.php" target ="_blank"> QSM grant link here</a>. Want more tips and tricks for writing classroom grants?  Please watch this <a href="https://youtu.be/1CnIutnGtTE" target="_blank">grant info session video</a> to learn about other classroom supply grant opportunities.  
-<br>
