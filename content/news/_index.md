@@ -12,7 +12,7 @@ design:
   columns: '1'
   
 ---
-<center>
+
 
 ## **LSU STEM Pathways in the News**
 
@@ -24,7 +24,7 @@ design:
 <br>
 <br>
 <br>
-</center>
+
 Check out this article which follows up on two students who earned the Gold STEM Endorsement and were awarded the LSU Pre-Engineering Gold STEM Seal scholarship to pursue a degree in engineering.
 <br>
 <br>
