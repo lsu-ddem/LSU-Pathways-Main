@@ -39,14 +39,14 @@ design:
 ## **STEM Endorsements and Student Success**
 ## Many of the students who study with LSU STEM Pathways graduate with a gold or silver seal STEM endorsement on their diplomas. 
 <br>
-<a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM endorsement brochure</button></a> <a href="../../brochures/Slide-StudentSuccess.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Student testimonials </button></a> 
+<!-- <a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM endorsement brochure</button></a> <a href="../../brochures/Slide-StudentSuccess.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Student testimonials </button></a> 
 <br>
 <br>
  <a href= "https://docs.google.com/document/d/1g8RYhqWd9l_4GDjLWNSU4tYbFlQQw94iAKDOJi7IvgQ">STEM endorsement brochure accessible version</a> 
 <br>
 <a href= "https://docs.google.com/document/d/1nPAGbyEaz5yWh-BcBaJWiCmCeD6sZx68KlNpdRuEON4">Student testimonials accessible version</a> 
 <br>
-<br>
+<br> -->
 
 ## Where are they now?
 Check out this article which follows up on two students who earned the Gold STEM Endorsement and were awarded the LSU Pre-Engineering Gold STEM Seal scholarship to pursue a degree in engineering.
@@ -61,13 +61,20 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 <a href="https://capitalareastem.org/news/blog.html/article/2023/11/08/celebrating-excellence-lsu-stem-pathways-gold-and-silver-stem-seal-scholarship-recipients" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Gold and Silver STEM Seal Scholarship Recipients</button></a>
 <br>
 <br>
+
+<img src ="student-testimonial.png" alt ="Hear from the Students: Gary Morris, Christopher Taylor, and Abigail Guillory graduated with Gold and Silver STEM seals. Morris and Guillory received endorsements in pre-engineering, and Taylor received an endorsement in the DDEM pathway." width =850>
+<br>
+
+
+
+## **Student Endorsements by Academic Year**
 <br>
 
 ## 2022-2023
 418 students graduated with STEM endorsements from LSU Pathways.
 <br>
-<br>
-<a href="https://endorsements.lsupathways.com/#2023-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2023 Graduates</button></a>
+<!-- <br>
+<a href="https://endorsements.lsupathways.com/#2023-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2023 Graduates</button></a> -->
 {{< spoiler text="View 2022-23 school list" >}}
 
 - Benjamin Franklin High School
@@ -88,8 +95,8 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 ## 2021-2022
 151 students graduated with STEM endorsements from LSU Pathways.
 <br>
-<br>
-<a href="https://endorsements.lsupathways.com/#2022-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a>
+<!-- <br>
+<a href="https://endorsements.lsupathways.com/#2022-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a> -->
 {{< spoiler text="View 2021-22 school list" >}}
 
 - Benjamin Franklin High School
@@ -106,8 +113,7 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 
 ## 2019-2020
 23 students graduated with STEM endorsements from LSU Pathways. 
-<br>
-<br>
+<br><br>
 <a href="https://www.louisianabelieves.com/docs/default-source/academics/2020-stem-endorsement-graduates.pdf?sfvrsn=85e9981f_2" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2020 Graduates</button></a>
 <br>
 {{< spoiler text="View 2019-20 school list" >}}
@@ -115,3 +121,4 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 - Liberty Magnet High School
 - STEM Magnet Academy of Point Coupee
 {{< /spoiler >}}
+

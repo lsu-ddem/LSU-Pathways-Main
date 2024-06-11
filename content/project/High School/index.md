@@ -131,7 +131,7 @@ For additional courses, please see <a href="../../brochures/ComputingBrief2024.p
 
 #### Overview:
 
-<a href="../../brochures/newddem.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2024 New DDEM courses flyer </button></a>
+<a href="../../brochures/newddem.pdf" target="_blank">2024 New DDEM courses flyer</a>
 
 To view the full DDEM website please visit <a href="https://ddem.lsupathways.org" Target ="_blank">ddem.lsupathways.org. </a>
 

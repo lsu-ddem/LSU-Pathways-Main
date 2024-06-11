@@ -13,10 +13,8 @@ design:
 ---
 
 ## **Student Scholarship Opportunities** 
+
 <br>
-LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
-<a href="https://www.lsu.edu/eng/news/2023/02/pathwaysgoldscholarship.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">LSU Pathways Offers Students Gold Scholarship</button></a> <a href="https://capitalareastem.org/news/blog.html/article/2023/11/08/celebrating-excellence-lsu-stem-pathways-gold-and-silver-stem-seal-scholarship-recipients" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Gold and Silver STEM Seal Scholarship Recipients</button></a>
-<br><br>
 
 ## LSU Scholarships
 <br>
@@ -149,18 +147,19 @@ LSU Gold and Silver STEM Seal scholarships in the news: <br><br>
     <td>CodeWizardsHQ offers live, online coding classes for kids that are taught by developers with tech industry experience who use structured, comprehensive curriculums to help kids master programming skills in a fun, exploratory environment. The CodeWizardsHQ team pairs real-world coding tools with their proprietary coding platform and experienced teachers to make it enjoyable for ages 8-18 to learn.</td>
     <td> <a href="https://www.codewizardshq.com/scholarship/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> CodeWizardsHQ Educational Scholarship </button></a> </td>
   </tr>
+   <tr>
+    <td>Amazon Future Engineer Scholarship</td>
+    <td>Opens fall 2024</td>
+    <td>Amazon Future Engineer Scholarship program provides underserved students with an opportunity to upgrade their careers with a $40,000 scholarship, plus a paid summer internship programming at Amazon.</td>
+    <td><a href="https://www.amazonfutureengineer.com/scholarships?utm_campaign=RECFoundation&utm_medium=scholarship&utm_source=US&utm_source=2023+VRC%2FVIQC%2FVEXU+Teams+and+EPs&utm_campaign=70241f413c-EMAIL_CAMPAIGN_2022_10_11_05_49_COPY_01&utm_medium=email&utm_term=0_3efc727138-70241f413c-37686869" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Amazon Future Engineer Scholarship</button></a> </td>
+ </tr>
  <tr>
     <td>S-STEM Scholars Program</td>
     <td>Currently Closed</td>
     <td>Funded by the National Science Foundation, the LSU S-STEM Scholars program aims to increase the educational and career opportunities for academically talented, financially disadvantaged students who are pursuing degrees in basic sciences or mathematics. </td>
     <td><a href="https://www.lsu.edu/osi/programs/s-stem-scholars-program/index.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> S-STEM Scholars Program </button></a> </td>
  </tr>
-  <tr>
-    <td>Amazon Future Engineer Scholarship</td>
-    <td>Currently Closed</td>
-    <td>Amazon Future Engineer Scholarship program provides underserved students with an opportunity to upgrade their careers with a $40,000 scholarship, plus a paid summer internship programming at Amazon.</td>
-    <td><a href="https://www.amazonfutureengineer.com/scholarships?utm_campaign=RECFoundation&utm_medium=scholarship&utm_source=US&utm_source=2023+VRC%2FVIQC%2FVEXU+Teams+and+EPs&utm_campaign=70241f413c-EMAIL_CAMPAIGN_2022_10_11_05_49_COPY_01&utm_medium=email&utm_term=0_3efc727138-70241f413c-37686869" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Amazon Future Engineer Scholarship</button></a> </td>
- </tr>
+ 
   
 </table>
 

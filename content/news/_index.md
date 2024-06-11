@@ -12,7 +12,7 @@ design:
   columns: '1'
   
 ---
-
+<center>
 
 ## **LSU STEM Pathways in the News**
 
@@ -24,7 +24,7 @@ design:
 <br>
 <br>
 <br>
-
+</center>
 Check out this article which follows up on two students who earned the Gold STEM Endorsement and were awarded the LSU Pre-Engineering Gold STEM Seal scholarship to pursue a degree in engineering.
 <br>
 <br>
@@ -38,13 +38,13 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 <br>
 <br>
 <br>
-
+<center>
 
 ## **LSU STEM Pathways Curriculum Media**
 
 ## Overview and Highlights
 <br>
-<a href="../media-highschool" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School</button></a> <a href="../media-middleschool" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../media-elementaryschool" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a> 
+<a href="../media-highschool" ><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> High School</button></a> <a href="../media-middleschool"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle School</button></a> <a href="../media-elementaryschool" ><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Elementary School</button></a> 
 <br>
 <br>
 
@@ -52,9 +52,11 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 <br>
  <table>
   <tr> 
-    <td style="border: 0;"><a href="../media-computing" target="_blank"><img src = "icons/4.png" alt = "Computing & Cybersecurity Pathway videos" width="250" height="250"></a></td>
-    <td style="border: 0;"><a href="../media-ddem" target="_blank"><img src = "icons/1.png" alt = "Digital Design and Emergent Media Pathway videos" width="250" height="250"></a></td>
-    <td style="border: 0;"><a href="../media-pre-engineering" target="_blank"><img src = "icons/3.png" alt = "Pre-Engineering Pathway videos" width="250" height="250"></a> </td>
-    <td style="border: 0;"><a href="../media-biomedical" target="_blank"><img src = "icons/2.png" alt = "Pre-Healthcare and Pre-Veterinary Pathway videos" width="250" height="250"></a></td>
+    <td style="border: 0;"><a href="../media-computing" ><img src = "icons/4.png" alt = "Computing & Cybersecurity Pathway videos" width="250" height="250"></a></td>
+    <td style="border: 0;"><a href="../media-ddem"><img src = "icons/1.png" alt = "Digital Design and Emergent Media Pathway videos" width="250" height="250"></a></td>
+    <td style="border: 0;"><a href="../media-pre-engineering" ><img src = "icons/3.png" alt = "Pre-Engineering Pathway videos" width="250" height="250"></a> </td>
+    <td style="border: 0;"><a href="../media-biomedical" ><img src = "icons/2.png" alt = "Pre-Healthcare and Pre-Veterinary Pathway videos" width="250" height="250"></a></td>
   </tr>
 </table>
+
+</center>

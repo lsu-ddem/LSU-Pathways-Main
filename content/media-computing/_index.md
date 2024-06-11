@@ -17,8 +17,8 @@ design:
 ## **Computing & Cybersecurity STEM Pathway**
 <br>
 
- <iframe width="450" height="250" src="https://www.youtube.com/embed/BQMZ_lofXTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
- <iframe width="450" height="250" src="https://www.youtube.com/embed/OdqvRn-q_kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
- <iframe width="450" height="250" src="https://www.youtube.com/embed/rD-0Cb78AXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
- <iframe width="450" height="250" src="https://www.youtube.com/embed/iq95FDbv628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/BQMZ_lofXTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/OdqvRn-q_kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/rD-0Cb78AXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/iq95FDbv628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
