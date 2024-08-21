@@ -70,6 +70,31 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 ## **Student Endorsements by Academic Year**
 <br>
 
+## 2023-2024
+418 students graduated with STEM endorsements from LSU Pathways.
+<br>
+<!-- <br>
+<a href="https://endorsements.lsupathways.com/#2023-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2023 Graduates</button></a> -->
+{{< spoiler text="View 2023-24 school list" >}}
+
+- Alfred M. Barbe High School
+- Amite High School
+- Benjamin Franklin High School
+- Central High School
+- College and Careers Center
+- Delhi Charter School
+- Denham Springs High School STEM and Robotics Center
+- Hammond High School
+- Haynes Academy School for Advanced Study
+- Liberty High School
+- MSA East 
+- Pointe Coupee STEM Magnet Academy
+- Woodlawn High School
+- Zachary High School
+{{< /spoiler >}}
+
+<br>
+
 ## 2022-2023
 418 students graduated with STEM endorsements from LSU Pathways.
 <br>
@@ -85,8 +110,8 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 - Haynes Academy School for Advanced Study
 - Liberty High School
 - MSA East
-- Pointe Coupee SMA
-- St. John the Baptist SMA
+- Pointe Coupee STEM Magnet Academy
+- St. John the Baptist STEM Magnet High School
 - Woodlawn High School
 {{< /spoiler >}}
 
@@ -119,6 +144,6 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 {{< spoiler text="View 2019-20 school list" >}}
 
 - Liberty Magnet High School
-- STEM Magnet Academy of Point Coupee
+- Point Coupee STEM Magnet Academy
 {{< /spoiler >}}
 
