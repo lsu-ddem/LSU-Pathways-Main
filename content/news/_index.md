@@ -21,7 +21,9 @@ design:
 <iframe width="450" height="250" src="https://www.youtube.com/embed/PGGFH_2nUsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="450" height="250" src="https://www.youtube.com/embed/yluym2wWOk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
-<a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Pathways in the Advocate </button></a>  <a href="https://www.louisianabelieves.com/courses/all-things-jump-start" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Read about Jump Start on louisianabelieves.com </button></a> 
+<a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">LSU STEM Pathways in the Advocate </button></a>
+<br>  <br> 
+<a href="https://www.louisianabelieves.com/courses/all-things-jump-start" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Read about Jump Start on Louisianabelieves.com </button></a> 
 <br>
 <br>
 <br>

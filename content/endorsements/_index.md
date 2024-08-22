@@ -71,7 +71,7 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 <br>
 
 ## 2023-2024
-418 students graduated with STEM endorsements from LSU Pathways.
+415 students graduated with STEM endorsements from LSU Pathways.
 <br>
 <!-- <br>
 <a href="https://endorsements.lsupathways.com/#2023-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2023 Graduates</button></a> -->
