@@ -98,8 +98,8 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 ## 2022-2023
 418 students graduated with STEM endorsements from LSU Pathways.
 <br>
-<!-- <br>
-<a href="https://endorsements.lsupathways.com/#2023-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2023 Graduates</button></a> -->
+<br>
+<a href="https://endorsements.lsupathways.com/#2023-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2023 Graduates</button></a>
 {{< spoiler text="View 2022-23 school list" >}}
 
 - Benjamin Franklin High School
@@ -120,8 +120,8 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 ## 2021-2022
 151 students graduated with STEM endorsements from LSU Pathways.
 <br>
-<!-- <br>
-<a href="https://endorsements.lsupathways.com/#2022-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a> -->
+<br>
+<a href="https://endorsements.lsupathways.com/#2022-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2022 Graduates</button></a>
 {{< spoiler text="View 2021-22 school list" >}}
 
 - Benjamin Franklin High School
@@ -133,6 +133,22 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
 - STEM Magnet Academy of Point Coupee 
 - St. James College and Career Readiness
 - St. Martinville Senior High School
+{{< /spoiler >}}
+<br>
+
+## 2020-2021
+71 students graduated with STEM endorsements from LSU Pathways.
+<br>
+<br>
+<a href="https://endorsements.lsupathways.com/#2021-endorsements" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">2021 Graduates</button></a>
+{{< spoiler text="View 2020-21 school list" >}}
+
+  - Central High School
+  - Denham Springs High School STEM and Robotics Center
+  - Liberty Magnet High School
+  - Peabody Magnet High School
+  - STEM Magnet Academy of Point Coupee
+  - St. John the Baptist SMA
 {{< /spoiler >}}
 <br>
 
