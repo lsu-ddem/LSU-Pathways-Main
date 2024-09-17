@@ -148,7 +148,7 @@ The LSU Cain Center is happy to announce that this year we awarded 3 Gold STEM S
   - Liberty Magnet High School
   - Peabody Magnet High School
   - STEM Magnet Academy of Point Coupee
-  - St. John the Baptist SMA
+  - St. John the Baptist STEM Magnet High School
 {{< /spoiler >}}
 <br>
 
