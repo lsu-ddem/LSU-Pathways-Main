@@ -45,7 +45,7 @@ design:
   </tr>
   <tr>
     <td> 	LSU College of Engineering FIRST Robotics Scholarship</td>
-    <td>March 15, 2024</td>
+    <td>March 15, 2025</td>
     <td>First-year undergraduate students at LSU pursuing a degree in the College of Engineering with a minimum high school GPA of 3.0 who were involved in FIRST Robotics for at least one year during high school.</td>
     <td> <a href="https://lsu.academicworks.com/opportunities?utf8=%E2%9C%93&term=Robotics" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> FIRST Robotics Scholarship </button></a> </td>
   </tr>
@@ -107,19 +107,19 @@ design:
  </tr>
   <tr>
     <td>American Society of Mechanical Engineers High School Scholarship</td>
-    <td>March 15, 2024</td>
+    <td>March 15, 2025</td>
     <td>Graduating high school students are the next generation of engineers! The ASME INSPIRE Program and the ASME Auxiliary offer scholarships to graduating high school seniors interested in pursuing engineering degrees.</td>
     <td><a href="https://www.asme.org/asme-programs/students-and-faculty/scholarships/available-high-school-scholarships" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ASME Scholarship </button></a> </td>
  </tr>
  <tr>
     <td>ITE Diversity Scholarship Program</td>
-    <td>March 15, 2024</td>
+    <td>March 15, 2025</td>
     <td>The purpose of this program is to increase underrepresented populations participation in the transportation profession by supporting increased diversity at the undergraduate level.  Diversity in transportation is critical as practitioners seek to fully understand the transportation needs of communities in the development of equitable mobility improvements to many areas of our society. </td>
     <td><a href="https://www.ite.org/membership/diversity-scholars-program/" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> ITE Diversity Scholarship </button></a> </td>
  </tr>
  <tr>
     <td>Shell Company Technical Scholarship</td>
-    <td>March 15, 2024</td>
+    <td>March 15, 2025</td>
     <td>The Shell Company Technical Scholarship and Shell Incentive Fund Scholarship have been created to provide financial and career assistance to graduating high school seniors who have expressed an interest in the energy industry and demonstrated an aptitude in mathematics and science.</td>
     <td><a href="https://www.shell.us/careers/about-careers-at-shell/shell-graduate-program/scholarships.html" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Shell Company Technical Scholarship </button></a> </td>
  </tr>
