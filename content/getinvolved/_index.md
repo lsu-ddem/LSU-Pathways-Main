@@ -87,9 +87,11 @@ Formal registration and course-specific training dates for the 2025-26 LSU STEM 
 <a href="https://lsu.formstack.com/forms/caincenter_interest_form" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Request Information or MOU</button></a> <a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o/edit" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Course Catalog </button></a> <a href="https://drive.google.com/file/d/1UWloqX4FzPLiXOzNWgMJZRUEPcbkUrQD/view?usp=drive_link" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Pathways Invitation </button></a> <a href="https://docs.google.com/document/d/1uqd_MRA22vHTRycKSePGmq8QqCcBUFHT9pcMv1zElos/edit#heading=h.evbbp36i1a94" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Training Guide </button></a>
 <br>
 <br>
-<a href= "https://docs.google.com/document/d/1fmxepxWRI29BcZZF4nNAClH-a9RUafCg9PGTJMtgEa0">2023-24 course catalog accessible version </a>
+<a href= "https://docs.google.com/document/d/1gQH6QP-7Np5DQfmJx0_6L894jLEPAUI-mjZBzXfnzIw/edit?tab=t.0#heading=h.qss2sjj8h4cy"> Course catalog accessible version</a>
 <br>
- <a href= "https://docs.google.com/document/d/1Z8_nO-yOT3vCmhjUWEI2_6lAQZ2_c4i8sbxVfDDzmys">2023-24 LSU Pathways Invitation accessible version</a> 
+<a href= "https://docs.google.com/document/d/1N9lvRMcrCJ_dv9aWMsyeWZfA6YoJAYtumrTEaCxOpUM/edit?tab=t.0"> Training dates and times accessible version</a>
+<br>
+<a href= "https://docs.google.com/document/d/1jb7_I6f5YTEj56SzMCzQTQDjEhL2k9UracDGATscILQ/edit?tab=t.0#heading=h.uynxpnqstem">LSU Pathways invitation accessible version</a>
 
 
  </center>
