@@ -72,8 +72,7 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
 <center>
 
-## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in healthcare and veterinary sciences, computing and cybersecurity, digital design and emergent media, pre-engineering, and environmental sciences. 
-
+## LSU STEM Pathways is a program developed and administered by the Gordon A. Cain Center that is designed for K-12 students to get hands-on training with STEM subjects in healthcare and veterinary sciences, computing and cybersecurity, digital design and emergent media, pre-engineering, and environmental sciences.
 
 ## LSU partners with schools across the state to prepare teachers, students, and administrative staff for the curriculum.
 </center>
