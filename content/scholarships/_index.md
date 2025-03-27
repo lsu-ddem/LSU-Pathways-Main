@@ -27,21 +27,21 @@ design:
   </tr>
     <tr>
     <td>Cain Center STEM Pathway Silver and Gold STEM Seal Scholarship </td>
-    <td>June 30, 2024</td>
+    <td>May 1, 2025</td>
     <td>The LSU STEM Pathways Silver STEM Seal Scholarship, worth $750, is awarded to up to 20 students each year.  The LSU STEM Pathways Gold STEM Seal Scholarship, worth $1500, is awarded to up to 10 students each year. The scholarship is awarded $375/$750 for the fall semester and $375/$750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester. This scholarship is open to students pursuing any major at LSU.  If you are pursuing an engineering degree and earned the gold pre-engineering STEM diploma in high school, you may apply to both this scholarship and the pre-engineering gold scholarship; however, you cannot be awarded both scholarships. </td>
     <td><a href="https://lsu.qualtrics.com/jfe/form/SV_5nfcZE0Od4SB8hw" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Cain Center STEM Pathway Silver and Gold STEM Seal Scholarship </button></a> </td>
   </tr>
   <tr>
     <td>LSU Pre-Engineering Pathway Gold STEM Seal Scholarship</td>
-    <td>April 5, 2024</td>
+    <td>April 30, 2025</td>
     <td>The LSU Pre-Engineering Pathway Gold STEM Seal Scholarship is a $1,500 scholarship sponsored by the College of Engineering and the Gordon A. Cain center.  It is awarded to one outstanding LSU Pre-Engineering Gold Seal endorsed student entering the College of Engineering each fall. The scholarship is awarded $750 for the fall semester and $750 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester.</td>
-    <td><a href="https://lsu.qualtrics.com/jfe/form/SV_etGHO7H5XGA1xHM" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Gold STEM Seal Scholarship </button></a> </td>
+    <td><a href=" https://lsu.qualtrics.com/jfe/form/SV_b88bBa0oVcUmCq2" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Pre-Engineering Gold STEM Seal Scholarship </button></a> </td>
   </tr>
    <tr>
     <td>LSU VEX Robotics Scholarship</td>
-    <td>April 5, 2024</td>
+    <td>April 30, 2025</td>
     <td>The LSU Pre-Engineering VEX is a $1,000 scholarship awarded to one outstanding LSU freshman student entering the College of Engineering each fall. The scholarship is awarded $500 for the fall semester and $500 for the spring semester of the incoming freshman year. For the scholarship to be renewed during the spring semester, the student must maintain a minimum college GPA of 3.0 in the first semester.</td>
-    <td> <a href="https://lsu.qualtrics.com/jfe/form/SV_72iu70dtl13GxdI" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU VEX Robotics Scholarship</button></a> </td>
+    <td> <a href="https://lsu.qualtrics.com/jfe/form/SV_0D3AHrYO9X8EJf0" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU VEX Robotics Scholarship</button></a> </td>
   </tr>
   <tr>
     <td> 	LSU College of Engineering FIRST Robotics Scholarship</td>
@@ -53,13 +53,13 @@ design:
     <td>PRISE Program</td>
     <td>March 20, 2024</td>
     <td>The PRISE (Preparing Resilient Individuals for Success in Engineering) Program is an NSF-funded scholarship that is designed to help high-achieving, high potential engineering students with financial hardships persist through graduation. This program provides a need-based scholarship to entering freshmen engineering students for up to eight semesters and offers academic and professional development programs to help our students succeed in engineering.</td>
-    <td> <a href="https://lsu.edu/eng/prise_program.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> PRISE Program </button></a> </td>
+    <td> <a href="https://www.lsu.edu/eng/future/prise.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> PRISE Program </button></a> </td>
   </tr>
   <tr>
     <td>LSU College of Engineering Scholarship</td>
-    <td>Dec. 15, 2024</td>
+    <td>Dec. 15, 2025</td>
     <td>Automatically considered for scholarship if application to attend LSU is completed by December 15th and the intended major is from the College of Engineering.</td>
-    <td> <a href="https://www.lsu.edu/eng/future/engineer-experience/scholarships.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU College of Engineering Scholarship </button></a> </td>
+    <td> <a href="https://www.lsu.edu/eng/future/scholarships.php" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> LSU College of Engineering Scholarship </button></a> </td>
   </tr>
 </table> 
 
