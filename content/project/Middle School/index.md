@@ -137,4 +137,4 @@ The Middle School STEM Pathways Program is pleased to announce that we now offer
 Teachers are trained in project-based, STEM modular units that are aligned to curricular standards at the 6-8 grade levels. Modules can be used in class as stand-alone units, incorporated into current lessons and curriculum as supplementary materials, or in before and after school programs. The modules are great for schools who wish to bring STEM enrichment into any existing class at the middle school level. Each module encourages exploration of the STEM Pathways. Teacher training occurs through summer institutes or as requested by the parish in the school year. Additional support is provided throughout the school year from the institute trainers.
 <br>
 <br>
-<a href="../../syllabi/MSModules.pdf" target="_blank">Middle school STEM modules materials list </a>
+<a href="../../brochures/2025-elementary-middle-modules.pdf" target ="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Middle school STEM Pathways module descriptions </button></a>
