@@ -93,7 +93,7 @@ Click a dropdown to learn more about each pathway, including a syllabus for each
 {{< spoiler text="Computing and Cybersecurity" >}}
 #### Overview:
 
-- <a href="../../brochures/ComputingBrief2024.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2024-25) </a>
+- <a href="https://doe.louisiana.gov/docs/default-source/js-graduation-pathways/stem-renaissance-computing-cybersecurity-pathway-brief.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2024-25) </a>
 - <a href="../../brochures/ComputingBrief2023.pdf" target="_blank"> Computing and Cybersecurity brief (Incoming freshmen for 2023-24 or earlier) </a>
 - <a href="../../media-computing" Target = "_blank"> Computing curriculum videos </a>
  <!-- - <a href="../../brochures/ComputingStudent.pdf" target="_blank"> Computing student information flyer</a> -->
@@ -135,7 +135,7 @@ For additional courses, please see <a href="../../brochures/ComputingBrief2024.p
 
 To view the full DDEM website please visit <a href="https://ddem.lsupathways.org" Target ="_blank">ddem.lsupathways.org. </a>
 
-- <a href="../../brochures/DDEMBrief2024.pdf" target="_blank">DDEM brief (Incoming freshmen 2024-25) </a>
+- <a href="https://doe.louisiana.gov/docs/default-source/js-graduation-pathways/stem-renaissance-digital-design-emergent-media-pathway-brief.pdf" target="_blank">DDEM brief (Incoming freshmen 2024-25) </a>
 -  <a href="../../brochures/DDEMBrief2023.pdf" target="_blank">DDEM brief (Incoming freshmen 2023-24 or earlier) </a>
 - <a href="../../brochures/DDEMStudent.pdf" target="_blank">DDEM student information flyer</a>
 - <a href= "https://docs.google.com/document/d/1ZycCYXWj1-HFS1SAPVMmBKaWInfwMWdRLgUjf6sr5EA">Accessible version of DDEM student information flyer</a>
@@ -167,7 +167,7 @@ For additional courses, please see <a href="../../brochures/DDEMBrief2024.pdf" t
 {{< spoiler text="Environmental Protection and Sustainability" >}}
 
 #### Overview:
-- <a href="../../brochures/EnvironmentalBrief2024.pdf" target="_blank"> Environmental Protection and Sustainability brief (Incoming freshmen for 2024-25) </a>
+- <a href="https://doe.louisiana.gov/docs/default-source/js-graduation-pathways/stem-renaissance-environmental-protection-sustainability-pathway-brief.pdf" target="_blank"> Environmental Protection and Sustainability brief (Incoming freshmen for 2024-25) </a>
 
 
 #### Core Courses:
@@ -185,7 +185,7 @@ For additional courses, please see <a href="../../brochures/DDEMBrief2024.pdf" t
 {{< spoiler text="Pre-Engineering" >}}
 
 #### Overview:
-- <a href="../../brochures/PreEngineeringBrief2024.pdf" target="_blank">Pre-Engineering brief (Incoming freshmen 2024-25)</a>
+- <a href="https://doe.louisiana.gov/docs/default-source/js-graduation-pathways/stem-renaissance-pre-engineering-pathway-brief.pdf" target="_blank">Pre-Engineering brief (Incoming freshmen 2024-25)</a>
 - <a href="../../brochures/PreEngineeringBrief2023.pdf" target="_blank">Pre-Engineering brief (Incoming freshmen 2023-24 or earlier)</a>
 - <a href="../../brochures/PreEngineeringStudent.pdf" target="_blank"> Pre-Engineering student information flyer</a> 
 - <a href= "https://docs.google.com/document/d/1IgbFbgY1c5KAlxDeaXhPDCM23ikVvVuUeuCUDDlWgsg">Accessible version of Pre-Engineering student information flyer</a>
@@ -219,7 +219,7 @@ Pre-Engineering STEM Pathway brief</a>.
 {{< spoiler text="Pre-Healthcare and Pre-Veterinary" >}}
 
 #### Overview:
-- <a href="../../brochures/PreHealthcareBrief2024.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary Brief (Incoming freshmen for 2024-25) </a>
+- <a href="https://doe.louisiana.gov/docs/default-source/js-graduation-pathways/stem-renaissance-pre-healthcare-pe-veterinary-pathway-brief.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary Brief (Incoming freshmen for 2024-25) </a>
 - <a href="../../brochures/PreHealthcareBrief2023.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary Brief (Incoming Freshmen for 2023-24 or earlier) </a>
 - <a href="../../brochures/BiomedStudent.pdf" target="_blank">Pre-Healthcare and Pre-Veterinary student information flyer</a>
 - <a href= "https://docs.google.com/document/d/1s4miFmYo8xDOMLvUn8dhHxeYVlfp6vq7SYnzJabJ1FA">Accessible version of Pre-Healthcare and Pre-Veterinary student information flyer</a>
