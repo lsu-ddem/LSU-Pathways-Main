@@ -56,12 +56,15 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 ## <b> Who Does LSU STEM Pathways? </b>
 <br>
-In 2023-24, we are serving 101 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
+In 2024-25, we are serving 101 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
 <br>
 <br>
 
-{{< spoiler text="View 2023-24 school list" >}}
+{{< spoiler text="View 2024-25 school list" >}}
 
+<!-- 2023-24 School List
+- Acadiana Renaissance Charter
+- Academy (Middle School)
 - Alfred M. Barbe High School
 - Amite High Magnet
 - Baker Middle School
@@ -164,7 +167,111 @@ In 2023-24, we are serving 101 schools who are offering high school and middle s
 - Winnfield High School
 - Woodlawn High School
 - Woodlawn Middle School
+- Zachary High School -->
+
+- Acadiana Renaissance Charter Academy (Middle School)
+- Advanced College and Career Magnet Center
+- Alfred M. Barbe High School
+- Amite High Magnet
+- Anderson Middle School
+- Baker Middle School
+- Baton Rouge Magnet High School
+- Belaire High School
+- Belle Place Middle School
+- Benjamin Franklin High School
+- Bluff Middle School
+- Bossier PS for Technology & Innovative Learning
+- Broadmoor Senior High School
+- Central High School
+- Central Middle School
+- Central Middle School (Ascension)
+- Christ Episcopal School
+- College and Careers Center
+- Delcambre High School
+- Delhi Charter School
+- Delta Charter School MST
+- Denham Springs High School STEM and Robotics Center
+- Denham Springs Junior High School
+- Donaldsonville High School
+- Dutchtown High School
+- Dutchtown Middle School
+- East Ascension High School
+- East Feliciana High School
+- East Feliciana Middle School
+- East Feliciana STEAM Academy
+- Eva Legard Learning Center
+- F. K. White Middle School
+- Galvez Middle School
+- Garyville/Mt. Airy Math & Science Magnet Schl.
+- Gonzales Middle School
+- Hammond High Magnet School
+- Haynes Academy School for Advanced Studies
+- Helix Mentorship STEAM Academy
+- Iberia Middle School
+- Iberia Parish Career Center
+- Independence High Magnet
+- Iowa High School
+- Istrouma High School
+- Jeanerette Senior High School
+- Juban Parc Junior High School
+- Kenilworth Science and Technology Charter School
+- Kenner Discovery Health Sciences Academy
+- Lake Charles Boston Academy
+- Lake Elementary School
+- LeBlanc Middle School
+- Liberty High School
+- Linwood Charter School
+- Livingston Collegiate Academy
+- Loreauville High School
+- Louisiana Key Academy Baton Rouge
+- Lowery Middle School
+- LSU Laboratory School
+- Madison High School
+- Madison Preparatory Academy
+- Mayfair Laboratory School
+- McKinley Senior High School
+- MSA East
+- New Orleans Charter Science and Mathematics HS
+- New Orleans Military & Maritime Academy
+- Northwestern Middle School
+- Park Forest Middle School
+- Parkview Baptist School
+- Patrick F. Taylor Science & Technology Academy
+- Pine School
+- Plaquemine Senior High School
+- Pointe Coupee SMA
+- Ponchatoula High School
+- Prairieville High School
+- Prairieville Middle School
+- S. J. Welsh Middle School
+- Scotlandville Magnet High School
+- Sherwood Middle Academic Academy
+- Southeast Middle School
+- Southside Junior High School
+- St. Amant High School
+- St. Amant Middle School
+- St. John the Baptist SMA
+- St. Martinville Junior High School
+- St. Martinville Senior High School
+- St. Scholastica Academy
+- Sulphur High School
+- Turner Elementary Middle School
+- Union Parish High School
+- University View Academy, Inc. (FRM LA Connections)
+- Vinton High School
+- W. W. Lewis Middle School
+- Washington/Marion Magnet High School
+- West Feliciana High School
+- West Ouachita High School
+- West St. John Elementary School (K-7)
+- Westdale Middle School
+- Westside Junior High School
+- Woodlawn High School
+- Woodlawn Middle School
+- Young Audiences Charter High School
 - Zachary High School
+
+
 
 {{< /spoiler >}}
 
