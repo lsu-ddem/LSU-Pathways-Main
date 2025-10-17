@@ -24,7 +24,7 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 <br>
 <table>
   <tr>
-    <td style="border: 0;"><a href ="../../../graphics/msgraphichsc.png"> <img src = "../../../graphics/msgraphichsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 47 teachers, 35 schools, and 13 districts for this program. There were over 1750 students enrolled." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/msgraphichsc-24-25.png"> <img src = "../../../graphics/msgraphichsc-24-25.png" alt= "This image shows that in 2024-25, LSU STEM Pathways enrolled 53 teachers, 46 schools, and 19 districts for this program. There were over 1650 students enrolled." width="550" height="650"></a></td>
     <td style="border: 0;"><a href= "../../../graphics/msmaphsc.png"><img src = "../../../graphics/msmaphsc.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 34 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
@@ -97,7 +97,7 @@ Course Objectives:
 <br>
 <table>
   <tr>
-    <td style="border: 0;"><a href ="../../../graphics/msgraphicmsc.png"> <img src = "../../../graphics/msgraphicmsc.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 9 teachers, 9 schools, and 7 districts for this program. There were over 400 students enrolled." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/msgraphicmsc-24-25.png"> <img src = "../../../graphics/msgraphicmsc-24-25.png" alt= "This image shows that in 2024-25, LSU STEM Pathways enrolled 14 teachers, 12 schools, and 8 districts for this program. There were over 350 students enrolled." width="550" height="650"></a></td>
     <td style="border: 0;"><a href= "./../../graphics/msmap.png"><img src = "../../../graphics/msmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 9 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>

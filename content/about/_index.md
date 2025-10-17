@@ -56,7 +56,7 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 ## <b> Who Does LSU STEM Pathways? </b>
 <br>
-In 2024-25, we are serving 101 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
+In 2024-25, we are serving 100 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
 <br>
 <br>
 
@@ -275,8 +275,8 @@ In 2024-25, we are serving 101 schools who are offering high school and middle s
 
 {{< /spoiler >}}
 
-<img src = "../../../graphics/allgraphic.png" alt= "This image shows that in 2023-24, LSU STEM Pathways enrolled 204 teachers, 101 schools, 40 districts, and offered 30 courses. There were over 9,900 students enrolled." width="425" height="525" style ="float: left">
-<img src="https://media.giphy.com/media/2mRpbOaxEpF2SVhDgO/giphy.gif" alt="This is a gif that has 6 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2022-23 are varying shades of yellow. 17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
+<img src = "../../../graphics/all_pathways_2024-25.png" alt= "This image shows that in 2024-25, LSU STEM Pathways enrolled 215 teachers, 100 schools, 38 districts, and offered 38 courses. There were over 9,100 students enrolled." width="425" height="525" style ="float: left">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlqMWl2MzRiNG9qbHBmbm16cHBnam1iemdqdHA5eTR5YW80NGgzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DanokntPeh1HFuPGkq/giphy.gif" alt="This is a gif that has 7 slides each displayed for 2 seconds.  Each slide shows a map of Louisiana and the parishes that are offering STEM pathway courses in each year from  2016-17 to 2024-25 are varying shades of yellow. 17/18: 8, 18/19: 26, 19/20: 39, 20/21: 54 21/22: 71, 22/23: 121 anticipated. " width="450" height="550">
 <center>
 <table>
   <tr>
@@ -289,7 +289,7 @@ In 2024-25, we are serving 101 schools who are offering high school and middle s
     <td bgcolor="#FDD023">4+ Participating Schools</td>  
   </tr>
 </table>
-<a href = "../../../graphics/allgraphic23.png" target = "blank_"> 2022-2023 STEM Pathways enrollment data graphic</a> <br>
+<a href = "../../../graphics/all_pathways_2024-25.png" target = "blank_"> 2024-2025 STEM Pathways enrollment data graphic</a> <br>
 <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >Follow us on LinkedIn</a> to see the STEM Pathways in action.
 <br>
 <br>
