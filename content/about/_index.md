@@ -14,6 +14,37 @@ design:
 
 ## **More about LSU Pathways** 
 
+## Working alongside K–12 schools, higher education, employers, and state workforce partners, STEM Pathways creates scalable programs that align classroom learning with real-world workforce needs. Our programs support emerging and priority industries including engineering, computing & cybersecurity, environmental protection & sustainability, energy, digital emergent media, and healthcare.
+
+### Building Career Pathways with Purpose
+
+<br>
+STEM Pathways is designed to help students move seamlessly from high school into postsecondary education, industry credentials, and meaningful careers. We support this mission by:
+
+- Developing workforce-aligned STEM curriculum
+- Expanding dual enrollment and industry based credential opportunities
+- Providing teacher training and professional development
+- Integrating project-based and experiential learning
+- Supporting statewide workforce and economic development priorities
+
+Our approach ensures students are not only academically prepared, but also career ready.
+
+### Industry-Aligned Learning for Louisiana’s Economy
+
+Today’s workforce demands more than traditional classroom instruction. Employers are seeking graduates who can solve problems, collaborate, communicate, and adapt in rapidly changing technical environments. STEM Pathways helps schools deliver these experiences through authentic, applied learning connected to real workforce expectations.  By aligning educational experiences with Louisiana’s workforce priorities, STEM Pathways helps strengthen talent pipelines while creating opportunities for students to pursue high-wage, high-demand careers within the state.
+
+### Supporting Teachers, Schools, and Communities
+
+At the center of STEM Pathways is a commitment to supporting educators and school systems. Through statewide professional development, curriculum support, instructional resources, and industry partnerships, we equip teachers with the tools needed to deliver high-quality STEM experiences that are relevant, engaging, and workforce connected. Each year, STEM Pathways supports thousands of students and hundreds of educators across Louisiana, helping schools expand access to meaningful STEM and career education opportunities.
+
+### Creating the Next Generation of Innovators and Problem Solvers
+
+STEM Pathways is more than a collection of courses. It is a statewide effort to develop the next generation of innovators, technicians, engineers, creators, and leaders who will drive Louisiana’s future economy forward.
+
+Whether students pursue college, industry credentials, apprenticeships, or direct entry into the workforce, STEM Pathways helps ensure they are prepared to succeed in a rapidly changing world.
+
+
+<!-- 
  ## The LSU STEM Pathways program provides access to over 24 project-based middle and high school STEM courses as well as STEM modules for middle and elementary school grades. 
 
  <br>
@@ -38,7 +69,7 @@ All Pathways contain common themes, thus allowing students to transfer between P
 
 <br>
 Students taking these courses can attain industry-promulgated credentials, university-issued certificates of course completion, and/or dual enrollment credit. Students who successfully complete 4 of the required courses in one Pathway will earn a Silver STEM Diploma Seal. Students will earn a Gold STEM Diploma Seal by satisfying the requirements for a Silver STEM Diploma Seal plus 4 additional Elective Gold Courses from the Qualifying Course List. Completion of a Pathway, which consists of 8 courses in a single subject area, will earn student either a career-tech diploma or an enhanced university prep-diploma.
-<br>
+<br> -->
 <br>
 <a href="https://www.louisianabelieves.com/courses/louisiana-stem-initiative" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Louisiana STEM Initiative website</button></a> <a href="../../brochures/Slide-Overview.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">STEM endorsement brochure</button></a> <a href="../../brochures/Slide-DE.pdf" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">LSU Dual Enrollment brochure</button></a> 
 <br>
@@ -295,14 +326,16 @@ In 2024-25, we are serving 100 schools who are offering high school and middle s
 <br>
  </center>
 
- ## <b> Why Be a Part of LSU STEM Pathways? </b>
+ ### <b> Why Be a Part of LSU STEM Pathways? </b>
 <br>
 
- School districts, teachers, and students all benefit from participating in LSU Pathways.
-
-  - School districts receive additional CTE/CDF funding, earn accountability points for industry-based certifications and dual enrollment credit, and bolster their strength of diploma and interests & opportunities indices.
-  - Teachers discover new ways to engage their students and earn STEM certifications for expanded career options, including graduate certification opportunities.
-  - Students obtain access to exciting material and earn a state- approved STEM seal on their school diploma, which enhances their post-graduation career and educational opportunities, including LSU scholarships.
+School districts, teachers, and students all benefit from participating in LSU STEM Pathways through:
+- Workforce-aligned STEM curriculum connected to high-demand careers
+- Dual enrollment opportunities that provide college credit while in high school
+- Access to industry-based credentials that strengthen career readiness which are supported by CDF/CTE funding and can contribute to the career accelerator for school accountability points
+- Hands-on, project-based learning experiences tied to real-world applications
+- Professional development, instructional support, and customized learning management to support course delivery by teachers
+- Strong connections between K–12 education, higher education, and industry partners
 
 
 <br>
