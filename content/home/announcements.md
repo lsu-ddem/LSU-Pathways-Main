@@ -95,8 +95,8 @@ If you are interested in participating in the LSU STEM pathways program for the 
 
 <center>
 <br>
-
-<iframe src="https://www.youtube.com/embed/BtUjV6w8g8Q?si=mM2TleVWr0OM3-m6&amp;autoplay=1&mute=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=2bRUfnk86LU
+<iframe src="https://www.youtube.com/embed/2bRUfnk86LU?si=c9p6Pab_x7KT3-nI;autoplay=1&mute=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
