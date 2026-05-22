@@ -82,6 +82,7 @@ If you are interested in participating in the LSU STEM pathways program for the 
 <br>
 <br>
 <a href="https://lsu.formstack.com/forms/caincenter_interest_form" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Request Information or MOU</button></a> <a href="https://docs.google.com/document/d/1QqsUGYCeUTkjkRMGLlsf_fwB9pz9NJf9XhHrXYChm-o/edit" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Course Catalog </button></a> <a href="https://drive.google.com/file/d/1UWloqX4FzPLiXOzNWgMJZRUEPcbkUrQD/view?usp=drive_link" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px">Pathways Invitation </button></a> <a href="https://docs.google.com/document/d/1uqd_MRA22vHTRycKSePGmq8QqCcBUFHT9pcMv1zElos/edit#heading=h.evbbp36i1a94" target="_blank"><button style= "background-color:#fdd023; border: none ; border-radius: 5px; padding: 12px"> Training Guide </button></a>
+<a href="https://drive.google.com/file/d/1_2o_4f0v9LpKqfR0Et-KuDu6rvER3LmO/view?usp=sharing"><button style= "background-color:#582c84; border: none ; border-radius: 5px; padding: 12px; color:#ffffff">CTE Directors and School Administrators Click Here for Course Alignment Overview</button></a>
 <br>
 <br>
 <a href= "https://docs.google.com/document/d/1gQH6QP-7Np5DQfmJx0_6L894jLEPAUI-mjZBzXfnzIw/edit?tab=t.0#heading=h.qss2sjj8h4cy"> Course catalog accessible version</a>
@@ -95,9 +96,7 @@ If you are interested in participating in the LSU STEM pathways program for the 
 
 <center>
 <br>
-https://www.youtube.com/watch?v=2bRUfnk86LU
 <iframe src="https://www.youtube.com/embed/2bRUfnk86LU?si=c9p6Pab_x7KT3-nI;autoplay=1&mute=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
 </center>
 
 
