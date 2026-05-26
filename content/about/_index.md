@@ -91,7 +91,7 @@ In 2024-25, we are serving 100 schools who are offering high school and middle s
 <br>
 <br>
 
-{{< spoiler text="View 2024-25 school list" >}}
+{{< spoiler text="View 2025-26 school list" >}}
 
 <!-- 2023-24 School List
 - Acadiana Renaissance Charter
@@ -320,7 +320,7 @@ In 2024-25, we are serving 100 schools who are offering high school and middle s
     <td bgcolor="#FDD023">4+ Participating Schools</td>  
   </tr>
 </table>
-<a href = "../../../graphics/enrollment_graphics_25-26/EnrollmentGraphic-25-26.png" target = "blank_"> 2024-2025 STEM Pathways enrollment data graphic</a> <br>
+<a href = "../../../graphics/enrollment_graphics_25-26/EnrollmentGraphic-25-26.png" target = "blank_"> 2025-2026 STEM Pathways enrollment data graphic</a> <br>
 <a href="https://www.linkedin.com/showcase/lsu-pathways" target="_blank" >Follow us on LinkedIn</a> to see the STEM Pathways in action.
 <br>
 <br>

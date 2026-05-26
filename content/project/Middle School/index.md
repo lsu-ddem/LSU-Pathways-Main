@@ -24,15 +24,15 @@ While the Louisiana Department of Education (LDOE) STEM Pathways are designed fo
 <br>
 <table>
   <tr>
-    <td style="border: 0;"><a href ="../../../graphics/enrollment_graphics_25-26/EnrollmentMiddleSchool-HSCredit-25-26.png"> <img src = "../../../graphics/enrollment_graphics_25-26/EnrollmentMiddleSchool-HSCredit-25-26.png" alt= "This image shows that in 2024-25, LSU STEM Pathways enrolled 48 teachers, 41 schools, and 19 districts for this program. There were over 1650 students enrolled." width="550" height="650"></a></td>
-    <td style="border: 0;"><a href= "../../../graphics/msmaphsc.png"><img src = "../../../graphics/msmaphsc.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 34 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/enrollment_graphics_25-26/EnrollmentMiddleSchool-HSCredit-25-26.png"> <img src = "../../../graphics/enrollment_graphics_25-26/EnrollmentMiddleSchool-HSCredit-25-26.png" alt= "This image shows that in 2025-26, LSU STEM Pathways enrolled 48 teachers, 41 schools, and 19 districts for this program. There were over 1650 students enrolled." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../../../graphics/msmaphsc.png"><img src = "../../../graphics/enrollment_graphics_25-26/MSMap-HSCredit-25-26.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 41 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
 </table>
 
 
 
-<center> <a href = "../../../graphics/msgraphichsc23.png" target = "blank_"> 2022-2023 middle school STEM Pathways for high school credit enrollment data graphic</a> </center> <br>
+<center> <a href = "../../../graphics/enrollment_graphics_25-26/EnrollmentMiddleSchool-HSCredit-25-26.png" target = "blank_"> 2025-2026 middle school STEM Pathways for high school credit enrollment data graphic</a> </center> <br> 
 
 ## High School Credit Course Information
 <br>
@@ -93,19 +93,19 @@ Course Objectives:
 {{< /spoiler >}}
 <br>
 
-## <b> Who Does LSU STEM Pathways for Middle School Credit in 2023-24? </b> 
+## <b> Who Does LSU STEM Pathways for Middle School Credit in 2025-26? </b> 
 <br>
 <table>
   <tr>
-    <td style="border: 0;"><a href ="../../../graphics/msgraphicmsc-24-25.png"> <img src = "../../../graphics/msgraphicmsc-24-25.png" alt= "This image shows that in 2024-25, LSU STEM Pathways enrolled 14 teachers, 12 schools, and 8 districts for this program. There were over 350 students enrolled." width="550" height="650"></a></td>
-    <td style="border: 0;"><a href= "./../../graphics/msmap.png"><img src = "../../../graphics/msmap.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 9 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href ="../../../graphics/enrollment_graphics_25-26/EnrollmentMiddleSchool-25-26.png"> <img src = "../../../graphics/enrollment_graphics_25-26/EnrollmentMiddleSchool-25-26.png" alt= "This image shows that in 2025-26, LSU STEM Pathways enrolled 13 teachers, 12 schools, and 8 districts for this program. There were over 500 students enrolled." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "./../../graphics/enrollment_graphics_25-26/MSMap-25-26.png"><img src = "../../../graphics/enrollment_graphics_25-26/MSMap-25-26.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 12 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
 </table>
 
 
 
-<center> <a href = "../../../graphics/msgraphicmsc23.png" target = "blank_"> 2022-2023 middle school STEM Pathways non-high school credit enrollment data graphic</a> </center> <br>
+<center> <a href = "../../../graphics/enrollment_graphics_25-26/EnrollmentMiddleSchool-25-26.png" target = "blank_"> 2025-2026 middle school STEM Pathways non-high school credit enrollment data graphic</a> </center> <br>
 
 ## Middle School Credit Course Information
 <br>
