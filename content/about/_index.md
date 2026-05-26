@@ -87,7 +87,7 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 ## <b> Who Does LSU STEM Pathways? </b>
 <br>
-In 2024-25, we are serving 100 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
+In 2025-26, we are serving 116 schools who are offering high school and middle school LSU STEM Pathway courses. To see current participating schools, click the dropdown. 
 <br>
 <br>
 
