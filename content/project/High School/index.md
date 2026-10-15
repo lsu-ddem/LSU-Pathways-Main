@@ -58,6 +58,7 @@ Introduction to STEM Pathways and Careers is a Jumpstart 2.0 Basic Career Readin
 <br>
 {{< spoiler text="Introduction to STEM Pathways and Careers" >}}
 
+
 Introduction to STEM Pathways and Careers was developed for the Louisiana Department of Education through a partnership between Louisiana State University and the East Baton Rouge Parish School System, with partial funding from the National Science Foundation. This course is a high school credit basic career readiness course that counts on all STEM Pathways as well as towards traditional Jumpstart diplomas.  While the course is designed to be taken in high school, it is available to students as early as seventh grade. 
 
 This year long project-based course explores four main pathways of STEM education and possible careers in the fields of 1) Computing and Computer Science, 2) Pre-Engineering, 3) Digital Design and Emergent Media, and 4) Biomedical Sciences. This course is meant to expose students to these overarching concepts: 
