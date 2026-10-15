@@ -43,7 +43,7 @@ LSU Pathways for high school is a robust curriculum designed for in-depth study 
 <table>
   <tr>
     <td style="border: 0;"><a href ="../../../graphics/enrollment_graphics_25-26/EnrollmentHighSchool-25-26.png"> <img src = "../../../graphics/enrollment_graphics_25-26/EnrollmentHighSchool-25-26.png" alt = "This image shows that in 2025-26, LSU STEM Pathways enrolled 166 teachers, 72 schools, 41 districts, and offered 34 courses for this program. There were over 5400 unique students enrolled." width="550" height="650"></a></td>
-    <td style="border: 0;"><a href= "../../../graphics/hsmap.png"> <img src = "../../../graphics/enrollment_graphics_25-26/HSMap-25-26.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 72 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
+    <td style="border: 0;"><a href= "../../../graphics/enrollment_graphics_25-26/HSMap-25-26.png"> <img src = "../../../graphics/enrollment_graphics_25-26/HSMap-25-26.png" alt = "This image shows a map of Louisiana with the participating parishes highlighted in shades of yellow. The data shows that we are serving 72 schools this year. For more detailed information, please email stempathways@lsu.edu." width="550" height="650"></a></td>
     
   </tr>
 </table>
